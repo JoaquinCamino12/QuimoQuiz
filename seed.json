@@ -1,0 +1,4027 @@
+[
+  {
+    "textoPregunta": "¿En qué película de Quentin Tarantino aparece el famoso baile entre Uma Thurman y John Travolta?",
+    "respuestaCorrecta": "Pulp Fiction",
+    "opcionFalsa_1": "Kill Bill: Vol. 1",
+    "opcionFalsa_2": "Reservoir Dogs",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre de la inteligencia artificial en la película '2001: A Space Odyssey'?",
+    "respuestaCorrecta": "HAL 9000",
+    "opcionFalsa_1": "Skynet",
+    "opcionFalsa_2": "JARVIS",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actor interpreta a Iron Man en el Universo Cinematográfico de Marvel?",
+    "respuestaCorrecta": "Robert Downey Jr.",
+    "opcionFalsa_1": "Chris Evans",
+    "opcionFalsa_2": "Mark Ruffalo",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿En la serie 'Breaking Bad', ¿cuál es el alias de Walter White?",
+    "respuestaCorrecta": "Heisenberg",
+    "opcionFalsa_1": "Cap'n Cook",
+    "opcionFalsa_2": "Jesse Pinkman",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál de estas películas fue dirigida por Christopher Nolan?",
+    "respuestaCorrecta": "Inception",
+    "opcionFalsa_1": "The Godfather",
+    "opcionFalsa_2": "Star Wars",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película ganó el Oscar a la Mejor Película en 1994?",
+    "respuestaCorrecta": "Forrest Gump",
+    "opcionFalsa_1": "Pulp Fiction",
+    "opcionFalsa_2": "The Shawshank Redemption",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del protagonista en la saga de 'Harry Potter'?",
+    "respuestaCorrecta": "Harry Potter",
+    "opcionFalsa_1": "Ron Weasley",
+    "opcionFalsa_2": "Hermione Granger",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿En la serie 'Game of Thrones', de qué casa es Jon Snow?",
+    "respuestaCorrecta": "Casa Stark",
+    "opcionFalsa_1": "Casa Lannister",
+    "opcionFalsa_2": "Casa Targaryen",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué director es conocido por películas como 'E.T. el Extraterrestre' y 'Jurassic Park'?",
+    "respuestaCorrecta": "Steven Spielberg",
+    "opcionFalsa_1": "George Lucas",
+    "opcionFalsa_2": "James Cameron",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es la primera película de Pixar?",
+    "respuestaCorrecta": "Toy Story",
+    "opcionFalsa_1": "A Bug's Life",
+    "opcionFalsa_2": "Monsters, Inc.",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Quién interpreta a Katniss Everdeen en la saga 'Los Juegos del Hambre'?",
+    "respuestaCorrecta": "Jennifer Lawrence",
+    "opcionFalsa_1": "Emma Watson",
+    "opcionFalsa_2": "Shailene Woodley",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del león protagonista en 'El Rey León'?",
+    "respuestaCorrecta": "Simba",
+    "opcionFalsa_1": "Mufasa",
+    "opcionFalsa_2": "Scar",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "En 'Star Wars', ¿quién es el padre de Luke Skywalker?",
+    "respuestaCorrecta": "Darth Vader",
+    "opcionFalsa_1": "Obi-Wan Kenobi",
+    "opcionFalsa_2": "Emperador Palpatine",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2019 ganó el Oscar a la Mejor Película y fue la primera en lengua no inglesa en hacerlo?",
+    "respuestaCorrecta": "Parasite",
+    "opcionFalsa_1": "1917",
+    "opcionFalsa_2": "Joker",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cómo se llama el mejor amigo de Bob Esponja?",
+    "respuestaCorrecta": "Patricio Estrella",
+    "opcionFalsa_1": "Calamardo Tentáculos",
+    "opcionFalsa_2": "Don Cangrejo",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actor protagonizó la película 'Matrix' como Neo?",
+    "respuestaCorrecta": "Keanu Reeves",
+    "opcionFalsa_1": "Tom Cruise",
+    "opcionFalsa_2": "Brad Pitt",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿En la serie 'Friends', dónde trabaja Chandler Bing durante la mayor parte de la serie?",
+    "respuestaCorrecta": "Procesamiento de datos",
+    "opcionFalsa_1": "Actor",
+    "opcionFalsa_2": "Chef",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del director de la trilogía de 'El Señor de los Anillos'?",
+    "respuestaCorrecta": "Peter Jackson",
+    "opcionFalsa_1": "Guillermo del Toro",
+    "opcionFalsa_2": "Tim Burton",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué serie de televisión sigue las aventuras de un médico brillante pero cínico?",
+    "respuestaCorrecta": "House M.D.",
+    "opcionFalsa_1": "Grey's Anatomy",
+    "opcionFalsa_2": "The Good Doctor",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el título de la primera película de James Bond?",
+    "respuestaCorrecta": "Dr. No",
+    "opcionFalsa_1": "Goldfinger",
+    "opcionFalsa_2": "Desde Rusia con amor",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿En qué película de 2008 Heath Ledger interpretó magistralmente al Joker?",
+    "respuestaCorrecta": "The Dark Knight",
+    "opcionFalsa_1": "Batman Begins",
+    "opcionFalsa_2": "The Dark Knight Rises",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué serie de televisión trata sobre una familia que posee una empresa de pompas fúnebres?",
+    "respuestaCorrecta": "Six Feet Under",
+    "opcionFalsa_1": "The Sopranos",
+    "opcionFalsa_2": "Breaking Bad",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actor da vida al personaje de Jack Sparrow en la saga 'Piratas del Caribe'?",
+    "respuestaCorrecta": "Johnny Depp",
+    "opcionFalsa_1": "Orlando Bloom",
+    "opcionFalsa_2": "Geoffrey Rush",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿En la serie 'The Office', quién es el gerente regional de Dunder Mifflin?",
+    "respuestaCorrecta": "Michael Scott",
+    "opcionFalsa_1": "Jim Halpert",
+    "opcionFalsa_2": "Dwight Schrute",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de ciencia ficción de 1982 presenta a un adorable extraterrestre?",
+    "respuestaCorrecta": "E.T. el Extraterrestre",
+    "opcionFalsa_1": "Blade Runner",
+    "opcionFalsa_2": "The Thing",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del protagonista de la serie 'Dexter'?",
+    "respuestaCorrecta": "Dexter Morgan",
+    "opcionFalsa_1": "Debra Morgan",
+    "opcionFalsa_2": "Harry Morgan",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de animación de Disney se basa en un cuento de Hans Christian Andersen sobre una sirena?",
+    "respuestaCorrecta": "La Sirenita",
+    "opcionFalsa_1": "La Bella y la Bestia",
+    "opcionFalsa_2": "Aladdín",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Quién dirigió la trilogía de 'El Padrino'?",
+    "respuestaCorrecta": "Francis Ford Coppola",
+    "opcionFalsa_1": "Martin Scorsese",
+    "opcionFalsa_2": "Steven Spielberg",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿En 'Friends', cuál es la frase icónica de Joey Tribbiani?",
+    "respuestaCorrecta": "How you doin'?",
+    "opcionFalsa_1": "We were on a break!",
+    "opcionFalsa_2": "Could I BE any more...?",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 1997 presenta la historia de amor entre Jack y Rose en un famoso transatlántico?",
+    "respuestaCorrecta": "Titanic",
+    "opcionFalsa_1": "Pearl Harbor",
+    "opcionFalsa_2": "Romeo + Juliet",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del planeta natal de Superman?",
+    "respuestaCorrecta": "Krypton",
+    "opcionFalsa_1": "Vulcano",
+    "opcionFalsa_2": "Tatooine",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actriz ganó el Oscar a la Mejor Actriz por su papel en 'El Silencio de los Inocentes'?",
+    "respuestaCorrecta": "Jodie Foster",
+    "opcionFalsa_1": "Meryl Streep",
+    "opcionFalsa_2": "Julia Roberts",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cómo se llama el villano principal en la película de Disney 'El Rey León'?",
+    "respuestaCorrecta": "Scar",
+    "opcionFalsa_1": "Jafar",
+    "opcionFalsa_2": "Hades",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿En qué serie de televisión el personaje principal puede ver fantasmas?",
+    "respuestaCorrecta": "Medium",
+    "opcionFalsa_1": "Sobrenatural",
+    "opcionFalsa_2": "Buffy la Cazavampiros",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actor interpretó al personaje de Hannibal Lecter en 'El Silencio de los Inocentes'?",
+    "respuestaCorrecta": "Anthony Hopkins",
+    "opcionFalsa_1": "Jack Nicholson",
+    "opcionFalsa_2": "Morgan Freeman",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es la famosa frase que dice el personaje de Arnold Schwarzenegger en 'Terminator'?",
+    "respuestaCorrecta": "I'll be back",
+    "opcionFalsa_1": "Hasta la vista, baby",
+    "opcionFalsa_2": "Get to the chopper!",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de Martin Scorsese de 2019 reunió a Al Pacino y Robert De Niro?",
+    "respuestaCorrecta": "El Irlandés",
+    "opcionFalsa_1": "Casino",
+    "opcionFalsa_2": "Goodfellas",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿En qué ciudad ficticia está ambientada la mayor parte de la serie 'Los Simpson'?",
+    "respuestaCorrecta": "Springfield",
+    "opcionFalsa_1": "Shelbyville",
+    "opcionFalsa_2": "Capital City",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actriz protagonizó 'Come, reza, ama' y 'Erin Brockovich'?",
+    "respuestaCorrecta": "Julia Roberts",
+    "opcionFalsa_1": "Nicole Kidman",
+    "opcionFalsa_2": "Sandra Bullock",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del perro de Harry Potter?",
+    "respuestaCorrecta": "Padfoot",
+    "opcionFalsa_1": "Hedwig",
+    "opcionFalsa_2": "Crookshanks",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué director de cine es famoso por utilizar música pop y rock de los años 60 y 70 en sus bandas sonoras?",
+    "respuestaCorrecta": "Quentin Tarantino",
+    "opcionFalsa_1": "Tim Burton",
+    "opcionFalsa_2": "Wes Anderson",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿En la serie 'The Big Bang Theory', ¿cuál es el trabajo de Sheldon Cooper?",
+    "respuestaCorrecta": "Físico teórico",
+    "opcionFalsa_1": "Ingeniero espacial",
+    "opcionFalsa_2": "Astrofísico",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2014 dirigida por Alejandro González Iñárritu fue filmada para parecer una sola toma continua?",
+    "respuestaCorrecta": "Birdman",
+    "opcionFalsa_1": "1917",
+    "opcionFalsa_2": "Gravity",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Quién protagonizó la película de 1994 'El Cuervo'?",
+    "respuestaCorrecta": "Brandon Lee",
+    "opcionFalsa_1": "River Phoenix",
+    "opcionFalsa_2": "Heath Ledger",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué estudio de animación es conocido por películas como 'Mi Vecino Totoro' y 'El Viaje de Chihiro'?",
+    "respuestaCorrecta": "Studio Ghibli",
+    "opcionFalsa_1": "Pixar",
+    "opcionFalsa_2": "Aardman Animations",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actor interpretó al Capitán América en el Universo Cinematográfico de Marvel?",
+    "respuestaCorrecta": "Chris Evans",
+    "opcionFalsa_1": "Chris Hemsworth",
+    "opcionFalsa_2": "Jeremy Renner",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿En 'Juego de Tronos', ¿quién es conocido como el 'Matarreyes'?",
+    "respuestaCorrecta": "Jaime Lannister",
+    "opcionFalsa_1": "Tyrion Lannister",
+    "opcionFalsa_2": "Ned Stark",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del robot que ayuda a Wall-E en la película de Pixar?",
+    "respuestaCorrecta": "EVE",
+    "opcionFalsa_1": "M-O",
+    "opcionFalsa_2": "Auto",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué director es conocido por películas como 'La Naranja Mecánica' y '2001: Una Odisea del Espacio'?",
+    "respuestaCorrecta": "Stanley Kubrick",
+    "opcionFalsa_1": "Orson Welles",
+    "opcionFalsa_2": "Federico Fellini",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué serie de los 90 se desarrolla en una cafetería llamada Central Perk?",
+    "respuestaCorrecta": "Friends",
+    "opcionFalsa_1": "Seinfeld",
+    "opcionFalsa_2": "Frasier",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actor de Hollywood es famoso por su papel como el detective John McClane en 'Die Hard'?",
+    "respuestaCorrecta": "Bruce Willis",
+    "opcionFalsa_1": "Sylvester Stallone",
+    "opcionFalsa_2": "Jean-Claude Van Damme",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿En qué película el protagonista se da cuenta de que su vida es un reality show?",
+    "respuestaCorrecta": "The Truman Show",
+    "opcionFalsa_1": "Memento",
+    "opcionFalsa_2": "Brazil",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué personaje de Disney perdió su zapato de cristal en un baile?",
+    "respuestaCorrecta": "Cenicienta",
+    "opcionFalsa_1": "Bella",
+    "opcionFalsa_2": "Aurora",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actor interpreta a Neo en la saga 'Matrix'?",
+    "respuestaCorrecta": "Keanu Reeves",
+    "opcionFalsa_1": "Leonardo DiCaprio",
+    "opcionFalsa_2": "Tom Hanks",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del perro de la familia Griffin en la serie 'Padre de Familia'?",
+    "respuestaCorrecta": "Brian",
+    "opcionFalsa_1": "Stewie",
+    "opcionFalsa_2": "Meg",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué director es conocido por películas como 'Pulp Fiction', 'Reservoir Dogs' y 'Django Unchained'?",
+    "respuestaCorrecta": "Quentin Tarantino",
+    "opcionFalsa_1": "Christopher Nolan",
+    "opcionFalsa_2": "David Fincher",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el título de la secuela de 'Blade Runner'?",
+    "respuestaCorrecta": "Blade Runner 2049",
+    "opcionFalsa_1": "Blade Runner: The Final Cut",
+    "opcionFalsa_2": "Blade Runner: Neo",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Quién interpreta al personaje de Walter White en 'Breaking Bad'?",
+    "respuestaCorrecta": "Bryan Cranston",
+    "opcionFalsa_1": "Aaron Paul",
+    "opcionFalsa_2": "Bob Odenkirk",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de ciencia ficción de 2010 presenta el concepto de 'sueños dentro de sueños'?",
+    "respuestaCorrecta": "Inception",
+    "opcionFalsa_1": "The Prestige",
+    "opcionFalsa_2": "Interstellar",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿En la saga 'Star Wars', ¿quién es el maestro Jedi de Anakin Skywalker?",
+    "respuestaCorrecta": "Obi-Wan Kenobi",
+    "opcionFalsa_1": "Yoda",
+    "opcionFalsa_2": "Mace Windu",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actor protagonizó la película 'Forrest Gump'?",
+    "respuestaCorrecta": "Tom Hanks",
+    "opcionFalsa_1": "Denzel Washington",
+    "opcionFalsa_2": "Brad Pitt",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre de la serie animada sobre un científico excéntrico y su nieto?",
+    "respuestaCorrecta": "Rick y Morty",
+    "opcionFalsa_1": "BoJack Horseman",
+    "opcionFalsa_2": "South Park",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película animada de Disney se desarrolla en un reino de hielo y nieve?",
+    "respuestaCorrecta": "Frozen",
+    "opcionFalsa_1": "Tangled",
+    "opcionFalsa_2": "Moana",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Quién es el archienemigo de Batman, conocido por su risa maníaca?",
+    "respuestaCorrecta": "El Joker",
+    "opcionFalsa_1": "El Pingüino",
+    "opcionFalsa_2": "Dos Caras",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actor interpretó a Wolverine en la saga 'X-Men'?",
+    "respuestaCorrecta": "Hugh Jackman",
+    "opcionFalsa_1": "Ryan Reynolds",
+    "opcionFalsa_2": "Christian Bale",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 1975 trata sobre un tiburón blanco gigante que aterroriza una playa?",
+    "respuestaCorrecta": "Jaws (Tiburón)",
+    "opcionFalsa_1": "Alien",
+    "opcionFalsa_2": "Piraña",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Quién es el creador de la serie de televisión 'Los Soprano'?",
+    "respuestaCorrecta": "David Chase",
+    "opcionFalsa_1": "Vince Gilligan",
+    "opcionFalsa_2": "Matthew Weiner",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del protagonista de 'Indiana Jones'?",
+    "respuestaCorrecta": "Henry Jones Jr.",
+    "opcionFalsa_1": "Allan Quatermain",
+    "opcionFalsa_2": "Rick O'Connell",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿En qué serie un grupo de supervivientes queda varado en una misteriosa isla?",
+    "respuestaCorrecta": "Lost (Perdidos)",
+    "opcionFalsa_1": "Prison Break",
+    "opcionFalsa_2": "The 100",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actor interpretó a James Bond antes que Daniel Craig?",
+    "respuestaCorrecta": "Pierce Brosnan",
+    "opcionFalsa_1": "Roger Moore",
+    "opcionFalsa_2": "Sean Connery",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el apodo del villano en 'El Caballero Oscuro' que dice: 'Why so serious?'?",
+    "respuestaCorrecta": "El Joker",
+    "opcionFalsa_1": "Bane",
+    "opcionFalsa_2": "El Espantapájaros",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de Disney trata sobre un joven que se convierte en emperador y luego en llama?",
+    "respuestaCorrecta": "The Emperor's New Groove (Las locuras del emperador)",
+    "opcionFalsa_1": "Hércules",
+    "opcionFalsa_2": "Atlantis",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Quién dirigió la película de terror y ciencia ficción 'Alien, el octavo pasajero'?",
+    "respuestaCorrecta": "Ridley Scott",
+    "opcionFalsa_1": "James Cameron",
+    "opcionFalsa_2": "George Lucas",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actriz ganó el Oscar por su papel en 'Black Swan' (El cisne negro)?",
+    "respuestaCorrecta": "Natalie Portman",
+    "opcionFalsa_1": "Emma Stone",
+    "opcionFalsa_2": "Jennifer Lawrence",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actor es el protagonista de la serie 'Sherlock', de la BBC?",
+    "respuestaCorrecta": "Benedict Cumberbatch",
+    "opcionFalsa_1": "Robert Downey Jr.",
+    "opcionFalsa_2": "Jon Hamm",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del androide en la película 'Blade Runner'?",
+    "respuestaCorrecta": "Replicante",
+    "opcionFalsa_1": "Terminator",
+    "opcionFalsa_2": "Cylon",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 1999 es famosa por su giro final, con el personaje de Bruce Willis?",
+    "respuestaCorrecta": "The Sixth Sense (El sexto sentido)",
+    "opcionFalsa_1": "Fight Club",
+    "opcionFalsa_2": "The Usual Suspects",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del protagonista que se queda atrapado en el tiempo en 'Groundhog Day' (Atrapado en el tiempo)?",
+    "respuestaCorrecta": "Phil Connors",
+    "opcionFalsa_1": "Bill Murray",
+    "opcionFalsa_2": "Ned Ryerson",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película es la primera de la trilogía original de 'Star Wars' (Episodio IV)?",
+    "respuestaCorrecta": "A New Hope",
+    "opcionFalsa_1": "The Phantom Menace",
+    "opcionFalsa_2": "The Empire Strikes Back",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2016 ganó el Oscar a la Mejor Película, aunque inicialmente se anunció un error en el sobre?",
+    "respuestaCorrecta": "Moonlight",
+    "opcionFalsa_1": "La La Land",
+    "opcionFalsa_2": "Manchester by the Sea",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del colegio de magia en la saga 'Harry Potter'?",
+    "respuestaCorrecta": "Hogwarts",
+    "opcionFalsa_1": "Beauxbatons",
+    "opcionFalsa_2": "Durmstrang",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿En la serie 'The Crown', ¿quién fue la actriz que interpretó a la Reina Isabel II en las primeras temporadas?",
+    "respuestaCorrecta": "Claire Foy",
+    "opcionFalsa_1": "Olivia Colman",
+    "opcionFalsa_2": "Imelda Staunton",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actor interpretó al personaje de Tony Montana en 'Scarface'?",
+    "respuestaCorrecta": "Al Pacino",
+    "opcionFalsa_1": "Robert De Niro",
+    "opcionFalsa_2": "Joe Pesci",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es la frase que usa Buzz Lightyear en la saga 'Toy Story'?",
+    "respuestaCorrecta": "¡Al infinito y más allá!",
+    "opcionFalsa_1": "¡Hay una serpiente en mi bota!",
+    "opcionFalsa_2": "Yo soy tu amigo fiel",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de Bong Joon-ho, anterior a 'Parasite', trata sobre una criatura mutante en el río Han?",
+    "respuestaCorrecta": "The Host (El huésped)",
+    "opcionFalsa_1": "Memories of Murder",
+    "opcionFalsa_2": "Snowpiercer",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Quién es el personaje principal en la película 'Amelie'?",
+    "respuestaCorrecta": "Amélie Poulain",
+    "opcionFalsa_1": "Nino Quincampoix",
+    "opcionFalsa_2": "Raymond Dufayel",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué director es conocido por películas mudas como 'Tiempos modernos' y 'El gran dictador'?",
+    "respuestaCorrecta": "Charles Chaplin",
+    "opcionFalsa_1": "Buster Keaton",
+    "opcionFalsa_2": "Fritz Lang",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del barco de Han Solo en 'Star Wars'?",
+    "respuestaCorrecta": "Halcón Milenario",
+    "opcionFalsa_1": "Estrella de la Muerte",
+    "opcionFalsa_2": "Destructor Estelar",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué serie de televisión sigue a un grupo de jóvenes que exploran el 'Mundo del Revés'?",
+    "respuestaCorrecta": "Stranger Things",
+    "opcionFalsa_1": "The Umbrella Academy",
+    "opcionFalsa_2": "Dark",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actor interpretó a Ron Weasley en la saga 'Harry Potter'?",
+    "respuestaCorrecta": "Rupert Grint",
+    "opcionFalsa_1": "Daniel Radcliffe",
+    "opcionFalsa_2": "Tom Felton",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del planeta de origen de Optimus Prime en 'Transformers'?",
+    "respuestaCorrecta": "Cybertron",
+    "opcionFalsa_1": "Tierra",
+    "opcionFalsa_2": "Marte",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actor es el protagonista de la película 'El Renacido'?",
+    "respuestaCorrecta": "Leonardo DiCaprio",
+    "opcionFalsa_1": "Tom Hardy",
+    "opcionFalsa_2": "Matt Damon",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el título de la película de 1999 sobre un club de lucha clandestino?",
+    "respuestaCorrecta": "Fight Club",
+    "opcionFalsa_1": "American History X",
+    "opcionFalsa_2": "The Green Mile",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué serie de televisión fue una parodia de 'Baywatch' ambientada en una piscina municipal?",
+    "respuestaCorrecta": "Vigilantes de la playa",
+    "opcionFalsa_1": "Aquaman",
+    "opcionFalsa_2": "Miami Vice",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de Disney de 1942 presenta a un cervatillo huérfano?",
+    "respuestaCorrecta": "Bambi",
+    "opcionFalsa_1": "Dumbo",
+    "opcionFalsa_2": "Pinocho",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Quién es la directora de la película 'Lady Bird' y 'Mujercitas' (2019)?",
+    "respuestaCorrecta": "Greta Gerwig",
+    "opcionFalsa_1": "Kathryn Bigelow",
+    "opcionFalsa_2": "Sofia Coppola",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del barco pirata de Jack Sparrow en 'Piratas del Caribe'?",
+    "respuestaCorrecta": "Perla Negra",
+    "opcionFalsa_1": "Venganza de la Reina Ana",
+    "opcionFalsa_2": "Holandés Errante",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actor es famoso por interpretar a Thor en el UCM?",
+    "respuestaCorrecta": "Chris Hemsworth",
+    "opcionFalsa_1": "Chris Evans",
+    "opcionFalsa_2": "Mark Ruffalo",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿En 'Harry Potter', ¿cuál es el nombre del elfo doméstico que sirve a la familia Malfoy?",
+    "respuestaCorrecta": "Dobby",
+    "opcionFalsa_1": "Kreacher",
+    "opcionFalsa_2": "Winky",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 1984 trata sobre un grupo de científicos que cazan fantasmas?",
+    "respuestaCorrecta": "Ghostbusters",
+    "opcionFalsa_1": "Gremlins",
+    "opcionFalsa_2": "The Goonies",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué personaje de DC Comics es conocido como 'El Hombre de Acero'?",
+    "respuestaCorrecta": "Superman",
+    "opcionFalsa_1": "Batman",
+    "opcionFalsa_2": "Flash",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actriz protagonizó 'La La Land' y 'Cruella'?",
+    "respuestaCorrecta": "Emma Stone",
+    "opcionFalsa_1": "Jennifer Lawrence",
+    "opcionFalsa_2": "Scarlett Johansson",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del detective consultor que reside en el 221B de Baker Street?",
+    "respuestaCorrecta": "Sherlock Holmes",
+    "opcionFalsa_1": "Hercule Poirot",
+    "opcionFalsa_2": "Miss Marple",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2013 dirigida por Alfonso Cuarón se desarrolla casi enteramente en el espacio?",
+    "respuestaCorrecta": "Gravity",
+    "opcionFalsa_1": "Interstellar",
+    "opcionFalsa_2": "The Martian",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿En 'Breaking Bad', ¿cuál es el segundo trabajo que Walter White toma para ganar dinero?",
+    "respuestaCorrecta": "Trabaja en un lavadero de coches",
+    "opcionFalsa_1": "Profesor a tiempo parcial",
+    "opcionFalsa_2": "Repartidor de pizza",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de ciencia ficción de 1982 presenta a un director de corporación que es un replicante?",
+    "respuestaCorrecta": "Blade Runner",
+    "opcionFalsa_1": "Tron",
+    "opcionFalsa_2": "The Thing",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del robot que viaja en el tiempo para asesinar a Sarah Connor en la primera película de 'Terminator'?",
+    "respuestaCorrecta": "T-800",
+    "opcionFalsa_1": "T-1000",
+    "opcionFalsa_2": "Skynet",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de Pixar se desarrolla principalmente dentro de la mente de una niña llamada Riley?",
+    "respuestaCorrecta": "Inside Out (Del revés)",
+    "opcionFalsa_1": "Coco",
+    "opcionFalsa_2": "Up",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿En 'Game of Thrones', ¿cómo se llama el continente oriental?",
+    "respuestaCorrecta": "Essos",
+    "opcionFalsa_1": "Westeros",
+    "opcionFalsa_2": "Sothoryos",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actor interpretó al personaje de Gandalf en la trilogía de 'El Señor de los Anillos'?",
+    "respuestaCorrecta": "Ian McKellen",
+    "opcionFalsa_1": "Christopher Lee",
+    "opcionFalsa_2": "Hugo Weaving",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué serie de televisión se centra en la vida de un grupo de médicos en el Hospital Seattle Grace?",
+    "respuestaCorrecta": "Grey's Anatomy",
+    "opcionFalsa_1": "ER",
+    "opcionFalsa_2": "Chicago Hope",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actor protagonizó la película 'Un paseo para recordar'?",
+    "respuestaCorrecta": "Shane West",
+    "opcionFalsa_1": "Ryan Gosling",
+    "opcionFalsa_2": "Channing Tatum",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el título de la película de animación de Disney sobre una princesa guerrera polinesia?",
+    "respuestaCorrecta": "Moana",
+    "opcionFalsa_1": "Frozen",
+    "opcionFalsa_2": "Brave",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Quién es el actor que interpretó a Tony Stark en el Universo Cinematográfico de Marvel?",
+    "respuestaCorrecta": "Robert Downey Jr.",
+    "opcionFalsa_1": "Chris Evans",
+    "opcionFalsa_2": "Mark Ruffalo",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿En 'Friends', ¿qué personaje trabaja como chef profesional?",
+    "respuestaCorrecta": "Monica Geller",
+    "opcionFalsa_1": "Rachel Green",
+    "opcionFalsa_2": "Phoebe Buffay",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué director es conocido por el uso de efectos prácticos y marionetas, como en 'Cristal Oscuro'?",
+    "respuestaCorrecta": "Jim Henson",
+    "opcionFalsa_1": "Peter Jackson",
+    "opcionFalsa_2": "Tim Burton",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actor de cine de acción es conocido por la frase 'Yippee-ki-yay'?",
+    "respuestaCorrecta": "Bruce Willis",
+    "opcionFalsa_1": "Sylvester Stallone",
+    "opcionFalsa_2": "Arnold Schwarzenegger",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del protagonista de 'Pulp Fiction' que recita un pasaje bíblico antes de un asesinato?",
+    "respuestaCorrecta": "Jules Winnfield",
+    "opcionFalsa_1": "Vincent Vega",
+    "opcionFalsa_2": "Butch Coolidge",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué serie de televisión es una precuela de 'Breaking Bad' y se centra en un abogado?",
+    "respuestaCorrecta": "Better Call Saul",
+    "opcionFalsa_1": "The Wire",
+    "opcionFalsa_2": "Ozark",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actriz interpretó a Hermione Granger en la saga 'Harry Potter'?",
+    "respuestaCorrecta": "Emma Watson",
+    "opcionFalsa_1": "Evanna Lynch",
+    "opcionFalsa_2": "Bonnie Wright",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 1985 trata sobre un adolescente que viaja en el tiempo en un DeLorean?",
+    "respuestaCorrecta": "Back to the Future (Regreso al futuro)",
+    "opcionFalsa_1": "Explorers",
+    "opcionFalsa_2": "The Philadelphia Experiment",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Quién dirigió la película animada 'El Viaje de Chihiro'?",
+    "respuestaCorrecta": "Hayao Miyazaki",
+    "opcionFalsa_1": "Isao Takahata",
+    "opcionFalsa_2": "Mamoru Hosoda",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué personaje de Disney es una costurera que hace vestidos para animales?",
+    "respuestaCorrecta": "Aurora",
+    "opcionFalsa_1": "Ariel",
+    "opcionFalsa_2": "Blancanieves",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es la capital de Australia?",
+    "respuestaCorrecta": "Canberra",
+    "opcionFalsa_1": "Sídney",
+    "opcionFalsa_2": "Melbourne",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Quién escribió 'Cien años de soledad'?",
+    "respuestaCorrecta": "Gabriel García Márquez",
+    "opcionFalsa_1": "Mario Vargas Llosa",
+    "opcionFalsa_2": "Julio Cortázar",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿En qué país se encuentra la Torre de Pisa?",
+    "respuestaCorrecta": "Italia",
+    "opcionFalsa_1": "Francia",
+    "opcionFalsa_2": "España",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el río más largo del mundo?",
+    "respuestaCorrecta": "El Nilo",
+    "opcionFalsa_1": "El Amazonas",
+    "opcionFalsa_2": "El Misisipi",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Quién pintó la Mona Lisa?",
+    "respuestaCorrecta": "Leonardo da Vinci",
+    "opcionFalsa_1": "Miguel Ángel",
+    "opcionFalsa_2": "Rafael",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿En qué año llegó el hombre a la luna?",
+    "respuestaCorrecta": "1969",
+    "opcionFalsa_1": "1965",
+    "opcionFalsa_2": "1972",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es la montaña más alta del mundo?",
+    "respuestaCorrecta": "El Everest",
+    "opcionFalsa_1": "El K2",
+    "opcionFalsa_2": "El Kangchenjunga",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Quién fue el primer presidente de los Estados Unidos?",
+    "respuestaCorrecta": "George Washington",
+    "opcionFalsa_1": "Thomas Jefferson",
+    "opcionFalsa_2": "Abraham Lincoln",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el océano más grande del mundo?",
+    "respuestaCorrecta": "El Océano Pacífico",
+    "opcionFalsa_1": "El Océano Atlántico",
+    "opcionFalsa_2": "El Océano Índico",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿En qué ciudad se encuentran las ruinas de Machu Picchu?",
+    "respuestaCorrecta": "Cusco",
+    "opcionFalsa_1": "Lima",
+    "opcionFalsa_2": "Arequipa",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es la moneda oficial de Japón?",
+    "respuestaCorrecta": "Yen",
+    "opcionFalsa_1": "Won",
+    "opcionFalsa_2": "Yuan",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Quién escribió 'Don Quijote de la Mancha'?",
+    "respuestaCorrecta": "Miguel de Cervantes",
+    "opcionFalsa_1": "Lope de Vega",
+    "opcionFalsa_2": "Francisco de Quevedo",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿En qué continente se encuentra Egipto?",
+    "respuestaCorrecta": "África",
+    "opcionFalsa_1": "Asia",
+    "opcionFalsa_2": "Europa",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el país más poblado del mundo?",
+    "respuestaCorrecta": "China",
+    "opcionFalsa_1": "India",
+    "opcionFalsa_2": "Estados Unidos",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Quién fue el líder de la Reforma Protestante?",
+    "respuestaCorrecta": "Martín Lutero",
+    "opcionFalsa_1": "Juan Calvino",
+    "opcionFalsa_2": "Enrique VIII",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es la capital de Canadá?",
+    "respuestaCorrecta": "Ottawa",
+    "opcionFalsa_1": "Toronto",
+    "opcionFalsa_2": "Vancouver",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿En qué museo se encuentra la 'Venus de Milo'?",
+    "respuestaCorrecta": "Museo del Louvre",
+    "opcionFalsa_1": "Museo del Prado",
+    "opcionFalsa_2": "Museo Británico",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué civilización construyó las pirámides de Giza?",
+    "respuestaCorrecta": "Los antiguos egipcios",
+    "opcionFalsa_1": "Los mayas",
+    "opcionFalsa_2": "Los romanos",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el idioma más hablado en el mundo por número de hablantes nativos?",
+    "respuestaCorrecta": "Chino mandarín",
+    "opcionFalsa_1": "Español",
+    "opcionFalsa_2": "Inglés",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Quién descubrió América en 1492?",
+    "respuestaCorrecta": "Cristóbal Colón",
+    "opcionFalsa_1": "Américo Vespucio",
+    "opcionFalsa_2": "Hernán Cortés",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál de estos países no pertenece a la Unión Europea?",
+    "respuestaCorrecta": "Suiza",
+    "opcionFalsa_1": "Polonia",
+    "opcionFalsa_2": "Hungría",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el libro más vendido de todos los tiempos, sin contar textos religiosos?",
+    "respuestaCorrecta": "Don Quijote de la Mancha",
+    "opcionFalsa_1": "Historia de dos ciudades",
+    "opcionFalsa_2": "El Señor de los Anillos",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Quién fue la primera mujer en ganar un Premio Nobel?",
+    "respuestaCorrecta": "Marie Curie",
+    "opcionFalsa_1": "Rosalind Franklin",
+    "opcionFalsa_2": "Ada Lovelace",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el desierto más grande y caliente del mundo?",
+    "respuestaCorrecta": "El Sahara",
+    "opcionFalsa_1": "El de Gobi",
+    "opcionFalsa_2": "La Antártida (desierto polar)",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿En qué deporte se utiliza un 'puck'?",
+    "respuestaCorrecta": "Hockey sobre hielo",
+    "opcionFalsa_1": "Cricket",
+    "opcionFalsa_2": "Bádminton",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué famoso monumento parisino fue diseñado por Gustave Eiffel?",
+    "respuestaCorrecta": "La Torre Eiffel",
+    "opcionFalsa_1": "Arco del Triunfo",
+    "opcionFalsa_2": "Catedral de Notre Dame",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene más husos horarios?",
+    "respuestaCorrecta": "Francia",
+    "opcionFalsa_1": "Rusia",
+    "opcionFalsa_2": "China",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso cuadro de Edvard Munch que representa la ansiedad?",
+    "respuestaCorrecta": "El Grito",
+    "opcionFalsa_1": "La Noche Estrellada",
+    "opcionFalsa_2": "Guernica",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué metal precioso es el más denso?",
+    "respuestaCorrecta": "Osmio",
+    "opcionFalsa_1": "Platino",
+    "opcionFalsa_2": "Oro",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿De qué país fue líder Mahatma Gandhi?",
+    "respuestaCorrecta": "India",
+    "opcionFalsa_1": "Sudáfrica",
+    "opcionFalsa_2": "Reino Unido",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre de la famosa plaza en Beijing, China?",
+    "respuestaCorrecta": "Plaza de Tiananmén",
+    "opcionFalsa_1": "Plaza Roja",
+    "opcionFalsa_2": "Plaza Tahrir",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué ciudad es conocida como la 'Ciudad Eterna'?",
+    "respuestaCorrecta": "Roma",
+    "opcionFalsa_1": "París",
+    "opcionFalsa_2": "Atenas",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué escritor francés escribió 'Los Miserables'?",
+    "respuestaCorrecta": "Victor Hugo",
+    "opcionFalsa_1": "Alexandre Dumas",
+    "opcionFalsa_2": "Émile Zola",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el continente más frío y seco del mundo?",
+    "respuestaCorrecta": "La Antártida",
+    "opcionFalsa_1": "Groenlandia",
+    "opcionFalsa_2": "Asia",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿A qué país pertenece la provincia de Quebec?",
+    "respuestaCorrecta": "Canadá",
+    "opcionFalsa_1": "Estados Unidos",
+    "opcionFalsa_2": "Francia",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué instrumento musical está asociado a Wolfgang Amadeus Mozart?",
+    "respuestaCorrecta": "El piano",
+    "opcionFalsa_1": "El violín",
+    "opcionFalsa_2": "La flauta",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del cuerpo de agua que separa Europa de África?",
+    "respuestaCorrecta": "Estrecho de Gibraltar",
+    "opcionFalsa_1": "Canal de Suez",
+    "opcionFalsa_2": "Mar Negro",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el único mamífero que puede volar?",
+    "respuestaCorrecta": "El murciélago",
+    "opcionFalsa_1": "El planeador de azúcar",
+    "opcionFalsa_2": "La ardilla voladora",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el color de la caja negra de los aviones?",
+    "respuestaCorrecta": "Naranja o Rojo brillante",
+    "opcionFalsa_1": "Negro",
+    "opcionFalsa_2": "Amarillo",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿En qué año cayó el Muro de Berlín?",
+    "respuestaCorrecta": "1989",
+    "opcionFalsa_1": "1991",
+    "opcionFalsa_2": "1985",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre de la capa protectora de la Tierra que filtra los rayos ultravioleta?",
+    "respuestaCorrecta": "Capa de ozono",
+    "opcionFalsa_1": "Troposfera",
+    "opcionFalsa_2": "Ionosfera",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Quién fue el famoso filósofo griego maestro de Platón?",
+    "respuestaCorrecta": "Sócrates",
+    "opcionFalsa_1": "Aristóteles",
+    "opcionFalsa_2": "Pitágoras",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre de la famosa ciudad de piedra construida por los nabateos?",
+    "respuestaCorrecta": "Petra",
+    "opcionFalsa_1": "Palmira",
+    "opcionFalsa_2": "Babilonia",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué papa es el actual jefe de la Iglesia Católica?",
+    "respuestaCorrecta": "Papa Francisco",
+    "opcionFalsa_1": "Papa Benedicto XVI",
+    "opcionFalsa_2": "Papa Juan Pablo II",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el país más pequeño del mundo por área?",
+    "respuestaCorrecta": "Ciudad del Vaticano",
+    "opcionFalsa_1": "Mónaco",
+    "opcionFalsa_2": "Nauru",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿En qué año se disolvió la Unión Soviética?",
+    "respuestaCorrecta": "1991",
+    "opcionFalsa_1": "1989",
+    "opcionFalsa_2": "1975",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es la capital de Tailandia?",
+    "respuestaCorrecta": "Bangkok",
+    "opcionFalsa_1": "Hanoi",
+    "opcionFalsa_2": "Kuala Lumpur",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué famoso monumento fue un regalo de Francia a Estados Unidos?",
+    "respuestaCorrecta": "Estatua de la Libertad",
+    "opcionFalsa_1": "Monte Rushmore",
+    "opcionFalsa_2": "Gateway Arch",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué se celebra el 14 de julio en Francia?",
+    "respuestaCorrecta": "La Toma de la Bastilla",
+    "opcionFalsa_1": "El Día de la Victoria",
+    "opcionFalsa_2": "Día de la Unidad",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Quién fue el famoso inventor que desarrolló la bombilla eléctrica funcional y el fonógrafo?",
+    "respuestaCorrecta": "Thomas Edison",
+    "opcionFalsa_1": "Nikola Tesla",
+    "opcionFalsa_2": "Alexander Graham Bell",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es la danza nacional de España?",
+    "respuestaCorrecta": "El Flamenco",
+    "opcionFalsa_1": "La Sardana",
+    "opcionFalsa_2": "La Jota",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre de la famosa cordillera que atraviesa América del Sur?",
+    "respuestaCorrecta": "Los Andes",
+    "opcionFalsa_1": "Los Alpes",
+    "opcionFalsa_2": "Las Montañas Rocosas",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué escritor es el autor de 'Romeo y Julieta'?",
+    "respuestaCorrecta": "William Shakespeare",
+    "opcionFalsa_1": "Charles Dickens",
+    "opcionFalsa_2": "Jane Austen",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿De qué color se pone el papel de tornasol en presencia de una base?",
+    "respuestaCorrecta": "Azul",
+    "opcionFalsa_1": "Rojo",
+    "opcionFalsa_2": "Verde",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el animal terrestre más rápido del mundo?",
+    "respuestaCorrecta": "El guepardo",
+    "opcionFalsa_1": "El león",
+    "opcionFalsa_2": "El caballo",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el símbolo del sol en la mitología griega?",
+    "respuestaCorrecta": "Apolo",
+    "opcionFalsa_1": "Zeus",
+    "opcionFalsa_2": "Hades",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el metal más abundante en la corteza terrestre?",
+    "respuestaCorrecta": "Aluminio",
+    "opcionFalsa_1": "Hierro",
+    "opcionFalsa_2": "Oro",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué famoso físico formuló la Ley de la Gravitación Universal?",
+    "respuestaCorrecta": "Isaac Newton",
+    "opcionFalsa_1": "Albert Einstein",
+    "opcionFalsa_2": "Galileo Galilei",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del puente colgante que une San Francisco y Marin County?",
+    "respuestaCorrecta": "Golden Gate",
+    "opcionFalsa_1": "Brooklyn Bridge",
+    "opcionFalsa_2": "Tower Bridge",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué se celebra en Estados Unidos el cuarto jueves de noviembre?",
+    "respuestaCorrecta": "Día de Acción de Gracias",
+    "opcionFalsa_1": "Día de la Independencia",
+    "opcionFalsa_2": "Día de los Veteranos",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso cuadro de Vincent van Gogh que muestra un paisaje nocturno en Saint-Rémy-de-Provence?",
+    "respuestaCorrecta": "La noche estrellada",
+    "opcionFalsa_1": "Los girasoles",
+    "opcionFalsa_2": "Autorretrato con oreja vendada",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿En qué país se encuentra el famoso Coliseo Romano?",
+    "respuestaCorrecta": "Italia",
+    "opcionFalsa_1": "Grecia",
+    "opcionFalsa_2": "Francia",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué idioma se habla en Brasil?",
+    "respuestaCorrecta": "Portugués",
+    "opcionFalsa_1": "Español",
+    "opcionFalsa_2": "Francés",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué escritora británica creó el personaje de Jane Eyre?",
+    "respuestaCorrecta": "Charlotte Brontë",
+    "opcionFalsa_1": "Jane Austen",
+    "opcionFalsa_2": "Emily Brontë",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del conjunto de islas conocido como el archipiélago de Hawái?",
+    "respuestaCorrecta": "Hawái",
+    "opcionFalsa_1": "Polinesia Francesa",
+    "opcionFalsa_2": "Las Maldivas",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el gas que produce la efervescencia en las bebidas carbonatadas?",
+    "respuestaCorrecta": "Dióxido de carbono",
+    "opcionFalsa_1": "Nitrógeno",
+    "opcionFalsa_2": "Oxígeno",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Quién fue la emperatriz de China durante la dinastía Qing conocida por su fuerte influencia política?",
+    "respuestaCorrecta": "Cixi",
+    "opcionFalsa_1": "Wu Zetian",
+    "opcionFalsa_2": "Wang Zhaojun",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué ciudad alberga la sede de la Organización de las Naciones Unidas (ONU)?",
+    "respuestaCorrecta": "Nueva York",
+    "opcionFalsa_1": "Ginebra",
+    "opcionFalsa_2": "Londres",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el río más caudaloso del mundo?",
+    "respuestaCorrecta": "El Amazonas",
+    "opcionFalsa_1": "El Nilo",
+    "opcionFalsa_2": "El Misisipi",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Quién es la autora de la novela 'Orgullo y prejuicio'?",
+    "respuestaCorrecta": "Jane Austen",
+    "opcionFalsa_1": "Louisa May Alcott",
+    "opcionFalsa_2": "Virginia Woolf",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿En qué país se encuentra el Monte Fuji?",
+    "respuestaCorrecta": "Japón",
+    "opcionFalsa_1": "China",
+    "opcionFalsa_2": "Corea del Sur",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué deporte inventó James Naismith en 1891?",
+    "respuestaCorrecta": "Baloncesto",
+    "opcionFalsa_1": "Fútbol americano",
+    "opcionFalsa_2": "Voleibol",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué instrumento es la base de la música clásica india, con forma de calabaza y mástil largo?",
+    "respuestaCorrecta": "Sitar",
+    "opcionFalsa_1": "Sarod",
+    "opcionFalsa_2": "Tabla",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso cuadro de Salvador Dalí que muestra relojes derritiéndose?",
+    "respuestaCorrecta": "La persistencia de la memoria",
+    "opcionFalsa_1": "El elefante de Celebes",
+    "opcionFalsa_2": "Sueño causado por el vuelo de una abeja",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el hueso más largo del cuerpo humano?",
+    "respuestaCorrecta": "El fémur",
+    "opcionFalsa_1": "La tibia",
+    "opcionFalsa_2": "El húmero",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Quién fue la reina de Egipto, amante de Julio César y Marco Antonio?",
+    "respuestaCorrecta": "Cleopatra",
+    "opcionFalsa_1": "Nefertiti",
+    "opcionFalsa_2": "Hatshepsut",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué premio se otorga anualmente por logros excepcionales en periodismo, literatura y composición musical en Estados Unidos?",
+    "respuestaCorrecta": "Premio Pulitzer",
+    "opcionFalsa_1": "Premio Óscar",
+    "opcionFalsa_2": "Premio Grammy",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es la capital de Nueva Zelanda?",
+    "respuestaCorrecta": "Wellington",
+    "opcionFalsa_1": "Auckland",
+    "opcionFalsa_2": "Christchurch",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué filósofo griego dijo la famosa frase 'Solo sé que no sé nada'?",
+    "respuestaCorrecta": "Sócrates",
+    "opcionFalsa_1": "Platón",
+    "opcionFalsa_2": "Aristóteles",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué tipo de gobierno tiene Canadá?",
+    "respuestaCorrecta": "Monarquía constitucional parlamentaria",
+    "opcionFalsa_1": "República presidencialista",
+    "opcionFalsa_2": "Monarquía absoluta",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué famoso edificio de Londres alberga el Big Ben (la campana)?",
+    "respuestaCorrecta": "Palacio de Westminster",
+    "opcionFalsa_1": "Torre de Londres",
+    "opcionFalsa_2": "Buckingham Palace",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del proceso por el cual las plantas pierden agua a través de las hojas?",
+    "respuestaCorrecta": "Transpiración",
+    "opcionFalsa_1": "Evaporación",
+    "opcionFalsa_2": "Respiración",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué explorador noruego fue el primero en llegar al Polo Sur?",
+    "respuestaCorrecta": "Roald Amundsen",
+    "opcionFalsa_1": "Robert Falcon Scott",
+    "opcionFalsa_2": "Ernest Shackleton",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿En qué año se firmó la Declaración de Independencia de los Estados Unidos?",
+    "respuestaCorrecta": "1776",
+    "opcionFalsa_1": "1789",
+    "opcionFalsa_2": "1765",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es la capital de Marruecos?",
+    "respuestaCorrecta": "Rabat",
+    "opcionFalsa_1": "Casablanca",
+    "opcionFalsa_2": "Marrakech",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué famoso arquitecto diseñó la Sagrada Familia en Barcelona?",
+    "respuestaCorrecta": "Antoni Gaudí",
+    "opcionFalsa_1": "Santiago Calatrava",
+    "opcionFalsa_2": "Frank Lloyd Wright",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Quién fue la líder del movimiento por los derechos civiles que se negó a ceder su asiento en un autobús en 1955?",
+    "respuestaCorrecta": "Rosa Parks",
+    "opcionFalsa_1": "Harriet Tubman",
+    "opcionFalsa_2": "Coretta Scott King",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es la capital de Alemania?",
+    "respuestaCorrecta": "Berlín",
+    "opcionFalsa_1": "Múnich",
+    "opcionFalsa_2": "Fráncfort",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué emperador romano legalizó el cristianismo?",
+    "respuestaCorrecta": "Constantino I",
+    "opcionFalsa_1": "Nerón",
+    "opcionFalsa_2": "Augusto",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué vitamina se obtiene principalmente de la exposición a la luz solar?",
+    "respuestaCorrecta": "Vitamina D",
+    "opcionFalsa_1": "Vitamina C",
+    "opcionFalsa_2": "Vitamina A",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el símbolo químico de la plata?",
+    "respuestaCorrecta": "Ag",
+    "opcionFalsa_1": "Au",
+    "opcionFalsa_2": "Pt",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Quién es considerado el padre de la historia?",
+    "respuestaCorrecta": "Heródoto",
+    "opcionFalsa_1": "Tucídides",
+    "opcionFalsa_2": "Plutarco",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del canal artificial que une el Mar Mediterráneo con el Mar Rojo?",
+    "respuestaCorrecta": "Canal de Suez",
+    "opcionFalsa_1": "Canal de Panamá",
+    "opcionFalsa_2": "Estrecho de Bering",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país es la cuna de la pizza?",
+    "respuestaCorrecta": "Italia",
+    "opcionFalsa_1": "Grecia",
+    "opcionFalsa_2": "Francia",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre de la famosa batalla naval donde la flota británica derrotó a la española en 1588?",
+    "respuestaCorrecta": "Batalla de la Armada Invencible",
+    "opcionFalsa_1": "Batalla de Trafalgar",
+    "opcionFalsa_2": "Batalla de Lepanto",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿En qué país se encuentra la Gran Barrera de Coral?",
+    "respuestaCorrecta": "Australia",
+    "opcionFalsa_1": "Filipinas",
+    "opcionFalsa_2": "Indonesia",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Quién es la autora de 'Matar a un ruiseñor'?",
+    "respuestaCorrecta": "Harper Lee",
+    "opcionFalsa_1": "Flannery O'Connor",
+    "opcionFalsa_2": "Carson McCullers",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el instrumento más grande de la familia de las cuerdas frotadas?",
+    "respuestaCorrecta": "El contrabajo",
+    "opcionFalsa_1": "El violonchelo",
+    "opcionFalsa_2": "La viola",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el único país con una costa que limita con el Mar Caribe y el Océano Pacífico?",
+    "respuestaCorrecta": "Colombia",
+    "opcionFalsa_1": "Panamá",
+    "opcionFalsa_2": "Costa Rica",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿En qué ciudad se firmó el tratado que puso fin a la Primera Guerra Mundial?",
+    "respuestaCorrecta": "Versalles",
+    "opcionFalsa_1": "París",
+    "opcionFalsa_2": "Londres",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es la capital de Sudáfrica?",
+    "respuestaCorrecta": "Pretoria (ejecutiva), Ciudad del Cabo (legislativa), Bloemfontein (judicial)",
+    "opcionFalsa_1": "Johannesburgo",
+    "opcionFalsa_2": "Durban",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué famosa batalla marcó el final del reinado de Napoleón Bonaparte?",
+    "respuestaCorrecta": "Batalla de Waterloo",
+    "opcionFalsa_1": "Batalla de Austerlitz",
+    "opcionFalsa_2": "Batalla de Trafalgar",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene un dragón en su bandera?",
+    "respuestaCorrecta": "Gales",
+    "opcionFalsa_1": "Bután",
+    "opcionFalsa_2": "China",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es la capa más externa de la Tierra?",
+    "respuestaCorrecta": "La corteza",
+    "opcionFalsa_1": "El manto",
+    "opcionFalsa_2": "El núcleo",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Quién es el autor de 'Crimen y castigo'?",
+    "respuestaCorrecta": "Fiódor Dostoievski",
+    "opcionFalsa_1": "León Tolstói",
+    "opcionFalsa_2": "Antón Chéjov",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso cuadro de Botticelli que representa el nacimiento de una diosa?",
+    "respuestaCorrecta": "El nacimiento de Venus",
+    "opcionFalsa_1": "La primavera",
+    "opcionFalsa_2": "La anunciación",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué famosa estatua de Miguel Ángel se encuentra en la Basílica de San Pedro?",
+    "respuestaCorrecta": "La Piedad",
+    "opcionFalsa_1": "El David",
+    "opcionFalsa_2": "El Moisés",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre de la capital del estado de Texas?",
+    "respuestaCorrecta": "Austin",
+    "opcionFalsa_1": "Dallas",
+    "opcionFalsa_2": "Houston",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué famosa construcción romana se utilizó para carreras de carros?",
+    "respuestaCorrecta": "Circo Máximo",
+    "opcionFalsa_1": "Coliseo",
+    "opcionFalsa_2": "Panteón",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del punto más bajo de la Tierra, ubicado en el Océano Pacífico?",
+    "respuestaCorrecta": "Fosa de las Marianas",
+    "opcionFalsa_1": "Fosa de Puerto Rico",
+    "opcionFalsa_2": "Fosa de Kermadec",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Quién fue el famoso astrónomo que propuso el modelo heliocéntrico?",
+    "respuestaCorrecta": "Nicolás Copérnico",
+    "opcionFalsa_1": "Claudio Ptolomeo",
+    "opcionFalsa_2": "Galileo Galilei",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué significa la 'C' en la famosa ecuación de Einstein E=mc²?",
+    "respuestaCorrecta": "La velocidad de la luz",
+    "opcionFalsa_1": "Energía",
+    "opcionFalsa_2": "Masa",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es el lenguaje de programación más utilizado para el desarrollo web front-end?",
+    "respuestaCorrecta": "JavaScript",
+    "opcionFalsa_1": "Python",
+    "opcionFalsa_2": "Java",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué planeta es conocido como el 'Planeta Rojo'?",
+    "respuestaCorrecta": "Marte",
+    "opcionFalsa_1": "Júpiter",
+    "opcionFalsa_2": "Venus",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué es un 'byte' en informática?",
+    "respuestaCorrecta": "Una unidad de información digital que equivale a 8 bits",
+    "opcionFalsa_1": "Un tipo de cable de red",
+    "opcionFalsa_2": "Un componente del procesador",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Quién es considerado el padre de la computación?",
+    "respuestaCorrecta": "Charles Babbage",
+    "opcionFalsa_1": "Alan Turing",
+    "opcionFalsa_2": "Bill Gates",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué es la fotosíntesis?",
+    "respuestaCorrecta": "El proceso por el cual las plantas convierten la luz solar en energía",
+    "opcionFalsa_1": "Un tipo de reproducción celular",
+    "opcionFalsa_2": "La formación de las nubes",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es el símbolo químico del oro?",
+    "respuestaCorrecta": "Au",
+    "opcionFalsa_1": "Ag",
+    "opcionFalsa_2": "Or",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué compañía desarrolló el sistema operativo Windows?",
+    "respuestaCorrecta": "Microsoft",
+    "opcionFalsa_1": "Apple",
+    "opcionFalsa_2": "Google",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué gas es el más abundante en la atmósfera terrestre?",
+    "respuestaCorrecta": "Nitrógeno",
+    "opcionFalsa_1": "Oxígeno",
+    "opcionFalsa_2": "Dióxido de carbono",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué es el ADN?",
+    "respuestaCorrecta": "Ácido desoxirribonucleico",
+    "opcionFalsa_1": "Ácido ribonucleico",
+    "opcionFalsa_2": "Adenosín trifosfato",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es el componente principal de los microchips?",
+    "respuestaCorrecta": "Silicio",
+    "opcionFalsa_1": "Cobre",
+    "opcionFalsa_2": "Oro",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué es la 'nube' en términos de computación?",
+    "respuestaCorrecta": "Una red de servidores remotos para almacenar y procesar datos",
+    "opcionFalsa_1": "Un nuevo tipo de sistema operativo",
+    "opcionFalsa_2": "Un dispositivo de almacenamiento físico",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué ley de Newton establece que a toda acción corresponde una reacción igual y opuesta?",
+    "respuestaCorrecta": "Tercera Ley de Newton",
+    "opcionFalsa_1": "Primera Ley de Newton",
+    "opcionFalsa_2": "Segunda Ley de Newton",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué empresa es la creadora del iPhone?",
+    "respuestaCorrecta": "Apple",
+    "opcionFalsa_1": "Samsung",
+    "opcionFalsa_2": "Huawei",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es la unidad básica de la vida?",
+    "respuestaCorrecta": "La célula",
+    "opcionFalsa_1": "El átomo",
+    "opcionFalsa_2": "La molécula",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué significa HTML en el desarrollo web?",
+    "respuestaCorrecta": "HyperText Markup Language",
+    "opcionFalsa_1": "High-Tech Modern Language",
+    "opcionFalsa_2": "Hyperlink and Text Management Language",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es el planeta más grande de nuestro sistema solar?",
+    "respuestaCorrecta": "Júpiter",
+    "opcionFalsa_1": "Saturno",
+    "opcionFalsa_2": "Tierra",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué tipo de energía se obtiene del viento?",
+    "respuestaCorrecta": "Energía eólica",
+    "opcionFalsa_1": "Energía solar",
+    "opcionFalsa_2": "Energía hidráulica",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Quién propuso la teoría de la relatividad?",
+    "respuestaCorrecta": "Albert Einstein",
+    "opcionFalsa_1": "Isaac Newton",
+    "opcionFalsa_2": "Galileo Galilei",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué es un algoritmo?",
+    "respuestaCorrecta": "Un conjunto de instrucciones para resolver un problema",
+    "opcionFalsa_1": "Un lenguaje de programación",
+    "opcionFalsa_2": "Un componente de hardware",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es el elemento químico con el símbolo 'O'?",
+    "respuestaCorrecta": "Oxígeno",
+    "opcionFalsa_1": "Oro",
+    "opcionFalsa_2": "Osmio",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué unidad de medida se utiliza para la frecuencia de un procesador de computadora?",
+    "respuestaCorrecta": "Hertz (Hz)",
+    "opcionFalsa_1": "Voltio (V)",
+    "opcionFalsa_2": "Amperio (A)",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es el proceso por el cual el agua cambia de estado líquido a gaseoso?",
+    "respuestaCorrecta": "Evaporación",
+    "opcionFalsa_1": "Condensación",
+    "opcionFalsa_2": "Sublimación",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué capa de la atmósfera terrestre está justo encima de la troposfera?",
+    "respuestaCorrecta": "Estratosfera",
+    "opcionFalsa_1": "Mesosfera",
+    "opcionFalsa_2": "Termosfera",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Quién inventó el teléfono?",
+    "respuestaCorrecta": "Alexander Graham Bell",
+    "opcionFalsa_1": "Thomas Edison",
+    "opcionFalsa_2": "Nikola Tesla",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del agujero negro supermasivo en el centro de nuestra galaxia, la Vía Láctea?",
+    "respuestaCorrecta": "Sagitario A*",
+    "opcionFalsa_1": "Cygnus X-1",
+    "opcionFalsa_2": "M87",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué es un 'píxel' en términos de imagen digital?",
+    "respuestaCorrecta": "La unidad más pequeña de una imagen digital",
+    "opcionFalsa_1": "Un tipo de archivo de imagen",
+    "opcionFalsa_2": "Un sensor de cámara",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué elemento químico es el componente principal de los diamantes?",
+    "respuestaCorrecta": "Carbono",
+    "opcionFalsa_1": "Silicio",
+    "opcionFalsa_2": "Oxígeno",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es la velocidad de la luz en el vacío (aproximada)?",
+    "respuestaCorrecta": "300,000 kilómetros por segundo",
+    "opcionFalsa_1": "150,000 kilómetros por segundo",
+    "opcionFalsa_2": "500,000 kilómetros por segundo",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué inventor es famoso por sus contribuciones al desarrollo del sistema de corriente alterna (AC)?",
+    "respuestaCorrecta": "Nikola Tesla",
+    "opcionFalsa_1": "Thomas Edison",
+    "opcionFalsa_2": "Benjamin Franklin",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es el número atómico del hidrógeno?",
+    "respuestaCorrecta": "1",
+    "opcionFalsa_1": "2",
+    "opcionFalsa_2": "3",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué es un 'router' en una red informática?",
+    "respuestaCorrecta": "Un dispositivo que dirige los paquetes de datos entre redes",
+    "opcionFalsa_1": "Un dispositivo para almacenar datos",
+    "opcionFalsa_2": "Un programa antivirus",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué tipo de reacción química libera energía en forma de calor y luz?",
+    "respuestaCorrecta": "Reacción exotérmica",
+    "opcionFalsa_1": "Reacción endotérmica",
+    "opcionFalsa_2": "Reacción de descomposición",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre de la galaxia más cercana a la Vía Láctea?",
+    "respuestaCorrecta": "Galaxia de Andrómeda",
+    "opcionFalsa_1": "Nubes de Magallanes",
+    "opcionFalsa_2": "Triángulo",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Quién fue la primera persona en programar para la máquina de Charles Babbage y es considerada la primera programadora?",
+    "respuestaCorrecta": "Ada Lovelace",
+    "opcionFalsa_1": "Grace Hopper",
+    "opcionFalsa_2": "Katherine Johnson",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué proceso geológico causa el movimiento de las placas tectónicas?",
+    "respuestaCorrecta": "Convección en el manto",
+    "opcionFalsa_1": "Erosión eólica",
+    "opcionFalsa_2": "Sedimentación",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué significa 'URL' en Internet?",
+    "respuestaCorrecta": "Uniform Resource Locator",
+    "opcionFalsa_1": "Universal Remote Link",
+    "opcionFalsa_2": "Unified Resource Language",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es el planeta con los anillos más prominentes en nuestro sistema solar?",
+    "respuestaCorrecta": "Saturno",
+    "opcionFalsa_1": "Júpiter",
+    "opcionFalsa_2": "Urano",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué fenómeno natural ocurre cuando la Luna pasa directamente entre el Sol y la Tierra?",
+    "respuestaCorrecta": "Eclipse solar",
+    "opcionFalsa_1": "Eclipse lunar",
+    "opcionFalsa_2": "Tránsito de Venus",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es la unidad de la fuerza en el Sistema Internacional (SI)?",
+    "respuestaCorrecta": "Newton",
+    "opcionFalsa_1": "Joule",
+    "opcionFalsa_2": "Vatio",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué es la 'latencia' en el contexto de las redes y la informática?",
+    "respuestaCorrecta": "El tiempo que tarda un paquete de datos en viajar de un punto a otro",
+    "opcionFalsa_1": "La velocidad de descarga",
+    "opcionFalsa_2": "La capacidad de almacenamiento",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué órgano produce la insulina en el cuerpo humano?",
+    "respuestaCorrecta": "Páncreas",
+    "opcionFalsa_1": "Hígado",
+    "opcionFalsa_2": "Riñón",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué científico es conocido por la tabla periódica de los elementos?",
+    "respuestaCorrecta": "Dmitri Mendeléyev",
+    "opcionFalsa_1": "Marie Curie",
+    "opcionFalsa_2": "Niels Bohr",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del primer satélite artificial lanzado por la URSS en 1957?",
+    "respuestaCorrecta": "Sputnik 1",
+    "opcionFalsa_1": "Vostok 1",
+    "opcionFalsa_2": "Explorer 1",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué significa CSS en el desarrollo web?",
+    "respuestaCorrecta": "Cascading Style Sheets",
+    "opcionFalsa_1": "Computer Software System",
+    "opcionFalsa_2": "Central Style Server",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del gas noble más ligero?",
+    "respuestaCorrecta": "Helio",
+    "opcionFalsa_1": "Neón",
+    "opcionFalsa_2": "Argón",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué científico desarrolló la vacuna contra la polio?",
+    "respuestaCorrecta": "Jonas Salk",
+    "opcionFalsa_1": "Louis Pasteur",
+    "opcionFalsa_2": "Alexander Fleming",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué es el 'software de código abierto'?",
+    "respuestaCorrecta": "Software cuyo código fuente es público y puede ser modificado",
+    "opcionFalsa_1": "Software gratuito",
+    "opcionFalsa_2": "Software obsoleto",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es el planeta más cercano al Sol?",
+    "respuestaCorrecta": "Mercurio",
+    "opcionFalsa_1": "Venus",
+    "opcionFalsa_2": "Marte",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué tipo de energía se obtiene del calor interno de la Tierra?",
+    "respuestaCorrecta": "Energía geotérmica",
+    "opcionFalsa_1": "Energía nuclear",
+    "opcionFalsa_2": "Energía mareomotriz",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es la estructura celular que realiza la respiración celular para producir energía?",
+    "respuestaCorrecta": "Mitocondria",
+    "opcionFalsa_1": "Núcleo",
+    "opcionFalsa_2": "Cloroplasto",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué es el 'Big Data'?",
+    "respuestaCorrecta": "Grandes volúmenes de datos que requieren nuevas formas de procesamiento",
+    "opcionFalsa_1": "Un tipo de disco duro",
+    "opcionFalsa_2": "Un virus informático",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es la unidad de resistencia eléctrica?",
+    "respuestaCorrecta": "Ohmio",
+    "opcionFalsa_1": "Voltio",
+    "opcionFalsa_2": "Vatio",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Quién fue el astrónomo que descubrió las cuatro lunas más grandes de Júpiter (lunas galileanas)?",
+    "respuestaCorrecta": "Galileo Galilei",
+    "opcionFalsa_1": "Johannes Kepler",
+    "opcionFalsa_2": "Tycho Brahe",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué es un 'firewall' en seguridad informática?",
+    "respuestaCorrecta": "Un sistema de seguridad que controla el tráfico de red entrante y saliente",
+    "opcionFalsa_1": "Un tipo de navegador web",
+    "opcionFalsa_2": "Un dispositivo de almacenamiento externo",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del hueso en la parte superior del brazo?",
+    "respuestaCorrecta": "Húmero",
+    "opcionFalsa_1": "Fémur",
+    "opcionFalsa_2": "Radio",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué es la 'fibra óptica'?",
+    "respuestaCorrecta": "Un medio de transmisión de datos a través de hilos de vidrio o plástico",
+    "opcionFalsa_1": "Un tipo de lente de cámara",
+    "opcionFalsa_2": "Un material aislante",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué gas es esencial para la respiración de los seres humanos?",
+    "respuestaCorrecta": "Oxígeno",
+    "opcionFalsa_1": "Nitrógeno",
+    "opcionFalsa_2": "Monóxido de carbono",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué científico propuso las tres leyes del movimiento planetario?",
+    "respuestaCorrecta": "Johannes Kepler",
+    "opcionFalsa_1": "Isaac Newton",
+    "opcionFalsa_2": "Nicolás Copérnico",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué lenguaje de programación es conocido por su filosofía 'escribe una vez, ejecuta en cualquier lugar' (WORA)?",
+    "respuestaCorrecta": "Java",
+    "opcionFalsa_1": "C++",
+    "opcionFalsa_2": "Assembly",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre de la partícula subatómica con carga positiva?",
+    "respuestaCorrecta": "Protón",
+    "opcionFalsa_1": "Electrón",
+    "opcionFalsa_2": "Neutrón",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué científico descubrió la penicilina?",
+    "respuestaCorrecta": "Alexander Fleming",
+    "opcionFalsa_1": "Louis Pasteur",
+    "opcionFalsa_2": "Robert Koch",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué significa 'IA' en informática?",
+    "respuestaCorrecta": "Inteligencia Artificial",
+    "opcionFalsa_1": "Interconexión de Aplicaciones",
+    "opcionFalsa_2": "Interfaz de Audio",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre de la estrella más cercana a la Tierra (aparte del Sol)?",
+    "respuestaCorrecta": "Próxima Centauri",
+    "opcionFalsa_1": "Sirio",
+    "opcionFalsa_2": "Alfa Centauri A",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué es una 'VPN'?",
+    "respuestaCorrecta": "Una Red Privada Virtual",
+    "opcionFalsa_1": "Una Ventana Principal de Navegación",
+    "opcionFalsa_2": "Un Protocolo de Video Normalizado",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del primer homínido conocido que caminó erguido?",
+    "respuestaCorrecta": "Australopithecus",
+    "opcionFalsa_1": "Homo Sapiens",
+    "opcionFalsa_2": "Homo Habilis",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué ley describe la relación inversa entre presión y volumen de un gas a temperatura constante?",
+    "respuestaCorrecta": "Ley de Boyle",
+    "opcionFalsa_1": "Ley de Charles",
+    "opcionFalsa_2": "Ley de Avogadro",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del disco de memoria no volátil en una computadora?",
+    "respuestaCorrecta": "Disco Duro (HDD/SSD)",
+    "opcionFalsa_1": "RAM",
+    "opcionFalsa_2": "Cache",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del telescopio espacial lanzado en 1990 que revolucionó la astronomía?",
+    "respuestaCorrecta": "Telescopio Espacial Hubble",
+    "opcionFalsa_1": "Telescopio Espacial James Webb",
+    "opcionFalsa_2": "Telescopio Chandra",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué es un 'malware'?",
+    "respuestaCorrecta": "Software diseñado para dañar o acceder sin autorización a un sistema",
+    "opcionFalsa_1": "Un tipo de hardware",
+    "opcionFalsa_2": "Un formato de archivo",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué significa 'Wi-Fi'?",
+    "respuestaCorrecta": "Wireless Fidelity",
+    "opcionFalsa_1": "Wide Fiber",
+    "opcionFalsa_2": "Web Filter",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del hueso de la mandíbula inferior?",
+    "respuestaCorrecta": "Mandíbula",
+    "opcionFalsa_1": "Maxilar",
+    "opcionFalsa_2": "Cigomático",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué elemento tiene el símbolo 'K'?",
+    "respuestaCorrecta": "Potasio",
+    "opcionFalsa_1": "Kriptón",
+    "opcionFalsa_2": "Calcio",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Quién es considerado el padre de la genética?",
+    "respuestaCorrecta": "Gregor Mendel",
+    "opcionFalsa_1": "Charles Darwin",
+    "opcionFalsa_2": "James Watson",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué gas es el principal componente del gas natural?",
+    "respuestaCorrecta": "Metano",
+    "opcionFalsa_1": "Propano",
+    "opcionFalsa_2": "Butano",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué significa 'IoT'?",
+    "respuestaCorrecta": "Internet de las Cosas (Internet of Things)",
+    "opcionFalsa_1": "Interfaz de Objetos Tecnológicos",
+    "opcionFalsa_2": "Información y Tecnología",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es la unidad de potencia en el Sistema Internacional (SI)?",
+    "respuestaCorrecta": "Vatio (Watt)",
+    "opcionFalsa_1": "Joule",
+    "opcionFalsa_2": "Newton",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué es un 'transistor'?",
+    "respuestaCorrecta": "Un dispositivo semiconductor utilizado para amplificar o conmutar señales electrónicas",
+    "opcionFalsa_1": "Un tipo de batería",
+    "opcionFalsa_2": "Un software de simulación",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del volcán más grande de nuestro sistema solar, ubicado en Marte?",
+    "respuestaCorrecta": "Monte Olimpo",
+    "opcionFalsa_1": "Monte Everest",
+    "opcionFalsa_2": "Mauna Kea",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué es la 'realidad virtual'?",
+    "respuestaCorrecta": "Un entorno simulado por computadora que puede ser explorado por el usuario",
+    "opcionFalsa_1": "Una nueva forma de cine 3D",
+    "opcionFalsa_2": "Un tipo de videojuego",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Cuál es el órgano que filtra la sangre en el cuerpo humano, eliminando desechos?",
+    "respuestaCorrecta": "Riñón",
+    "opcionFalsa_1": "Hígado",
+    "opcionFalsa_2": "Páncreas",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Qué tipo de enlace químico se forma por la transferencia de electrones entre átomos?",
+    "respuestaCorrecta": "Enlace iónico",
+    "opcionFalsa_1": "Enlace covalente",
+    "opcionFalsa_2": "Enlace metálico",
+    "categoria": "CienciaTech"
+  },
+  {
+    "textoPregunta": "¿Quién es el vocalista principal de la banda Queen?",
+    "respuestaCorrecta": "Freddie Mercury",
+    "opcionFalsa_1": "Brian May",
+    "opcionFalsa_2": "Roger Taylor",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué álbum de Michael Jackson es el más vendido de todos los tiempos?",
+    "respuestaCorrecta": "Thriller",
+    "opcionFalsa_1": "Bad",
+    "opcionFalsa_2": "Dangerous",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Cuál de estos artistas es conocido como 'El Rey del Rock and Roll'?",
+    "respuestaCorrecta": "Elvis Presley",
+    "opcionFalsa_1": "Chuck Berry",
+    "opcionFalsa_2": "Little Richard",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿En qué año se formó la banda The Beatles?",
+    "respuestaCorrecta": "1960",
+    "opcionFalsa_1": "1965",
+    "opcionFalsa_2": "1957",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué instrumento tocaba Jimi Hendrix?",
+    "respuestaCorrecta": "La guitarra eléctrica",
+    "opcionFalsa_1": "El bajo",
+    "opcionFalsa_2": "La batería",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué banda es famosa por la canción 'Stairway to Heaven'?",
+    "respuestaCorrecta": "Led Zeppelin",
+    "opcionFalsa_1": "The Rolling Stones",
+    "opcionFalsa_2": "Pink Floyd",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿De qué país es originaria la cantante Shakira?",
+    "respuestaCorrecta": "Colombia",
+    "opcionFalsa_1": "España",
+    "opcionFalsa_2": "México",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Quién es conocido como el 'Rey del Pop'?",
+    "respuestaCorrecta": "Michael Jackson",
+    "opcionFalsa_1": "Prince",
+    "opcionFalsa_2": "Madonna",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué género musical se asocia comúnmente con Bob Marley?",
+    "respuestaCorrecta": "Reggae",
+    "opcionFalsa_1": "Ska",
+    "opcionFalsa_2": "Calipso",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Cuál de estos festivales de música es uno de los más famosos del mundo?",
+    "respuestaCorrecta": "Woodstock",
+    "opcionFalsa_1": "Lollapalooza",
+    "opcionFalsa_2": "Coachella",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué banda de rock es famosa por su álbum 'The Dark Side of the Moon'?",
+    "respuestaCorrecta": "Pink Floyd",
+    "opcionFalsa_1": "The Who",
+    "opcionFalsa_2": "Genesis",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Quién es el compositor de 'Las cuatro estaciones'?",
+    "respuestaCorrecta": "Antonio Vivaldi",
+    "opcionFalsa_1": "Johann Sebastian Bach",
+    "opcionFalsa_2": "Wolfgang Amadeus Mozart",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué cantante es conocida como la 'Reina del Pop'?",
+    "respuestaCorrecta": "Madonna",
+    "opcionFalsa_1": "Whitney Houston",
+    "opcionFalsa_2": "Mariah Carey",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Cuál de estas bandas es un ícono del grunge de los 90?",
+    "respuestaCorrecta": "Nirvana",
+    "opcionFalsa_1": "Bon Jovi",
+    "opcionFalsa_2": "Guns N' Roses",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué instrumento es famoso por tocar Louis Armstrong?",
+    "respuestaCorrecta": "La trompeta",
+    "opcionFalsa_1": "El saxofón",
+    "opcionFalsa_2": "El piano",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué banda de rock británica creó la ópera rock 'Tommy'?",
+    "respuestaCorrecta": "The Who",
+    "opcionFalsa_1": "The Kinks",
+    "opcionFalsa_2": "The Animals",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre real del rapero Eminem?",
+    "respuestaCorrecta": "Marshall Mathers",
+    "opcionFalsa_1": "Calvin Broadus",
+    "opcionFalsa_2": "Shawn Carter",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué banda lanzó el exitoso álbum 'Rumours' en 1977?",
+    "respuestaCorrecta": "Fleetwood Mac",
+    "opcionFalsa_1": "Eagles",
+    "opcionFalsa_2": "ABBA",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Quién compuso la famosa 'Quinta Sinfonía'?",
+    "respuestaCorrecta": "Ludwig van Beethoven",
+    "opcionFalsa_1": "Franz Schubert",
+    "opcionFalsa_2": "Joseph Haydn",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿A qué banda pertenece la canción 'Bohemian Rhapsody'?",
+    "respuestaCorrecta": "Queen",
+    "opcionFalsa_1": "The Rolling Stones",
+    "opcionFalsa_2": "Led Zeppelin",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿De qué banda fue vocalista Kurt Cobain?",
+    "respuestaCorrecta": "Nirvana",
+    "opcionFalsa_1": "Pearl Jam",
+    "opcionFalsa_2": "Soundgarden",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué compositor italiano es famoso por su ópera 'La Traviata'?",
+    "respuestaCorrecta": "Giuseppe Verdi",
+    "opcionFalsa_1": "Giacomo Puccini",
+    "opcionFalsa_2": "Gioachino Rossini",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué cantante es conocida por su canción 'Hello' y el álbum '21'?",
+    "respuestaCorrecta": "Adele",
+    "opcionFalsa_1": "Taylor Swift",
+    "opcionFalsa_2": "Rihanna",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué grupo de pop sueco es famoso por canciones como 'Dancing Queen' y 'Mamma Mia'?",
+    "respuestaCorrecta": "ABBA",
+    "opcionFalsa_1": "Roxette",
+    "opcionFalsa_2": "A-ha",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué instrumento tocaba Bob Dylan en sus inicios?",
+    "respuestaCorrecta": "Guitarra acústica y armónica",
+    "opcionFalsa_1": "Piano",
+    "opcionFalsa_2": "Bajo",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso concierto de rock que se celebró en 1985 para recaudar fondos contra la hambruna en Etiopía?",
+    "respuestaCorrecta": "Live Aid",
+    "opcionFalsa_1": "Monterey Pop",
+    "opcionFalsa_2": "Glastonbury",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué banda de heavy metal es famosa por su mascota 'Eddie'?",
+    "respuestaCorrecta": "Iron Maiden",
+    "opcionFalsa_1": "Metallica",
+    "opcionFalsa_2": "Black Sabbath",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Quién es el autor de la ópera 'El Barbero de Sevilla'?",
+    "respuestaCorrecta": "Gioachino Rossini",
+    "opcionFalsa_1": "Wolfgang Amadeus Mozart",
+    "opcionFalsa_2": "George Frideric Handel",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué cantante es conocida como la 'Diva de Barbados' y es famosa por éxitos como 'Umbrella'?",
+    "respuestaCorrecta": "Rihanna",
+    "opcionFalsa_1": "Beyoncé",
+    "opcionFalsa_2": "Katy Perry",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué género musical surgió en Nueva York en la década de 1970 y se caracteriza por el *breakdancing* y el *rap*?",
+    "respuestaCorrecta": "Hip-hop",
+    "opcionFalsa_1": "Disco",
+    "opcionFalsa_2": "Funk",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Cuál es el título de la famosa canción de The Police que contiene la línea 'Every breath you take'?",
+    "respuestaCorrecta": "Every Breath You Take",
+    "opcionFalsa_1": "Roxanne",
+    "opcionFalsa_2": "Message in a Bottle",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿De qué país es originario el tango?",
+    "respuestaCorrecta": "Argentina y Uruguay",
+    "opcionFalsa_1": "España",
+    "opcionFalsa_2": "Cuba",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué banda de rock alternativo es famosa por su vocalista Thom Yorke?",
+    "respuestaCorrecta": "Radiohead",
+    "opcionFalsa_1": "Coldplay",
+    "opcionFalsa_2": "Oasis",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del compositor famoso por su 'Marcha Nupcial'?",
+    "respuestaCorrecta": "Felix Mendelssohn",
+    "opcionFalsa_1": "Richard Wagner",
+    "opcionFalsa_2": "Franz Liszt",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué famoso guitarrista es conocido por su apodo 'Slowhand'?",
+    "respuestaCorrecta": "Eric Clapton",
+    "opcionFalsa_1": "Jimmy Page",
+    "opcionFalsa_2": "Jeff Beck",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué canción de Whitney Houston es una de las bandas sonoras más vendidas de todos los tiempos?",
+    "respuestaCorrecta": "I Will Always Love You",
+    "opcionFalsa_1": "Greatest Love of All",
+    "opcionFalsa_2": "How Will I Know",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué banda de rock australiana es famosa por su vocalista Bon Scott y, más tarde, Brian Johnson?",
+    "respuestaCorrecta": "AC/DC",
+    "opcionFalsa_1": "INXS",
+    "opcionFalsa_2": "Midnight Oil",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Quién es la cantante que popularizó el 'Twerking' y es conocida por canciones como 'Wrecking Ball'?",
+    "respuestaCorrecta": "Miley Cyrus",
+    "opcionFalsa_1": "Ariana Grande",
+    "opcionFalsa_2": "Selena Gomez",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿De qué país es originario el músico de reggae Bob Marley?",
+    "respuestaCorrecta": "Jamaica",
+    "opcionFalsa_1": "Trinidad y Tobago",
+    "opcionFalsa_2": "Cuba",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué famoso pianista es conocido como 'El Virtuoso de la Música' y compuso 'Claro de Luna'?",
+    "respuestaCorrecta": "Ludwig van Beethoven",
+    "opcionFalsa_1": "Frédéric Chopin",
+    "opcionFalsa_2": "Franz Liszt",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué banda de rock es famosa por la canción 'Hotel California'?",
+    "respuestaCorrecta": "Eagles",
+    "opcionFalsa_1": "Doobie Brothers",
+    "opcionFalsa_2": "Lynyrd Skynyrd",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué cantante es conocida como la 'Princesa del Pop'?",
+    "respuestaCorrecta": "Britney Spears",
+    "opcionFalsa_1": "Christina Aguilera",
+    "opcionFalsa_2": "Jessica Simpson",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Quién compuso la ópera 'El Anillo del Nibelungo'?",
+    "respuestaCorrecta": "Richard Wagner",
+    "opcionFalsa_1": "Johann Strauss II",
+    "opcionFalsa_2": "Piotr Ilich Chaikovski",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué género musical surgió en Chicago y se caracteriza por la improvisación y el *swing*?",
+    "respuestaCorrecta": "Jazz",
+    "opcionFalsa_1": "Blues",
+    "opcionFalsa_2": "Gospel",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del álbum de U2 que incluye la canción 'With or Without You'?",
+    "respuestaCorrecta": "The Joshua Tree",
+    "opcionFalsa_1": "Achtung Baby",
+    "opcionFalsa_2": "Rattle and Hum",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué artista de hip-hop es famoso por su álbum 'The Marshall Mathers LP'?",
+    "respuestaCorrecta": "Eminem",
+    "opcionFalsa_1": "Dr. Dre",
+    "opcionFalsa_2": "Jay-Z",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué famosa banda de rock británica tiene como vocalista a Mick Jagger?",
+    "respuestaCorrecta": "The Rolling Stones",
+    "opcionFalsa_1": "The Who",
+    "opcionFalsa_2": "The Kinks",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Quién es el compositor de 'El lago de los cisnes'?",
+    "respuestaCorrecta": "Piotr Ilich Chaikovski",
+    "opcionFalsa_1": "Serguéi Prokófiev",
+    "opcionFalsa_2": "Igor Stravinsky",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué cantante es conocida por su 'sello de identidad' de llevar un parche en el ojo?",
+    "respuestaCorrecta": "Lisa 'Left Eye' Lopes",
+    "opcionFalsa_1": "TLC",
+    "opcionFalsa_2": "Destiny's Child",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué género musical se popularizó en la década de 1970 con artistas como Donna Summer y Bee Gees?",
+    "respuestaCorrecta": "Música disco",
+    "opcionFalsa_1": "Punk rock",
+    "opcionFalsa_2": "New Wave",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Cuál es el título de la canción de John Lennon que se considera un himno a la paz mundial?",
+    "respuestaCorrecta": "Imagine",
+    "opcionFalsa_1": "Give Peace a Chance",
+    "opcionFalsa_2": "Power to the People",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué famoso director de orquesta es conocido por su trabajo con la Orquesta Filarmónica de Berlín?",
+    "respuestaCorrecta": "Herbert von Karajan",
+    "opcionFalsa_1": "Leonard Bernstein",
+    "opcionFalsa_2": "Arturo Toscanini",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué banda de rock progresivo es famosa por su vocalista Peter Gabriel y su álbum 'Foxtrot'?",
+    "respuestaCorrecta": "Genesis",
+    "opcionFalsa_1": "Yes",
+    "opcionFalsa_2": "Rush",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Quién fue el famoso guitarrista de 'Guns N' Roses' con su característico sombrero de copa?",
+    "respuestaCorrecta": "Slash",
+    "opcionFalsa_1": "Izzy Stradlin",
+    "opcionFalsa_2": "Duff McKagan",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué cantante es conocida por romper récords de ventas con sus álbumes '1989' y 'Lover'?",
+    "respuestaCorrecta": "Taylor Swift",
+    "opcionFalsa_1": "Lady Gaga",
+    "opcionFalsa_2": "Katy Perry",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso músico cubano conocido como 'El Caballero del Son'?",
+    "respuestaCorrecta": "Compay Segundo",
+    "opcionFalsa_1": "Tito Puente",
+    "opcionFalsa_2": "Celia Cruz",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué cantante es conocida como la 'Reina de la Música Country'?",
+    "respuestaCorrecta": "Dolly Parton",
+    "opcionFalsa_1": "Carrie Underwood",
+    "opcionFalsa_2": "Shania Twain",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué género musical tiene sus raíces en el blues, el jazz y el gospel, y se caracteriza por el *backbeat*?",
+    "respuestaCorrecta": "R&B (Rhythm and Blues)",
+    "opcionFalsa_1": "Funk",
+    "opcionFalsa_2": "Soul",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Cuál es el título de la canción de Prince que comienza con la frase 'Dearly beloved, we are gathered here today'?",
+    "respuestaCorrecta": "Let's Go Crazy",
+    "opcionFalsa_1": "Purple Rain",
+    "opcionFalsa_2": "Kiss",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Quién es el autor de la ópera 'Carmen'?",
+    "respuestaCorrecta": "Georges Bizet",
+    "opcionFalsa_1": "Claudio Monteverdi",
+    "opcionFalsa_2": "Giacomo Puccini",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué banda de rock irlandesa es famosa por su vocalista Bono?",
+    "respuestaCorrecta": "U2",
+    "opcionFalsa_1": "The Cranberries",
+    "opcionFalsa_2": "Thin Lizzy",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre real del rapero Snoop Dogg?",
+    "respuestaCorrecta": "Calvin Broadus Jr.",
+    "opcionFalsa_1": "Shawn Carter",
+    "opcionFalsa_2": "Andre Young",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué famoso grupo de rock es conocido por el álbum 'Sgt. Pepper's Lonely Hearts Club Band'?",
+    "respuestaCorrecta": "The Beatles",
+    "opcionFalsa_1": "The Beach Boys",
+    "opcionFalsa_2": "The Doors",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué compositor es famoso por su 'Rapsodia en Azul'?",
+    "respuestaCorrecta": "George Gershwin",
+    "opcionFalsa_1": "Aaron Copland",
+    "opcionFalsa_2": "Igor Stravinsky",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué cantante es conocida como la 'Madre Monstruo' (Mother Monster)?",
+    "respuestaCorrecta": "Lady Gaga",
+    "opcionFalsa_1": "Madonna",
+    "opcionFalsa_2": "Cher",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué género musical surgió como reacción al rock de los 70, con bandas como The Ramones y Sex Pistols?",
+    "respuestaCorrecta": "Punk rock",
+    "opcionFalsa_1": "Glam rock",
+    "opcionFalsa_2": "Heavy metal",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del álbum de Pink Floyd que tiene una portada icónica de un prisma refractando la luz?",
+    "respuestaCorrecta": "The Dark Side of the Moon",
+    "opcionFalsa_1": "Wish You Were Here",
+    "opcionFalsa_2": "The Wall",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué artista es conocido por su canción 'Like a Rolling Stone' y ganó el Premio Nobel de Literatura?",
+    "respuestaCorrecta": "Bob Dylan",
+    "opcionFalsa_1": "Leonard Cohen",
+    "opcionFalsa_2": "Patti Smith",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué famoso cantante mexicano es conocido como 'El Sol de México'?",
+    "respuestaCorrecta": "Luis Miguel",
+    "opcionFalsa_1": "Juan Gabriel",
+    "opcionFalsa_2": "Vicente Fernández",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué compositor italiano es famoso por sus óperas como 'Madama Butterfly' y 'Tosca'?",
+    "respuestaCorrecta": "Giacomo Puccini",
+    "opcionFalsa_1": "Giuseppe Verdi",
+    "opcionFalsa_2": "Antonio Vivaldi",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué cantante es conocida por su canción 'Single Ladies' y es miembro del grupo Destiny's Child?",
+    "respuestaCorrecta": "Beyoncé",
+    "opcionFalsa_1": "Rihanna",
+    "opcionFalsa_2": "Mariah Carey",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué género musical se caracteriza por voces guturales, *blast beats* y letras extremas?",
+    "respuestaCorrecta": "Death Metal",
+    "opcionFalsa_1": "Power Metal",
+    "opcionFalsa_2": "Glam Metal",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Cuál es el título del famoso himno de Queen que es popular en eventos deportivos, con la frase 'We are the champions'?",
+    "respuestaCorrecta": "We Are the Champions",
+    "opcionFalsa_1": "Don't Stop Me Now",
+    "opcionFalsa_2": "A Kind of Magic",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué compositor alemán es famoso por su Concierto de Brandeburgo y 'El clave bien temperado'?",
+    "respuestaCorrecta": "Johann Sebastian Bach",
+    "opcionFalsa_1": "George Frideric Handel",
+    "opcionFalsa_2": "Franz Schubert",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué famoso músico británico es conocido por haber sido el baterista de The Beatles?",
+    "respuestaCorrecta": "Ringo Starr",
+    "opcionFalsa_1": "George Harrison",
+    "opcionFalsa_2": "John Lennon",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Cuál es el título del álbum debut de Nirvana?",
+    "respuestaCorrecta": "Bleach",
+    "opcionFalsa_1": "Nevermind",
+    "opcionFalsa_2": "In Utero",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué cantante es conocida por su 'Récord Guinness' de tener el rango vocal más amplio (5 octavas)?",
+    "respuestaCorrecta": "Mariah Carey",
+    "opcionFalsa_1": "Celine Dion",
+    "opcionFalsa_2": "Whitney Houston",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué género musical se originó en el Caribe y se caracteriza por ritmos sincopados y guitarras melódicas?",
+    "respuestaCorrecta": "Ska",
+    "opcionFalsa_1": "Reggaetón",
+    "opcionFalsa_2": "Salsa",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre de la famosa banda de rock estadounidense con vocalista Axl Rose?",
+    "respuestaCorrecta": "Guns N' Roses",
+    "opcionFalsa_1": "Aerosmith",
+    "opcionFalsa_2": "Mötley Crüe",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Quién compuso la ópera 'Don Giovanni'?",
+    "respuestaCorrecta": "Wolfgang Amadeus Mozart",
+    "opcionFalsa_1": "Franz Schubert",
+    "opcionFalsa_2": "Joseph Haydn",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué famoso guitarrista de los Rolling Stones fundó la banda The Faces?",
+    "respuestaCorrecta": "Ronnie Wood",
+    "opcionFalsa_1": "Keith Richards",
+    "opcionFalsa_2": "Mick Taylor",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Cuál es el título del álbum debut de Led Zeppelin?",
+    "respuestaCorrecta": "Led Zeppelin",
+    "opcionFalsa_1": "Led Zeppelin II",
+    "opcionFalsa_2": "Led Zeppelin IV",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué cantante pop es conocida por sus 'cambios de identidad' como Sasha Fierce?",
+    "respuestaCorrecta": "Beyoncé",
+    "opcionFalsa_1": "Lady Gaga",
+    "opcionFalsa_2": "Rihanna",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué famoso cantante es conocido como el 'Padrino del Soul'?",
+    "respuestaCorrecta": "James Brown",
+    "opcionFalsa_1": "Marvin Gaye",
+    "opcionFalsa_2": "Sam Cooke",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del álbum de The Beatles que incluye la canción 'Yesterday'?",
+    "respuestaCorrecta": "Help!",
+    "opcionFalsa_1": "Revolver",
+    "opcionFalsa_2": "Sgt. Pepper's Lonely Hearts Club Band",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Quién es el autor de la ópera 'El Fantasma de la Ópera'?",
+    "respuestaCorrecta": "Andrew Lloyd Webber",
+    "opcionFalsa_1": "Stephen Sondheim",
+    "opcionFalsa_2": "Claude-Michel Schönberg",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué artista de pop es conocido por sus extravagantes disfraces y su canción 'Rocket Man'?",
+    "respuestaCorrecta": "Elton John",
+    "opcionFalsa_1": "David Bowie",
+    "opcionFalsa_2": "Freddy Mercury",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Cuál es el título del álbum debut de Elvis Presley en 1956?",
+    "respuestaCorrecta": "Elvis Presley",
+    "opcionFalsa_1": "Elvis is Back!",
+    "opcionFalsa_2": "Blue Hawaii",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué cantante es conocida por su canción 'Vogue' y su influencia en la moda?",
+    "respuestaCorrecta": "Madonna",
+    "opcionFalsa_1": "Cher",
+    "opcionFalsa_2": "Janet Jackson",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué género musical fusiona el jazz, el R&B y el gospel, popularizado por Stevie Wonder y Aretha Franklin?",
+    "respuestaCorrecta": "Soul",
+    "opcionFalsa_1": "Funk",
+    "opcionFalsa_2": "Motown",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Cuál es el título de la canción de Nirvana que se convirtió en un himno grunge en 1991?",
+    "respuestaCorrecta": "Smells Like Teen Spirit",
+    "opcionFalsa_1": "Come As You Are",
+    "opcionFalsa_2": "Lithium",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué famoso compositor ruso es conocido por su ballet 'El Cascanueces'?",
+    "respuestaCorrecta": "Piotr Ilich Chaikovski",
+    "opcionFalsa_1": "Igor Stravinsky",
+    "opcionFalsa_2": "Serguéi Prokófiev",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "¿Qué banda de rock progresivo es famosa por su álbum conceptual 'The Wall'?",
+    "respuestaCorrecta": "Pink Floyd",
+    "opcionFalsa_1": "Rush",
+    "opcionFalsa_2": "Jethro Tull",
+    "categoria": "Musica"
+  },
+  {
+    "textoPregunta": "Blanco por dentro, verde por fuera. Si quieres que te lo diga, espera.",
+    "respuestaCorrecta": "La pera",
+    "opcionFalsa_1": "El coco",
+    "opcionFalsa_2": "El aguacate",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Tiene dientes y no come, tiene cabeza y no es hombre.",
+    "respuestaCorrecta": "El ajo",
+    "opcionFalsa_1": "El peine",
+    "opcionFalsa_2": "La sierra",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Oro parece, plata no es. El que no lo adivine, bien tonto es.",
+    "respuestaCorrecta": "El plátano",
+    "opcionFalsa_1": "El limón",
+    "opcionFalsa_2": "El melón",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Todos me quieren para descansar. ¡Si ya te lo he dicho! No pienses más.",
+    "respuestaCorrecta": "La silla",
+    "opcionFalsa_1": "La cama",
+    "opcionFalsa_2": "El sofá",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Vuelo de noche, duermo de día y nunca verás plumas en ala mía.",
+    "respuestaCorrecta": "El murciélago",
+    "opcionFalsa_1": "La lechuza",
+    "opcionFalsa_2": "El búho",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Tengo agujas pero no sé coser, tengo números pero no sé leer.",
+    "respuestaCorrecta": "El reloj",
+    "opcionFalsa_1": "El compás",
+    "opcionFalsa_2": "El termómetro",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "No es león y tiene garra, no es pato y tiene pata.",
+    "respuestaCorrecta": "La garrapata",
+    "opcionFalsa_1": "El cangrejo",
+    "opcionFalsa_2": "La araña",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "En el campo me crié, atada con verdes lazos, y aquel que llora por mí, me está partiendo en pedazos.",
+    "respuestaCorrecta": "La cebolla",
+    "opcionFalsa_1": "La lechuga",
+    "opcionFalsa_2": "El repollo",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Subo llena y bajo vacía, y si no me apuro, la sopa se enfría.",
+    "respuestaCorrecta": "La cuchara",
+    "opcionFalsa_1": "El tenedor",
+    "opcionFalsa_2": "El cucharón",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "¿Qué cosa es que cuanto más le quitas más grande es?",
+    "respuestaCorrecta": "Un agujero",
+    "opcionFalsa_1": "Un problema",
+    "opcionFalsa_2": "Una deuda",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Tengo ciudades, pero no casas; tengo montañas, pero no árboles; y tengo ríos, pero no peces.",
+    "respuestaCorrecta": "Un mapa",
+    "opcionFalsa_1": "Un globo terráqueo",
+    "opcionFalsa_2": "Un libro de geografía",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Siempre estoy en medio del mar y al final de la tierra. ¿Quién soy?",
+    "respuestaCorrecta": "La letra R",
+    "opcionFalsa_1": "La letra A",
+    "opcionFalsa_2": "El horizonte",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Si me nombras, desaparezco. ¿Quién soy?",
+    "respuestaCorrecta": "El silencio",
+    "opcionFalsa_1": "El eco",
+    "opcionFalsa_2": "La oscuridad",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Te la digo y no me entiendes, te la repito y no me comprendes.",
+    "respuestaCorrecta": "La tela",
+    "opcionFalsa_1": "Una canción",
+    "opcionFalsa_2": "Una palabra extranjera",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Cuanto más se moja, más te seca. ¿Qué es?",
+    "respuestaCorrecta": "La toalla",
+    "opcionFalsa_1": "El jabón",
+    "opcionFalsa_2": "La esponja",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Tiene cuello pero no cabeza, tiene brazos pero no manos.",
+    "respuestaCorrecta": "La camisa",
+    "opcionFalsa_1": "La botella",
+    "opcionFalsa_2": "La chaqueta",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Sale de día y se esconde de noche.",
+    "respuestaCorrecta": "El sol",
+    "opcionFalsa_1": "La luna",
+    "opcionFalsa_2": "Una estrella",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Es tan grande como un árbol, pero no pesa nada.",
+    "respuestaCorrecta": "La sombra del árbol",
+    "opcionFalsa_1": "El humo",
+    "opcionFalsa_2": "Una nube",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Dos hermanas, mentira no es, una va a misa y la otra también.",
+    "respuestaCorrecta": "Las campanas",
+    "opcionFalsa_1": "Las manecillas del reloj",
+    "opcionFalsa_2": "Las ruedas de una bicicleta",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Lo puedes tener, pero no lo puedes sostener. ¿Qué es?",
+    "respuestaCorrecta": "El aliento",
+    "opcionFalsa_1": "Un secreto",
+    "opcionFalsa_2": "Una conversación",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Tengo orejas, pero no oigo. Tengo boca, pero no hablo.",
+    "respuestaCorrecta": "La tetera",
+    "opcionFalsa_1": "El teléfono",
+    "opcionFalsa_2": "La radio",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Tengo lomo y no soy caballo, tengo hojas y no soy árbol.",
+    "respuestaCorrecta": "El libro",
+    "opcionFalsa_1": "El diccionario",
+    "opcionFalsa_2": "El periódico",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Entra al agua y no se moja, entra al fuego y no se quema.",
+    "respuestaCorrecta": "La sombra",
+    "opcionFalsa_1": "El aire",
+    "opcionFalsa_2": "El vapor",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Me pisas y te abro el paso. Me encuentras en el camino.",
+    "respuestaCorrecta": "El zapato",
+    "opcionFalsa_1": "La alfombra",
+    "opcionFalsa_2": "El escalón",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Llevo mi casa al hombro, camino sin patas y voy dejando mi rastro de plata.",
+    "respuestaCorrecta": "El caracol",
+    "opcionFalsa_1": "La tortuga",
+    "opcionFalsa_2": "El gusano",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Soy redonda y pequeña, me comes en el verano, y si me pelas, te quitas el grano.",
+    "respuestaCorrecta": "La uva",
+    "opcionFalsa_1": "La cereza",
+    "opcionFalsa_2": "La sandía",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "No tiene cuerpo, pero tiene cabeza; no tiene corazón, pero tiene vena.",
+    "respuestaCorrecta": "El río",
+    "opcionFalsa_1": "La montaña",
+    "opcionFalsa_2": "El árbol",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Un señor muy gordito, con un sombrero de paja; si le abres la puerta, se quita la faja.",
+    "respuestaCorrecta": "El melón",
+    "opcionFalsa_1": "La calabaza",
+    "opcionFalsa_2": "La naranja",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Mientras más se estira, más pequeña se hace. ¿Qué es?",
+    "respuestaCorrecta": "La goma de borrar",
+    "opcionFalsa_1": "Una liga",
+    "opcionFalsa_2": "Un chicle",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Caminaba muy tranquilo, cuando al golpe de una ola, mi vestido se mojó.",
+    "respuestaCorrecta": "El pez",
+    "opcionFalsa_1": "El cangrejo",
+    "opcionFalsa_2": "El barco",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "En el cielo me encuentro, en la tierra me busco, y el que me encuentra, ya no me quiere.",
+    "respuestaCorrecta": "El trueno",
+    "opcionFalsa_1": "El relámpago",
+    "opcionFalsa_2": "El viento",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Me visten de negro y me dicen blanca. Me quitan la piel y no lloro, sino que me queman.",
+    "respuestaCorrecta": "La berenjena",
+    "opcionFalsa_1": "La patata",
+    "opcionFalsa_2": "La cebolla",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Tiene una cresta y no es gallo, tiene espinas y no es pez.",
+    "respuestaCorrecta": "El cactus",
+    "opcionFalsa_1": "La rosa",
+    "opcionFalsa_2": "El puercoespín",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Es una caja pequeña, que se abre sin llave y se cierra sin tapa.",
+    "respuestaCorrecta": "El ojo",
+    "opcionFalsa_1": "La boca",
+    "opcionFalsa_2": "El bolsillo",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Tengo cabeza y cola, pero no tengo cuerpo. ¿Qué soy?",
+    "respuestaCorrecta": "La moneda",
+    "opcionFalsa_1": "La serpiente",
+    "opcionFalsa_2": "El cometa",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Me dan de comer y vivo, me dan de beber y muero.",
+    "respuestaCorrecta": "El fuego",
+    "opcionFalsa_1": "La planta",
+    "opcionFalsa_2": "El pez",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Soy chiquitito, puedo nadar. Vivo en los ríos, lagos y el mar.",
+    "respuestaCorrecta": "El pez",
+    "opcionFalsa_1": "El delfín",
+    "opcionFalsa_2": "El cocodrilo",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Tengo patas, pero no camino. Tengo ojos, pero no veo.",
+    "respuestaCorrecta": "La mesa",
+    "opcionFalsa_1": "La silla",
+    "opcionFalsa_2": "La lámpara",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Tengo barbas y no soy hombre, tengo agujas y no coso.",
+    "respuestaCorrecta": "La espiga",
+    "opcionFalsa_1": "El erizo",
+    "opcionFalsa_2": "El pepino",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Doy calor, y no tengo cuerpo. Doy luz, y no tengo boca.",
+    "respuestaCorrecta": "El sol",
+    "opcionFalsa_1": "La luna",
+    "opcionFalsa_2": "El fuego",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Me llevas a todas partes, pero siempre estoy en mi sitio.",
+    "respuestaCorrecta": "El nombre",
+    "opcionFalsa_1": "El pensamiento",
+    "opcionFalsa_2": "El recuerdo",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Tengo una cola de pelos, y en la cabeza un sombrero.",
+    "respuestaCorrecta": "La escoba",
+    "opcionFalsa_1": "El pincel",
+    "opcionFalsa_2": "El cepillo",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Soy blanco, vengo del mar, y sirvo para sazonar.",
+    "respuestaCorrecta": "La sal",
+    "opcionFalsa_1": "El azúcar",
+    "opcionFalsa_2": "El arroz",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Con solo 12, se puede contar, la mitad no son meses y la otra mitad sí.",
+    "respuestaCorrecta": "Las horas",
+    "opcionFalsa_1": "Los años",
+    "opcionFalsa_2": "Los días",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "En el agua se cría, en el aire vuela, y en la tierra se posa.",
+    "respuestaCorrecta": "La nube",
+    "opcionFalsa_1": "La mariposa",
+    "opcionFalsa_2": "El pájaro",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Es largo y amarillo, y si lo pelas, te quitas el frío.",
+    "respuestaCorrecta": "El plátano",
+    "opcionFalsa_1": "El limón",
+    "opcionFalsa_2": "La zanahoria",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Viene en todas las formas, y su sabor es único. Te hace llorar al cortarlo.",
+    "respuestaCorrecta": "La cebolla",
+    "opcionFalsa_1": "El rábano",
+    "opcionFalsa_2": "El ajo",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Se rompe cuando se habla de él.",
+    "respuestaCorrecta": "El secreto",
+    "opcionFalsa_1": "Un silencio",
+    "opcionFalsa_2": "Un vidrio",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "En una jaula de oro, no es pájaro, pero tiene alas.",
+    "respuestaCorrecta": "El dinero",
+    "opcionFalsa_1": "La mariposa",
+    "opcionFalsa_2": "El ángel",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Por delante tengo cabeza, por detrás tengo cola, pero no tengo cuerpo.",
+    "respuestaCorrecta": "El tren",
+    "opcionFalsa_1": "La moneda",
+    "opcionFalsa_2": "El barco",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Tengo patas, pero no me muevo. Guardo alimentos, pero no como.",
+    "respuestaCorrecta": "El refrigerador",
+    "opcionFalsa_1": "La despensa",
+    "opcionFalsa_2": "El armario",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Anda sin pies, vuela sin alas, y no se ve, pero se escucha.",
+    "respuestaCorrecta": "El viento",
+    "opcionFalsa_1": "La voz",
+    "opcionFalsa_2": "El fantasma",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "La tengo en la punta de la lengua y no puedo decirla.",
+    "respuestaCorrecta": "La palabra",
+    "opcionFalsa_1": "La idea",
+    "opcionFalsa_2": "El nombre",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "¿Qué es aquello que si le das un golpe, te da otro?",
+    "respuestaCorrecta": "La pelota",
+    "opcionFalsa_1": "El eco",
+    "opcionFalsa_2": "El tambor",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Tengo orejas, pero no tengo cuerpo. Tengo cara, pero no tengo nariz.",
+    "respuestaCorrecta": "La jarra",
+    "opcionFalsa_1": "La taza",
+    "opcionFalsa_2": "La maceta",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Con su cola atada a un hilo, en el cielo vuela sin nido.",
+    "respuestaCorrecta": "La cometa",
+    "opcionFalsa_1": "El pájaro",
+    "opcionFalsa_2": "El globo",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Va por tierra sin ser planta, va por el aire sin ser ave, y a muchos les da la vida.",
+    "respuestaCorrecta": "La lluvia",
+    "opcionFalsa_1": "El viento",
+    "opcionFalsa_2": "El río",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Tengo un solo ojo y me dan de comer con el dedo.",
+    "respuestaCorrecta": "La aguja de coser",
+    "opcionFalsa_1": "El dedal",
+    "opcionFalsa_2": "El anillo",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Soy un mar de color, pero sin agua. ¿Qué soy?",
+    "respuestaCorrecta": "Un campo de flores",
+    "opcionFalsa_1": "Una pintura",
+    "opcionFalsa_2": "Un arcoíris",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Tiene alas, pero no vuela. Tiene boca, pero no habla. Nace del huevo, y no es ave.",
+    "respuestaCorrecta": "El avión",
+    "opcionFalsa_1": "El pez",
+    "opcionFalsa_2": "La araña",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Me alimento de papel, y si me dejas, me consumo.",
+    "respuestaCorrecta": "El fuego",
+    "opcionFalsa_1": "El libro",
+    "opcionFalsa_2": "La polilla",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Tengo ocho patas, y un solo cuerpo. No camino, sino que tejo.",
+    "respuestaCorrecta": "La araña",
+    "opcionFalsa_1": "El pulpo",
+    "opcionFalsa_2": "El cangrejo",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Me levanto muy temprano, me acuesto muy tarde, y de noche te alumbro.",
+    "respuestaCorrecta": "La estrella",
+    "opcionFalsa_1": "El sol",
+    "opcionFalsa_2": "La luna",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "¿Qué es aquello que te pertenece, pero los demás usan más que tú?",
+    "respuestaCorrecta": "Tu nombre",
+    "opcionFalsa_1": "Tu casa",
+    "opcionFalsa_2": "Tu dinero",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Cuando está mojada, me seca. Cuando está limpia, me ensucia.",
+    "respuestaCorrecta": "La toalla",
+    "opcionFalsa_1": "La ropa",
+    "opcionFalsa_2": "El cepillo",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Tiene luna y no tiene cielo, tiene mar y no tiene agua.",
+    "respuestaCorrecta": "El espejo",
+    "opcionFalsa_1": "El cuadro",
+    "opcionFalsa_2": "El mapa",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Me visten de verde y me como en ensalada, aunque a veces, me comen con cuchara.",
+    "respuestaCorrecta": "La lechuga",
+    "opcionFalsa_1": "El tomate",
+    "opcionFalsa_2": "La espinaca",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Tengo alas y no soy ave, tengo cola y no soy pez. ¿Qué soy?",
+    "respuestaCorrecta": "La cometa",
+    "opcionFalsa_1": "El murciélago",
+    "opcionFalsa_2": "El avión",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Se abre, se cierra, y te lleva a otro mundo.",
+    "respuestaCorrecta": "El libro",
+    "opcionFalsa_1": "La puerta",
+    "opcionFalsa_2": "La ventana",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Tiene una corona, pero no es rey. Tiene espinas, pero no es rosal.",
+    "respuestaCorrecta": "La piña",
+    "opcionFalsa_1": "La alcachofa",
+    "opcionFalsa_2": "El cardo",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Puedo ser corto o largo, te mido y te doy la hora.",
+    "respuestaCorrecta": "El reloj",
+    "opcionFalsa_1": "El metro",
+    "opcionFalsa_2": "El calendario",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Se puede romper sin tocarlo.",
+    "respuestaCorrecta": "La promesa",
+    "opcionFalsa_1": "Un vaso",
+    "opcionFalsa_2": "Un lápiz",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Se llena de agua y no tiene agujero.",
+    "respuestaCorrecta": "La nube",
+    "opcionFalsa_1": "La botella",
+    "opcionFalsa_2": "El cubo",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Me gusta la lluvia, vivo en un charco, y puedo transformarme.",
+    "respuestaCorrecta": "El sapo",
+    "opcionFalsa_1": "El pez",
+    "opcionFalsa_2": "El pato",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Se cae, y no se rompe. Se moja, y se endurece.",
+    "respuestaCorrecta": "El pelo",
+    "opcionFalsa_1": "La hoja",
+    "opcionFalsa_2": "La tela",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Una vieja arrugada, con un moño en la cabeza. Te come sin morder.",
+    "respuestaCorrecta": "La araña",
+    "opcionFalsa_1": "La bruja",
+    "opcionFalsa_2": "La serpiente",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Tengo ocho pares de alas, pero solo vuelo cuando me encienden.",
+    "respuestaCorrecta": "La bombilla",
+    "opcionFalsa_1": "La vela",
+    "opcionFalsa_2": "La luciérnaga",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Me tienes que quebrar para usarme.",
+    "respuestaCorrecta": "El huevo",
+    "opcionFalsa_1": "El hielo",
+    "opcionFalsa_2": "La nuez",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Corre y corre, y se detiene en seco. ¿Qué es?",
+    "respuestaCorrecta": "El río",
+    "opcionFalsa_1": "El coche",
+    "opcionFalsa_2": "El pensamiento",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Soy un escudo, te protejo del sol. Si me abres, te tapo.",
+    "respuestaCorrecta": "El paraguas",
+    "opcionFalsa_1": "El sombrero",
+    "opcionFalsa_2": "La sombrilla",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Me pinchan con agujas, pero no sangro. Me cortan, y me usan para escribir.",
+    "respuestaCorrecta": "El lápiz",
+    "opcionFalsa_1": "El papel",
+    "opcionFalsa_2": "El árbol",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Me visten de blanco en invierno, pero en verano, me desnudan.",
+    "respuestaCorrecta": "La montaña nevada",
+    "opcionFalsa_1": "El árbol",
+    "opcionFalsa_2": "La oveja",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Tengo manos, pero no aplaudo. Tengo voz, pero no canto.",
+    "respuestaCorrecta": "El guante",
+    "opcionFalsa_1": "El reloj",
+    "opcionFalsa_2": "La campana",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Si lo tienes, no lo compartes. Si lo compartes, no lo tienes.",
+    "respuestaCorrecta": "El secreto",
+    "opcionFalsa_1": "El dinero",
+    "opcionFalsa_2": "La comida",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Me miras y te ves, si me rompes, me pierdes.",
+    "respuestaCorrecta": "El espejo",
+    "opcionFalsa_1": "El recuerdo",
+    "opcionFalsa_2": "El vaso",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "De día está vacío, de noche está lleno. Se llena de estrellas, pero no es cielo.",
+    "respuestaCorrecta": "El sueño",
+    "opcionFalsa_1": "El desierto",
+    "opcionFalsa_2": "El océano",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Tengo una capa y no soy superhéroe. Tengo dientes y no muerdo.",
+    "respuestaCorrecta": "La llave",
+    "opcionFalsa_1": "El peine",
+    "opcionFalsa_2": "El libro",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Si me caes, me rompes. Si me miras, te engaño.",
+    "respuestaCorrecta": "La mentira",
+    "opcionFalsa_1": "El jarrón",
+    "opcionFalsa_2": "El espejo",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Tengo alas, pero no vuelo. Tengo voz, pero no hablo. ¿Qué soy?",
+    "respuestaCorrecta": "La carta",
+    "opcionFalsa_1": "El libro",
+    "opcionFalsa_2": "El reloj",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Me dan golpes y me hacen sonar, pero no soy campana.",
+    "respuestaCorrecta": "El tambor",
+    "opcionFalsa_1": "La puerta",
+    "opcionFalsa_2": "El gong",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Tengo un agujero en el medio, y te llevo a donde quieres ir.",
+    "respuestaCorrecta": "El anillo",
+    "opcionFalsa_1": "El cinturón",
+    "opcionFalsa_2": "El volante",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Me sacas del hoyo, y más grande me hago.",
+    "respuestaCorrecta": "El agujero",
+    "opcionFalsa_1": "La pala",
+    "opcionFalsa_2": "La tierra",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Tengo un ojo, y no veo. Tengo un cuello, y no cabeza. ¿Qué soy?",
+    "respuestaCorrecta": "La botella",
+    "opcionFalsa_1": "La aguja",
+    "opcionFalsa_2": "El grifo",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "Me tienes que llenar para usarme, pero me tienes que vaciar para guardarme.",
+    "respuestaCorrecta": "El globo",
+    "opcionFalsa_1": "El cajón",
+    "opcionFalsa_2": "La nevera",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "En el fuego me quemo, en el agua no me mojo. ¿Qué soy?",
+    "respuestaCorrecta": "La estrella",
+    "opcionFalsa_1": "La luz",
+    "opcionFalsa_2": "La sombra",
+    "categoria": "Adivinanzas"
+  },
+  {
+    "textoPregunta": "¿Quién es el asesino principal en la saga de películas 'Viernes 13'?",
+    "respuestaCorrecta": "Jason Voorhees",
+    "opcionFalsa_1": "Freddy Krueger",
+    "opcionFalsa_2": "Michael Myers",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En qué película un payaso demoníaco aterroriza a los niños de un pueblo?",
+    "respuestaCorrecta": "It (Eso)",
+    "opcionFalsa_1": "Poltergeist",
+    "opcionFalsa_2": "El Conjuro",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del hotel embrujado en la novela 'El resplandor' de Stephen King?",
+    "respuestaCorrecta": "El Hotel Overlook",
+    "opcionFalsa_1": "El Hotel Bates",
+    "opcionFalsa_2": "El Hotel Cecil",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué criatura es el antagonista principal en la película 'Alien'?",
+    "respuestaCorrecta": "El Xenomorfo",
+    "opcionFalsa_1": "El Depredador",
+    "opcionFalsa_2": "La Cosa",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Quién dirigió la película de terror 'Psicosis' de 1960?",
+    "respuestaCorrecta": "Alfred Hitchcock",
+    "opcionFalsa_1": "Stanley Kubrick",
+    "opcionFalsa_2": "Wes Craven",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál de estas películas es considerada un clásico del cine de zombies?",
+    "respuestaCorrecta": "La Noche de los Muertos Vivientes",
+    "opcionFalsa_1": "Entrevista con el vampiro",
+    "opcionFalsa_2": "El Hombre Lobo",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cómo se llama la muñeca poseída de la saga 'El Conjuro'?",
+    "respuestaCorrecta": "Annabelle",
+    "opcionFalsa_1": "Chucky",
+    "opcionFalsa_2": "Tiffany",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En qué película de terror una familia es aterrorizada por los espíritus de una casa construida sobre un cementerio indio?",
+    "respuestaCorrecta": "Poltergeist",
+    "opcionFalsa_1": "El Exorcista",
+    "opcionFalsa_2": "La Profecía",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué asesino en serie de ficción utiliza un guante con cuchillas?",
+    "respuestaCorrecta": "Freddy Krueger",
+    "opcionFalsa_1": "Leatherface",
+    "opcionFalsa_2": "Ghostface",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál de estas novelas de Stephen King fue llevada al cine por Stanley Kubrick?",
+    "respuestaCorrecta": "El resplandor",
+    "opcionFalsa_1": "Carrie",
+    "opcionFalsa_2": "Misery",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de metraje encontrado popularizó el género en 1999?",
+    "respuestaCorrecta": "El Proyecto de la Bruja de Blair",
+    "opcionFalsa_1": "REC",
+    "opcionFalsa_2": "Actividad Paranormal",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Quién es el autor de la novela 'Drácula'?",
+    "respuestaCorrecta": "Bram Stoker",
+    "opcionFalsa_1": "Mary Shelley",
+    "opcionFalsa_2": "Edgar Allan Poe",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En la saga 'Halloween', quién es el principal antagonista?",
+    "respuestaCorrecta": "Michael Myers",
+    "opcionFalsa_1": "Jason Voorhees",
+    "opcionFalsa_2": "Freddy Krueger",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror presenta a una niña poseída que puede girar la cabeza 360 grados?",
+    "respuestaCorrecta": "El Exorcista",
+    "opcionFalsa_1": "La Profecía",
+    "opcionFalsa_2": "El Bebé de Rosemary",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del asesino enmascarado de la franquicia 'Scream'?",
+    "respuestaCorrecta": "Ghostface",
+    "opcionFalsa_1": "Leatherface",
+    "opcionFalsa_2": "Jigsaw",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué novela de H.P. Lovecraft introduce al antiguo y poderoso Cthulhu?",
+    "respuestaCorrecta": "La llamada de Cthulhu",
+    "opcionFalsa_1": "En las montañas de la locura",
+    "opcionFalsa_2": "El color que cayó del cielo",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En qué película un grupo de amigos es cazado por un caníbal con una motosierra?",
+    "respuestaCorrecta": "La Matanza de Texas",
+    "opcionFalsa_1": "Las colinas tienen ojos",
+    "opcionFalsa_2": "Hostel",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Quién escribió 'Frankenstein o el moderno Prometeo'?",
+    "respuestaCorrecta": "Mary Shelley",
+    "opcionFalsa_1": "Jane Austen",
+    "opcionFalsa_2": "Emily Brontë",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En la película 'El Silencio de los Inocentes', ¿cuál es el nombre del brillante pero caníbal asesino?",
+    "respuestaCorrecta": "Hannibal Lecter",
+    "opcionFalsa_1": "Buffalo Bill",
+    "opcionFalsa_2": "Norman Bates",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror japonesa fue rehecha en Estados Unidos como 'The Ring'?",
+    "respuestaCorrecta": "Ringu",
+    "opcionFalsa_1": "Ju-On: The Grudge",
+    "opcionFalsa_2": "Dark Water",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué subgénero del terror se centra en lo grotesco, el gore y la mutilación corporal?",
+    "respuestaCorrecta": "Body Horror",
+    "opcionFalsa_1": "Gótico",
+    "opcionFalsa_2": "Slasher",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué director de cine de terror es conocido por su uso de la sátira social, con películas como 'Get Out'?",
+    "respuestaCorrecta": "Jordan Peele",
+    "opcionFalsa_1": "James Wan",
+    "opcionFalsa_2": "Ari Aster",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué famoso vampiro protagoniza la película 'Nosferatu' de 1922?",
+    "respuestaCorrecta": "Conde Orlok",
+    "opcionFalsa_1": "Drácula",
+    "opcionFalsa_2": "Lestat",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cómo se llama la casa embrujada donde se desarrolla la acción en la película 'El Conjuro'?",
+    "respuestaCorrecta": "La granja de Harrisville",
+    "opcionFalsa_1": "La casa Amityville",
+    "opcionFalsa_2": "Hill House",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de George A. Romero popularizó el género de los zombis modernos?",
+    "respuestaCorrecta": "La Noche de los Muertos Vivientes",
+    "opcionFalsa_1": "El amanecer de los muertos",
+    "opcionFalsa_2": "Día de los muertos",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del muñeco asesino de la saga 'Child's Play'?",
+    "respuestaCorrecta": "Chucky",
+    "opcionFalsa_1": "Billy",
+    "opcionFalsa_2": "Robert",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En qué película de terror el protagonista juega un juego de mesa que da vida a los monstruos?",
+    "respuestaCorrecta": "Jumanji (versión original)",
+    "opcionFalsa_1": "Zathura",
+    "opcionFalsa_2": "Ouija",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué actriz es considerada la 'Reina del Grito' original por sus papeles en 'Halloween' y 'Prom Night'?",
+    "respuestaCorrecta": "Jamie Lee Curtis",
+    "opcionFalsa_1": "Neve Campbell",
+    "opcionFalsa_2": "Sigourney Weaver",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué director de terror dirigió 'Pesadilla en Elm Street' y 'Scream'?",
+    "respuestaCorrecta": "Wes Craven",
+    "opcionFalsa_1": "John Carpenter",
+    "opcionFalsa_2": "George A. Romero",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué novela de terror de Stephen King trata sobre una adolescente con poderes telequinéticos?",
+    "respuestaCorrecta": "Carrie",
+    "opcionFalsa_1": "Misery",
+    "opcionFalsa_2": "It (Eso)",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del ser interdimensional que adopta la forma de payaso en 'It (Eso)'?",
+    "respuestaCorrecta": "Pennywise",
+    "opcionFalsa_1": "Babadook",
+    "opcionFalsa_2": "Slenderman",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 1979 trata sobre una familia que se muda a una casa con un oscuro pasado?",
+    "respuestaCorrecta": "Terror en Amityville",
+    "opcionFalsa_1": "El Exorcista",
+    "opcionFalsa_2": "La Profecía",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué famosa escena de 'Psicosis' ocurre en una ducha?",
+    "respuestaCorrecta": "El asesinato de Marion Crane",
+    "opcionFalsa_1": "El descubrimiento del cuerpo",
+    "opcionFalsa_2": "El final en el sótano",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué criatura mitológica es central en la novela 'Soy Leyenda' de Richard Matheson?",
+    "respuestaCorrecta": "Vampiros/Infectados",
+    "opcionFalsa_1": "Hombres lobo",
+    "opcionFalsa_2": "Zombis",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué personaje de terror usa una máscara hecha de piel humana?",
+    "respuestaCorrecta": "Leatherface",
+    "opcionFalsa_1": "Ghostface",
+    "opcionFalsa_2": "Jigsaw",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Quién interpretó a la poseída Regan MacNeil en 'El Exorcista'?",
+    "respuestaCorrecta": "Linda Blair",
+    "opcionFalsa_1": "Sissy Spacek",
+    "opcionFalsa_2": "Mia Farrow",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 2018 dirigida por Ari Aster se centra en una familia que lidia con la muerte de una abuela?",
+    "respuestaCorrecta": "Hereditary",
+    "opcionFalsa_1": "Midsommar",
+    "opcionFalsa_2": "The Witch",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del hospital psiquiátrico donde se encontraba recluido Hannibal Lecter?",
+    "respuestaCorrecta": "Baltimore State Hospital for the Criminally Insane",
+    "opcionFalsa_1": "Arkham Asylum",
+    "opcionFalsa_2": "Hospital Overlook",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué novela de Shirley Jackson es la base de la serie de Netflix 'La Maldición de Hill House'?",
+    "respuestaCorrecta": "La maldición de Hill House",
+    "opcionFalsa_1": "Siempre hemos vivido en el castillo",
+    "opcionFalsa_2": "El Reloj de la Muerte",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué cineasta es conocido por popularizar el género 'Giallo' italiano (terror y suspense)?",
+    "respuestaCorrecta": "Dario Argento",
+    "opcionFalsa_1": "Federico Fellini",
+    "opcionFalsa_2": "Michelangelo Antonioni",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En la película 'El Proyecto de la Bruja de Blair', ¿qué era lo que se encontraba al final de los senderos?",
+    "respuestaCorrecta": "Figuras de palo (stick figures)",
+    "opcionFalsa_1": "Un muñeco de vudú",
+    "opcionFalsa_2": "Un cráneo",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del científico loco que creó una criatura con partes de cadáveres?",
+    "respuestaCorrecta": "Victor Frankenstein",
+    "opcionFalsa_1": "Dr. Jekyll",
+    "opcionFalsa_2": "Dr. Moreau",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2004 presenta a un asesino en serie llamado Jigsaw que obliga a sus víctimas a participar en 'juegos'?",
+    "respuestaCorrecta": "Saw (El juego del miedo)",
+    "opcionFalsa_1": "Hostel",
+    "opcionFalsa_2": "Se7en",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué autor es considerado el maestro del relato corto de terror y misterio, con obras como 'El Cuervo'?",
+    "respuestaCorrecta": "Edgar Allan Poe",
+    "opcionFalsa_1": "H.P. Lovecraft",
+    "opcionFalsa_2": "Ambrose Bierce",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En 'La Profecía', ¿cómo se llama el niño que es el Anticristo?",
+    "respuestaCorrecta": "Damien Thorn",
+    "opcionFalsa_1": "Caleb",
+    "opcionFalsa_2": "Isaac",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué novela de terror de Stephen King trata sobre un coche poseído?",
+    "respuestaCorrecta": "Christine",
+    "opcionFalsa_1": "Cujo",
+    "opcionFalsa_2": "The Dead Zone",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué actor interpretó al vampiro Drácula en la película de 1931 de Universal?",
+    "respuestaCorrecta": "Bela Lugosi",
+    "opcionFalsa_1": "Christopher Lee",
+    "opcionFalsa_2": "Max Schreck",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2007 es famosa por su escena de 'tortura' con un globo ocular?",
+    "respuestaCorrecta": "Saw IV",
+    "opcionFalsa_1": "Hostel",
+    "opcionFalsa_2": "The Texas Chainsaw Massacre",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre de la familia caníbal en 'Las colinas tienen ojos' de Wes Craven?",
+    "respuestaCorrecta": "La familia Jupiter",
+    "opcionFalsa_1": "La familia Firefly",
+    "opcionFalsa_2": "La familia Sawyer",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué personaje de terror es famoso por decir 'Whatever happened to predictability?' ('¿Qué le pasó a la previsibilidad?')",
+    "respuestaCorrecta": "Freddy Krueger",
+    "opcionFalsa_1": "Chucky",
+    "opcionFalsa_2": "Jason Voorhees",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del detective que investiga a Hannibal Lecter en las novelas de Thomas Harris?",
+    "respuestaCorrecta": "Will Graham",
+    "opcionFalsa_1": "Jack Crawford",
+    "opcionFalsa_2": "Clarice Starling",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 2002 es un *remake* de una película japonesa sobre un fantasma que ataca a través de un vídeo?",
+    "respuestaCorrecta": "The Ring",
+    "opcionFalsa_1": "The Grudge",
+    "opcionFalsa_2": "Dark Water",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué subgénero del terror se basa en la idea de que la humanidad es insignificante ante seres cósmicos indescifrables?",
+    "respuestaCorrecta": "Terror cósmico (Lovecraftiano)",
+    "opcionFalsa_1": "Terror psicológico",
+    "opcionFalsa_2": "Slasher",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 1968, dirigida por Roman Polanski, trata sobre una mujer que cree que su embarazo es satánico?",
+    "respuestaCorrecta": "El Bebé de Rosemary",
+    "opcionFalsa_1": "El Exorcista",
+    "opcionFalsa_2": "La Profecía",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del lugar donde Freddy Krueger caza a sus víctimas?",
+    "respuestaCorrecta": "En los sueños",
+    "opcionFalsa_1": "Campamento Crystal Lake",
+    "opcionFalsa_2": "El Hotel Overlook",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué novela de Stephen King trata sobre una jauría de perros rabiosos?",
+    "respuestaCorrecta": "Cujo",
+    "opcionFalsa_1": "Misery",
+    "opcionFalsa_2": "Cementerio de Mascotas",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En la película 'Actividad Paranormal', ¿qué tipo de actividad demoníaca atormenta a la pareja?",
+    "respuestaCorrecta": "Actividad Poltergeist",
+    "opcionFalsa_1": "Posesión",
+    "opcionFalsa_2": "Llamadas telefónicas",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 2014 presenta a un monstruo que solo se ve como una sombra en la oscuridad?",
+    "respuestaCorrecta": "The Babadook",
+    "opcionFalsa_1": "It Follows",
+    "opcionFalsa_2": "Lights Out",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué asesino en serie de ficción se esconde tras la máscara de 'Ghostface'?",
+    "respuestaCorrecta": "Múltiples asesinos",
+    "opcionFalsa_1": "Billy Loomis",
+    "opcionFalsa_2": "Stu Macher",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué novela de terror de Stephen King trata sobre un escritor que queda paralizado y cautivo por una fanática?",
+    "respuestaCorrecta": "Misery",
+    "opcionFalsa_1": "The Green Mile",
+    "opcionFalsa_2": "La Zona Muerta",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el título original de la película de terror 'El Conjuro'?",
+    "respuestaCorrecta": "The Conjuring",
+    "opcionFalsa_1": "Annabelle",
+    "opcionFalsa_2": "The Nun",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué clásico monstruo de terror fue creado por el Dr. Jekyll?",
+    "respuestaCorrecta": "Mr. Hyde",
+    "opcionFalsa_1": "La criatura de Frankenstein",
+    "opcionFalsa_2": "El Hombre Invisible",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror japonesa presenta a la fantasma Kayako Saeki, conocida por su espeluznante sonido de garganta?",
+    "respuestaCorrecta": "Ju-On: The Grudge (La Maldición)",
+    "opcionFalsa_1": "Ringu",
+    "opcionFalsa_2": "Dark Water",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 1980 trata sobre una posesión demoníaca en una cabaña remota?",
+    "respuestaCorrecta": "The Evil Dead (Posesión infernal)",
+    "opcionFalsa_1": "Poltergeist",
+    "opcionFalsa_2": "Re-Animator",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del barco que trae a Drácula a Inglaterra en la novela de Bram Stoker?",
+    "respuestaCorrecta": "Demeter",
+    "opcionFalsa_1": "Nostromo",
+    "opcionFalsa_2": "Titanic",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué es 'Necronomicon Ex-Mortis' en la saga 'The Evil Dead'?",
+    "respuestaCorrecta": "El Libro de los Muertos",
+    "opcionFalsa_1": "Un arma antigua",
+    "opcionFalsa_2": "Un conjuro",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En qué película de terror el protagonista se despierta atado a una tubería con otro hombre?",
+    "respuestaCorrecta": "Saw (El juego del miedo)",
+    "opcionFalsa_1": "Hostel",
+    "opcionFalsa_2": "Cube",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué famosa escena de 'El Exorcista' involucra una sopa de guisantes?",
+    "respuestaCorrecta": "El vómito de la niña poseída",
+    "opcionFalsa_1": "La cena de la familia",
+    "opcionFalsa_2": "El sacerdote comiendo",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué famoso director de cine es el responsable de la saga 'REC'?",
+    "respuestaCorrecta": "Jaume Balagueró y Paco Plaza",
+    "opcionFalsa_1": "Guillermo del Toro",
+    "opcionFalsa_2": "Juan Antonio Bayona",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En 'La Matanza de Texas', ¿cuál es el nombre del caníbal que persigue a los jóvenes?",
+    "respuestaCorrecta": "Leatherface",
+    "opcionFalsa_1": "Michael Myers",
+    "opcionFalsa_2": "Jason Voorhees",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué novela de terror de Richard Matheson trata sobre un hombre que sobrevive a una plaga de vampiros en Los Ángeles?",
+    "respuestaCorrecta": "Soy Leyenda",
+    "opcionFalsa_1": "The Shrinking Man",
+    "opcionFalsa_2": "Hell House",
+    "categoria": "Terror"
+  }
+]

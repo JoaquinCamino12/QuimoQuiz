@@ -1,0 +1,25 @@
+/**
+ * @description This ruleset governs access to the global question database for the Quimo-Quiz app. It allows public read access to all questions and restricts write access.
+ * @dataStructure The database consists of a single collection, `PreguntasGlobales`, where each document represents a quiz question.
+ * @keySecurityDecisions All questions are publicly readable to support the quiz functionality. Write operations are completely disabled to prevent unauthorized modification of the question bank. There is no user-specific data or authorization context in this design, questions are global and public.
+ */
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    /**
+     * @description Controls access to individual question documents within the `PreguntasGlobales` collection.
+     * @path /PreguntasGlobales/{preguntaId}
+     * @allow (get, list): Any user can read any question.
+     * @deny (create, update, delete): No user can create, update, or delete questions.
+     * @principle Public read access with no write access enforced for the global question collection.
+     */
+    match /PreguntasGlobales/{preguntaId} {
+      allow get: if true;
+      allow list: if true;
+      allow create: if false;
+      allow update: if false;
+      allow delete: if false;
+    }
+  }
+}
