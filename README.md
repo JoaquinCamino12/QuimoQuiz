@@ -14,7 +14,9 @@ Pruebalo Aqui [QuimoQuiz](https://studio--studio-5703333971-e616b.us-central1.ho
 - **📊 Resultados Detallados:** Revisa tu rendimiento al final de cada partida con un resumen completo.
 - **🔥 Base de Datos en Tiempo Real:** Utiliza **Firebase Firestore** para almacenar y obtener preguntas de forma dinámica.
 - **📱 Totalmente Responsivo:** Disfruta de una experiencia perfecta en cualquier dispositivo, ya sea móvil o de escritorio.
-
+- **⚔️ Modo PVP en Tiempo Real:** ¡Crea salas de juego privadas, invita a tus amigos y compite en tiempo real para ver quién es el verdadero campeón de la trivia!
+- **룸 Gestión de Salas:** Sistema completo para crear y unirse a partidas mediante un código de sala único.
+- **🔄 Sincronización Instantánea:** Gracias a Firebase Firestore, todas las acciones (respuestas, puntuaciones, avance de preguntas) se reflejan al instante para todos los jugadores en la sala.
 ---
 
 ## 🛠️ Tecnologías Utilizadas
