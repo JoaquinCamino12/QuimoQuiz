@@ -2,8 +2,12 @@
 
 import { firebaseConfig } from '@/firebase/config';
 import { initializeApp, getApps, getApp, FirebaseApp } from 'firebase/app';
-import { getAuth } from 'firebase/auth';
+import { getAuth, signInAnonymously, onAuthStateChanged, User } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore'
+
+let authInstance: any = null;
+let firestoreInstance: any = null;
+let firebaseAppInstance: any = null;
 
 // IMPORTANT: DO NOT MODIFY THIS FUNCTION
 export function initializeFirebase() {
@@ -24,12 +28,28 @@ export function initializeFirebase() {
       }
       firebaseApp = initializeApp(firebaseConfig);
     }
+    firebaseAppInstance = firebaseApp;
+    authInstance = getAuth(firebaseApp);
+    firestoreInstance = getFirestore(firebaseApp);
 
-    return getSdks(firebaseApp);
+    onAuthStateChanged(authInstance, (user) => {
+        if (!user) {
+            signInAnonymously(authInstance);
+        }
+    });
+
+  } else {
+     firebaseAppInstance = getApp();
+     authInstance = getAuth(firebaseAppInstance);
+     firestoreInstance = getFirestore(firebaseAppInstance);
   }
 
   // If already initialized, return the SDKs with the already initialized App
-  return getSdks(getApp());
+  return {
+      firebaseApp: firebaseAppInstance,
+      auth: authInstance,
+      firestore: firestoreInstance
+  };
 }
 
 export function getSdks(firebaseApp: FirebaseApp) {

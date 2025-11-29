@@ -4023,5 +4023,2343 @@
     "opcionFalsa_1": "The Shrinking Man",
     "opcionFalsa_2": "Hell House",
     "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de ciencia ficción de 1993 presenta a un parque temático con dinosaurios clonados?",
+    "respuestaCorrecta": "Parque Jurásico",
+    "opcionFalsa_1": "Godzilla",
+    "opcionFalsa_2": "El Planeta de los Simios",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Quién interpretó a Neo en la trilogía original de Matrix?",
+    "respuestaCorrecta": "Keanu Reeves",
+    "opcionFalsa_1": "Brad Pitt",
+    "opcionFalsa_2": "Matt Damon",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del robot principal en la película 'WALL·E'?",
+    "respuestaCorrecta": "WALL·E",
+    "opcionFalsa_1": "R2-D2",
+    "opcionFalsa_2": "C-3PO",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actor interpreta a Thor en el Universo Cinematográfico de Marvel?",
+    "respuestaCorrecta": "Chris Hemsworth",
+    "opcionFalsa_1": "Chris Evans",
+    "opcionFalsa_2": "Paul Rudd",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿En qué película de 2004 se presenta una sociedad distópica donde los humanos viven en una simulación?",
+    "respuestaCorrecta": "The Matrix Reloaded",
+    "opcionFalsa_1": "Ready Player One",
+    "opcionFalsa_2": "Minority Report",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 1979 presenta a un grupo de astronautas que descubren una forma de vida hostil en un planeta remoto?",
+    "respuestaCorrecta": "Alien",
+    "opcionFalsa_1": "Star Trek",
+    "opcionFalsa_2": "Outland",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Quién dirigió “La lista de Schindler”?",
+    "respuestaCorrecta": "Steven Spielberg",
+    "opcionFalsa_1": "Martin Scorsese",
+    "opcionFalsa_2": "Francis Ford Coppola",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del villano principal en “Los Vengadores” (2012)?",
+    "respuestaCorrecta": "Loki",
+    "opcionFalsa_1": "Thanos",
+    "opcionFalsa_2": "Ultron",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de Pixar trata sobre un chef ratón en París?",
+    "respuestaCorrecta": "Ratatouille",
+    "opcionFalsa_1": "Coco",
+    "opcionFalsa_2": "Buscando a Nemo",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es la primera película animada en ganar un Oscar a la Mejor Película?",
+    "respuestaCorrecta": "Ninguna (hasta la fecha no ha ocurrido)",
+    "opcionFalsa_1": "Toy Story",
+    "opcionFalsa_2": "Frozen",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actriz interpreta a Black Widow en el UCM?",
+    "respuestaCorrecta": "Scarlett Johansson",
+    "opcionFalsa_1": "Elizabeth Olsen",
+    "opcionFalsa_2": "Brie Larson",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del dragón en 'Cómo entrenar a tu dragón'?",
+    "respuestaCorrecta": "Desdentado",
+    "opcionFalsa_1": "Furia de la Noche",
+    "opcionFalsa_2": "Tormenta",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2017 ganó el Oscar a la Mejor Película después de un error en la entrega del premio?",
+    "respuestaCorrecta": "Moonlight",
+    "opcionFalsa_1": "La La Land",
+    "opcionFalsa_2": "Manchester by the Sea",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Quién es el director de la película 'Parasite'?",
+    "respuestaCorrecta": "Bong Joon-ho",
+    "opcionFalsa_1": "Park Chan-wook",
+    "opcionFalsa_2": "Kim Jee-woon",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué serie de televisión sigue a un profesor de química convertido en fabricante de metanfetamina?",
+    "respuestaCorrecta": "Breaking Bad",
+    "opcionFalsa_1": "Ozark",
+    "opcionFalsa_2": "The Wire",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del barco en la película 'Titanic'?",
+    "respuestaCorrecta": "RMS Titanic",
+    "opcionFalsa_1": "RMS Lusitania",
+    "opcionFalsa_2": "SS Normandie",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actor interpreta a Loki en el UCM?",
+    "respuestaCorrecta": "Tom Hiddleston",
+    "opcionFalsa_1": "Benedict Cumberbatch",
+    "opcionFalsa_2": "Idris Elba",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿En qué película un niño es abandonado en casa en Navidad mientras su familia viaja a París?",
+    "respuestaCorrecta": "Solo en casa",
+    "opcionFalsa_1": "Mi pobre angelito",
+    "opcionFalsa_2": "Vacaciones en familia",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del perro de los Simpson?",
+    "respuestaCorrecta": "Ayudante de Santa Claus",
+    "opcionFalsa_1": "Milhouse",
+    "opcionFalsa_2": "Ned Flanders",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de animación de Disney presenta a una joven con cabello mágico dorado?",
+    "respuestaCorrecta": "Enredados",
+    "opcionFalsa_1": "Frozen",
+    "opcionFalsa_2": "Moana",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Quién es el creador de la serie 'Stranger Things'?",
+    "respuestaCorrecta": "Los hermanos Duffer",
+    "opcionFalsa_1": "J.J. Abrams",
+    "opcionFalsa_2": "Ryan Murphy",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 1986 trata sobre un científico que se transforma en una mosca?",
+    "respuestaCorrecta": "La Mosca",
+    "opcionFalsa_1": "Gremlins",
+    "opcionFalsa_2": "Alien",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del personaje de Will Smith en 'Hancock'?",
+    "respuestaCorrecta": "John Hancock",
+    "opcionFalsa_1": "Mike Lowrey",
+    "opcionFalsa_2": "Agent J",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 1995 presenta a un vaquero de juguete celoso de un astronauta nuevo?",
+    "respuestaCorrecta": "Toy Story",
+    "opcionFalsa_1": "Buzz Lightyear of Star Command",
+    "opcionFalsa_2": "Monsters, Inc.",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Quién dirigió 'El Padrino: Parte II'?",
+    "respuestaCorrecta": "Francis Ford Coppola",
+    "opcionFalsa_1": "Martin Scorsese",
+    "opcionFalsa_2": "Sergio Leone",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué serie de televisión se desarrolla en un hospital psiquiátrico en los años 60?",
+    "respuestaCorrecta": "American Horror Story: Asylum",
+    "opcionFalsa_1": "House M.D.",
+    "opcionFalsa_2": "Grey's Anatomy",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del villano en 'El Caballero Oscuro' que dice 'Why so serious?'?",
+    "respuestaCorrecta": "El Joker",
+    "opcionFalsa_1": "Bane",
+    "opcionFalsa_2": "Dos Caras",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2003 presenta a un grupo de piratas en busca de una maldición antigua?",
+    "respuestaCorrecta": "Piratas del Caribe: La maldición del cofre muerto",
+    "opcionFalsa_1": "Piratas del Caribe: En el fin del mundo",
+    "opcionFalsa_2": "Piratas del Caribe: La venganza de Salazar",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del androide en 'Alien: Covenant'?",
+    "respuestaCorrecta": "David",
+    "opcionFalsa_1": "Ash",
+    "opcionFalsa_2": "Bishop",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 1990 trata sobre un niño que llama a un fontanero para salvar a su hermano atrapado en un mundo mágico?",
+    "respuestaCorrecta": "Super Mario Bros.",
+    "opcionFalsa_1": "Los Cazafantasmas",
+    "opcionFalsa_2": "El viaje de Chihiro",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Quién interpreta a la Viuda Negra en 'Los Vengadores'?",
+    "respuestaCorrecta": "Scarlett Johansson",
+    "opcionFalsa_1": "Gal Gadot",
+    "opcionFalsa_2": "Brie Larson",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2015 presenta a un astronauta atrapado en Marte?",
+    "respuestaCorrecta": "The Martian",
+    "opcionFalsa_1": "Gravity",
+    "opcionFalsa_2": "Interstellar",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del rey en 'El Rey León' que es asesinado por su hermano?",
+    "respuestaCorrecta": "Mufasa",
+    "opcionFalsa_1": "Scar",
+    "opcionFalsa_2": "Rafiki",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué serie de televisión presenta a un grupo de científicos atrapados en los años 80 tras un experimento fallido?",
+    "respuestaCorrecta": "Dark",
+    "opcionFalsa_1": "Stranger Things",
+    "opcionFalsa_2": "The Umbrella Academy",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actor interpreta a Deadpool en las películas del UCM?",
+    "respuestaCorrecta": "Ryan Reynolds",
+    "opcionFalsa_1": "Chris Evans",
+    "opcionFalsa_2": "Mark Ruffalo",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del laboratorio secreto en 'Stranger Things'?",
+    "respuestaCorrecta": "Laboratorio Nacional de Hawkins",
+    "opcionFalsa_1": "S.T.A.R. Labs",
+    "opcionFalsa_2": "Wayne Enterprises",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 1988 presenta a un taxista que descubre que su pasajero es un extraterrestre?",
+    "respuestaCorrecta": "El hombre de la luna",
+    "opcionFalsa_1": "E.T. el Extraterrestre",
+    "opcionFalsa_2": "Starman",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del coche en 'Regreso al futuro'?",
+    "respuestaCorrecta": "DeLorean DMC-12",
+    "opcionFalsa_1": "Ford Mustang",
+    "opcionFalsa_2": "Chevrolet Impala",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2000 presenta a un grupo de niños que descubren un tesoro en una isla?",
+    "respuestaCorrecta": "Los Goonies",
+    "opcionFalsa_1": "Piratas del Caribe",
+    "opcionFalsa_2": "La isla del tesoro",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Quién es el creador de la serie 'The Walking Dead'?",
+    "respuestaCorrecta": "Robert Kirkman",
+    "opcionFalsa_1": "Frank Darabont",
+    "opcionFalsa_2": "Greg Nicotero",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 1996 presenta a un agente secreto que se disfraza de modelo femenina?",
+    "respuestaCorrecta": "Agente 007: GoldenEye",
+    "opcionFalsa_1": "Austin Powers",
+    "opcionFalsa_2": "Misión imposible",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del personaje de Johnny Depp en 'Edward Manos de Tijera'?",
+    "respuestaCorrecta": "Edward",
+    "opcionFalsa_1": "Jack Sparrow",
+    "opcionFalsa_2": "Willy Wonka",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2012 presenta a un superhéroe que debe enfrentar a un villano en Nueva York?",
+    "respuestaCorrecta": "Los Vengadores",
+    "opcionFalsa_1": "El Hombre Araña",
+    "opcionFalsa_2": "Batman: El caballero de la noche",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del planeta natal de los Transformers?",
+    "respuestaCorrecta": "Cybertron",
+    "opcionFalsa_1": "Tatooine",
+    "opcionFalsa_2": "Vulcano",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué serie de televisión presenta a un grupo de personas que sobreviven a un apocalipsis zombi?",
+    "respuestaCorrecta": "The Walking Dead",
+    "opcionFalsa_1": "Fear the Walking Dead",
+    "opcionFalsa_2": "Z Nation",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Quién interpreta a Capitana Marvel en el UCM?",
+    "respuestaCorrecta": "Brie Larson",
+    "opcionFalsa_1": "Scarlett Johansson",
+    "opcionFalsa_2": "Gal Gadot",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 1987 presenta a un detective que se une a un grupo de cazafantasmas?",
+    "respuestaCorrecta": "Los Cazafantasmas II",
+    "opcionFalsa_1": "Beetlejuice",
+    "opcionFalsa_2": "Poltergeist",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del perro de Scooby-Doo?",
+    "respuestaCorrecta": "Scooby-Doo",
+    "opcionFalsa_1": "Scrappy-Doo",
+    "opcionFalsa_2": "Shaggy",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2011 presenta a un príncipe que debe enfrentar a un dragón?",
+    "respuestaCorrecta": "Rey Arturo: La leyenda de la espada",
+    "opcionFalsa_1": "El hobbit",
+    "opcionFalsa_2": "Dragones",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del personaje de Emma Watson en 'Harry Potter'?",
+    "respuestaCorrecta": "Hermione Granger",
+    "opcionFalsa_1": "Ginny Weasley",
+    "opcionFalsa_2": "Luna Lovegood",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 1991 presenta a un robot que se enamora de una humana?",
+    "respuestaCorrecta": "Terminator 2: El juicio final",
+    "opcionFalsa_1": "Blade Runner",
+    "opcionFalsa_2": "RoboCop",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del villano en 'El Señor de los Anillos' que busca el Anillo Único?",
+    "respuestaCorrecta": "Sauron",
+    "opcionFalsa_1": "Saruman",
+    "opcionFalsa_2": "Gollum",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué serie de televisión presenta a un grupo de adolescentes que resuelven misterios con su perro?",
+    "respuestaCorrecta": "Scooby-Doo",
+    "opcionFalsa_1": "Los Picapiedra",
+    "opcionFalsa_2": "Los Supersónicos",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Quién interpreta a Spider-Man en el UCM?",
+    "respuestaCorrecta": "Tom Holland",
+    "opcionFalsa_1": "Andrew Garfield",
+    "opcionFalsa_2": "Tobey Maguire",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2018 presenta a un superhéroe africano que protege su reino tecnológico?",
+    "respuestaCorrecta": "Black Panther",
+    "opcionFalsa_1": "Capitán América",
+    "opcionFalsa_2": "Doctor Strange",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del laboratorio en 'Breaking Bad'?",
+    "respuestaCorrecta": "La caravana",
+    "opcionFalsa_1": "El lavadero",
+    "opcionFalsa_2": "El laboratorio de Gus",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 1984 presenta a un grupo de científicos que cazan fantasmas en Nueva York?",
+    "respuestaCorrecta": "Ghostbusters",
+    "opcionFalsa_1": "Poltergeist",
+    "opcionFalsa_2": "Beetlejuice",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del personaje de Brad Pitt en 'Fight Club'?",
+    "respuestaCorrecta": "Tyler Durden",
+    "opcionFalsa_1": "Jack",
+    "opcionFalsa_2": "Marla Singer",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué serie de televisión presenta a un grupo de médicos en un hospital de Seattle?",
+    "respuestaCorrecta": "Grey's Anatomy",
+    "opcionFalsa_1": "House M.D.",
+    "opcionFalsa_2": "ER",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Quién interpreta a Doctor Strange en el UCM?",
+    "respuestaCorrecta": "Benedict Cumberbatch",
+    "opcionFalsa_1": "Tom Hiddleston",
+    "opcionFalsa_2": "Chris Hemsworth",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2016 presenta a un superhéroe que debe enfrentar a un villano en una ciudad futurista?",
+    "respuestaCorrecta": "Doctor Strange",
+    "opcionFalsa_1": "Black Panther",
+    "opcionFalsa_2": "Capitana Marvel",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del personaje de Chris Evans en el UCM?",
+    "respuestaCorrecta": "Steve Rogers",
+    "opcionFalsa_1": "Tony Stark",
+    "opcionFalsa_2": "Bruce Banner",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 1999 presenta a un grupo de adolescentes que descubren un mundo mágico?",
+    "respuestaCorrecta": "El sexto sentido",
+    "opcionFalsa_1": "Matrix",
+    "opcionFalsa_2": "El club de la pelea",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del personaje de Robert Downey Jr. en el UCM?",
+    "respuestaCorrecta": "Tony Stark",
+    "opcionFalsa_1": "Steve Rogers",
+    "opcionFalsa_2": "Thor",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2021 presenta a un superhéroe que debe enfrentar a un villano en una ciudad futurista?",
+    "respuestaCorrecta": "Spider-Man: No Way Home",
+    "opcionFalsa_1": "Doctor Strange",
+    "opcionFalsa_2": "Black Widow",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del personaje de Scarlett Johansson en el UCM?",
+    "respuestaCorrecta": "Natasha Romanoff",
+    "opcionFalsa_1": "Carol Danvers",
+    "opcionFalsa_2": "Wanda Maximoff",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2019 presenta a un superhéroe que debe enfrentar a un villano en una ciudad futurista?",
+    "respuestaCorrecta": "Capitana Marvel",
+    "opcionFalsa_1": "Black Panther",
+    "opcionFalsa_2": "Doctor Strange",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del personaje de Chris Hemsworth en el UCM?",
+    "respuestaCorrecta": "Thor",
+    "opcionFalsa_1": "Loki",
+    "opcionFalsa_2": "Odin",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2017 presenta a un superhéroe que debe enfrentar a un villano en una ciudad futurista?",
+    "respuestaCorrecta": "Thor: Ragnarok",
+    "opcionFalsa_1": "Black Panther",
+    "opcionFalsa_2": "Doctor Strange",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del personaje de Tom Holland en el UCM?",
+    "respuestaCorrecta": "Peter Parker",
+    "opcionFalsa_1": "Tony Stark",
+    "opcionFalsa_2": "Steve Rogers",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2020 presenta a un superhéroe que debe enfrentar a un villano en una ciudad futurista?",
+    "respuestaCorrecta": "Black Widow",
+    "opcionFalsa_1": "Spider-Man: No Way Home",
+    "opcionFalsa_2": "Doctor Strange",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del personaje de Brie Larson en el UCM?",
+    "respuestaCorrecta": "Carol Danvers",
+    "opcionFalsa_1": "Natasha Romanoff",
+    "opcionFalsa_2": "Wanda Maximoff",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2014 presenta a un superhéroe que debe enfrentar a un villano en una ciudad futurista?",
+    "respuestaCorrecta": "Guardianes de la Galaxia",
+    "opcionFalsa_1": "Black Panther",
+    "opcionFalsa_2": "Doctor Strange",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del personaje de Benedict Cumberbatch en el UCM?",
+    "respuestaCorrecta": "Stephen Strange",
+    "opcionFalsa_1": "Tony Stark",
+    "opcionFalsa_2": "Steve Rogers",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2015 presenta a un superhéroe que debe enfrentar a un villano en una ciudad futurista?",
+    "respuestaCorrecta": "Ant-Man",
+    "opcionFalsa_1": "Black Panther",
+    "opcionFalsa_2": "Doctor Strange",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del personaje de Paul Rudd en el UCM?",
+    "respuestaCorrecta": "Scott Lang",
+    "opcionFalsa_1": "Tony Stark",
+    "opcionFalsa_2": "Steve Rogers",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2016 presenta a un superhéroe que debe enfrentar a un villano en una ciudad futurista?",
+    "respuestaCorrecta": "Capitán América: Civil War",
+    "opcionFalsa_1": "Black Panther",
+    "opcionFalsa_2": "Doctor Strange",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del personaje de Chadwick Boseman en el UCM?",
+    "respuestaCorrecta": "T'Challa",
+    "opcionFalsa_1": "Tony Stark",
+    "opcionFalsa_2": "Steve Rogers",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2018 presenta a un superhéroe que debe enfrentar a un villano en una ciudad futurista?",
+    "respuestaCorrecta": "Avengers: Infinity War",
+    "opcionFalsa_1": "Black Panther",
+    "opcionFalsa_2": "Doctor Strange",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del personaje de Elizabeth Olsen en el UCM?",
+    "respuestaCorrecta": "Wanda Maximoff",
+    "opcionFalsa_1": "Natasha Romanoff",
+    "opcionFalsa_2": "Carol Danvers",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2019 presenta a un superhéroe que debe enfrentar a un villano en una ciudad futurista?",
+    "respuestaCorrecta": "Avengers: Endgame",
+    "opcionFalsa_1": "Black Panther",
+    "opcionFalsa_2": "Doctor Strange",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del personaje de Jeremy Renner en el UCM?",
+    "respuestaCorrecta": "Clint Barton",
+    "opcionFalsa_1": "Tony Stark",
+    "opcionFalsa_2": "Steve Rogers",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2021 presenta a un superhéroe que debe enfrentar a un villano en una ciudad futurista?",
+    "respuestaCorrecta": "Shang-Chi y la leyenda de los Diez Anillos",
+    "opcionFalsa_1": "Black Widow",
+    "opcionFalsa_2": "Eternals",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del personaje de Simu Liu en el UCM?",
+    "respuestaCorrecta": "Shang-Chi",
+    "opcionFalsa_1": "Tony Stark",
+    "opcionFalsa_2": "Steve Rogers",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2021 presenta a un superhéroe que debe enfrentar a un villano en una ciudad futurista?",
+    "respuestaCorrecta": "Eternals",
+    "opcionFalsa_1": "Shang-Chi",
+    "opcionFalsa_2": "Spider-Man: No Way Home",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del personaje de Gemma Chan en el UCM?",
+    "respuestaCorrecta": "Sersi",
+    "opcionFalsa_1": "Natasha Romanoff",
+    "opcionFalsa_2": "Carol Danvers",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2022 presenta a un superhéroe que debe enfrentar a un villano en una ciudad futurista?",
+    "respuestaCorrecta": "Doctor Strange en el multiverso de la locura",
+    "opcionFalsa_1": "Thor: Love and Thunder",
+    "opcionFalsa_2": "Black Panther: Wakanda por siempre",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del personaje de Benedict Cumberbatch en 'Doctor Strange en el multiverso de la locura'?",
+    "respuestaCorrecta": "Stephen Strange",
+    "opcionFalsa_1": "Wanda Maximoff",
+    "opcionFalsa_2": "America Chavez",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2022 presenta a un superhéroe que debe enfrentar a un villano en una ciudad futurista?",
+    "respuestaCorrecta": "Thor: Love and Thunder",
+    "opcionFalsa_1": "Doctor Strange en el multiverso de la locura",
+    "opcionFalsa_2": "Black Panther: Wakanda por siempre",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del personaje de Natalie Portman en 'Thor: Love and Thunder'?",
+    "respuestaCorrecta": "Jane Foster",
+    "opcionFalsa_1": "Frigga",
+    "opcionFalsa_2": "Sif",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2022 presenta a un superhéroe que debe enfrentar a un villano en una ciudad futurista?",
+    "respuestaCorrecta": "Black Panther: Wakanda por siempre",
+    "opcionFalsa_1": "Thor: Love and Thunder",
+    "opcionFalsa_2": "Doctor Strange en el multiverso de la locura",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del personaje de Letitia Wright en 'Black Panther: Wakanda por siempre'?",
+    "respuestaCorrecta": "Shuri",
+    "opcionFalsa_1": "Nakia",
+    "opcionFalsa_2": "Okoye",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2023 presenta a un superhéroe que debe enfrentar a un villano en una ciudad futurista?",
+    "respuestaCorrecta": "Guardianes de la Galaxia Vol. 3",
+    "opcionFalsa_1": "Ant-Man y la Avispa: Quantumania",
+    "opcionFalsa_2": "The Marvels",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del personaje de Chris Pratt en 'Guardianes de la Galaxia Vol. 3'?",
+    "respuestaCorrecta": "Peter Quill",
+    "opcionFalsa_1": "Rocket",
+    "opcionFalsa_2": "Groot",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2023 presenta a un superhéroe que debe enfrentar a un villano en una ciudad futurista?",
+    "respuestaCorrecta": "Ant-Man y la Avispa: Quantumania",
+    "opcionFalsa_1": "Guardianes de la Galaxia Vol. 3",
+    "opcionFalsa_2": "The Marvels",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del personaje de Paul Rudd en 'Ant-Man y la Avispa: Quantumania'?",
+    "respuestaCorrecta": "Scott Lang",
+    "opcionFalsa_1": "Hank Pym",
+    "opcionFalsa_2": "Hope van Dyne",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué película de 2023 presenta a un superhéroe que debe enfrentar a un villano en una ciudad futurista?",
+    "respuestaCorrecta": "The Marvels",
+    "opcionFalsa_1": "Ant-Man y la Avispa: Quantumania",
+    "opcionFalsa_2": "Guardianes de la Galaxia Vol. 3",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del personaje de Brie Larson en 'The Marvels'?",
+    "respuestaCorrecta": "Carol Danvers",
+    "opcionFalsa_1": "Kamala Khan",
+    "opcionFalsa_2": "Monica Rambeau",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Qué actor interpreta a Groot en las películas de Guardianes de la Galaxia?",
+    "respuestaCorrecta": "Vin Diesel",
+    "opcionFalsa_1": "Bradley Cooper",
+    "opcionFalsa_2": "Chris Pratt",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del personaje de Zoe Saldaña en 'Guardianes de la Galaxia'?",
+    "respuestaCorrecta": "Gamora",
+    "opcionFalsa_1": "Nebula",
+    "opcionFalsa_2": "Mantis",
+    "categoria": "CineTV"
+  },
+  {
+    "textoPregunta": "¿Cuál es el país más grande del mundo en extensión territorial?",
+    "respuestaCorrecta": "Rusia",
+    "opcionFalsa_1": "Canadá",
+    "opcionFalsa_2": "China",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué civilización antigua construyó la ciudad de Machu Picchu?",
+    "respuestaCorrecta": "Los incas",
+    "opcionFalsa_1": "Los mayas",
+    "opcionFalsa_2": "Los aztecas",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del río que atraviesa París?",
+    "respuestaCorrecta": "Sena",
+    "opcionFalsa_1": "Ródano",
+    "opcionFalsa_2": "Loira",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿En qué continente se encuentra el país de Surinam?",
+    "respuestaCorrecta": "América del Sur",
+    "opcionFalsa_1": "África",
+    "opcionFalsa_2": "Asia",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el idioma oficial de Angola?",
+    "respuestaCorrecta": "Portugués",
+    "opcionFalsa_1": "Francés",
+    "opcionFalsa_2": "Español",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué escritor argentino es famoso por sus cuentos fantásticos como 'El Aleph'?",
+    "respuestaCorrecta": "Jorge Luis Borges",
+    "opcionFalsa_1": "Julio Cortázar",
+    "opcionFalsa_2": "Pablo Neruda",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es la capital de Islandia?",
+    "respuestaCorrecta": "Reikiavik",
+    "opcionFalsa_1": "Oslo",
+    "opcionFalsa_2": "Helsinki",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país africano fue colonizado por Italia y tiene como capital a Trípoli?",
+    "respuestaCorrecta": "Libia",
+    "opcionFalsa_1": "Egipto",
+    "opcionFalsa_2": "Túnez",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del tratado que puso fin a la Guerra de los Cien Años?",
+    "respuestaCorrecta": "Tratado de Picquigny",
+    "opcionFalsa_1": "Tratado de Versalles",
+    "opcionFalsa_2": "Tratado de Westfalia",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como bandera tres franjas verticales de color azul, blanco y rojo?",
+    "respuestaCorrecta": "Francia",
+    "opcionFalsa_1": "Rusia",
+    "opcionFalsa_2": "Países Bajos",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del primer emperador romano?",
+    "respuestaCorrecta": "Augusto",
+    "opcionFalsa_1": "Julio César",
+    "opcionFalsa_2": "Nerón",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿En qué año se firmó la Declaración Universal de los Derechos Humanos?",
+    "respuestaCorrecta": "1948",
+    "opcionFalsa_1": "1945",
+    "opcionFalsa_2": "1950",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del archipiélago al sur de la Argentina que fue escenario de una guerra en 1982?",
+    "respuestaCorrecta": "Islas Malvinas",
+    "opcionFalsa_1": "Islas Georgias del Sur",
+    "opcionFalsa_2": "Islas Sandwich del Sur",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país sudamericano no tiene salida al mar?",
+    "respuestaCorrecta": "Paraguay",
+    "opcionFalsa_1": "Uruguay",
+    "opcionFalsa_2": "Chile",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso templo griego dedicado a la diosa Atenea en Atenas?",
+    "respuestaCorrecta": "El Partenón",
+    "opcionFalsa_1": "El Erecteión",
+    "opcionFalsa_2": "El Templo de Zeus",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país asiático tiene como capital a Yakarta?",
+    "respuestaCorrecta": "Indonesia",
+    "opcionFalsa_1": "Malasia",
+    "opcionFalsa_2": "Tailandia",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del primer libro de la Biblia?",
+    "respuestaCorrecta": "Génesis",
+    "opcionFalsa_1": "Éxodo",
+    "opcionFalsa_2": "Levítico",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué imperio fue gobernado por Suleimán el Magnífico en el siglo XVI?",
+    "respuestaCorrecta": "Imperio Otomano",
+    "opcionFalsa_1": "Imperio Bizantino",
+    "opcionFalsa_2": "Imperio Persa",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso filósofo que escribió 'La República'?",
+    "respuestaCorrecta": "Platón",
+    "opcionFalsa_1": "Aristóteles",
+    "opcionFalsa_2": "Sócrates",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país europeo tiene como capital a Bruselas?",
+    "respuestaCorrecta": "Bélgica",
+    "opcionFalsa_1": "Países Bajos",
+    "opcionFalsa_2": "Luxemburgo",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del primer satélite artificial de la historia?",
+    "respuestaCorrecta": "Sputnik 1",
+    "opcionFalsa_1": "Explorer 1",
+    "opcionFalsa_2": "Vanguard 1",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene la mayor cantidad de islas en el mundo?",
+    "respuestaCorrecta": "Suecia",
+    "opcionFalsa_1": "Noruega",
+    "opcionFalsa_2": "Finlandia",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del tratado que dividió el mundo entre España y Portugal en 1494?",
+    "respuestaCorrecta": "Tratado de Tordesillas",
+    "opcionFalsa_1": "Tratado de Zaragoza",
+    "opcionFalsa_2": "Tratado de Alcazovas",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué escritor ruso es autor de 'Crimen y castigo'?",
+    "respuestaCorrecta": "Fiódor Dostoievski",
+    "opcionFalsa_1": "León Tolstói",
+    "opcionFalsa_2": "Antón Chéjov",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del océano que rodea la Antártida?",
+    "respuestaCorrecta": "Océano Austral",
+    "opcionFalsa_1": "Océano Ártico",
+    "opcionFalsa_2": "Océano Índico",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como lengua oficial el neerlandés y el papiamento?",
+    "respuestaCorrecta": "Aruba",
+    "opcionFalsa_1": "Surinam",
+    "opcionFalsa_2": "Curazao",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso filósofo que dijo 'Pienso, luego existo'?",
+    "respuestaCorrecta": "René Descartes",
+    "opcionFalsa_1": "Immanuel Kant",
+    "opcionFalsa_2": "John Locke",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país africano fue fundado por esclavos liberados estadounidenses?",
+    "respuestaCorrecta": "Liberia",
+    "opcionFalsa_1": "Sierra Leona",
+    "opcionFalsa_2": "Ghana",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del río más largo de Europa?",
+    "respuestaCorrecta": "Volga",
+    "opcionFalsa_1": "Danubio",
+    "opcionFalsa_2": "Rin",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como capital a La Habana?",
+    "respuestaCorrecta": "Cuba",
+    "opcionFalsa_1": "República Dominicana",
+    "opcionFalsa_2": "Puerto Rico",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso tratado que puso fin a la Primera Guerra Mundial?",
+    "respuestaCorrecta": "Tratado de Versalles",
+    "opcionFalsa_1": "Tratado de Brest-Litovsk",
+    "opcionFalsa_2": "Tratado de Locarno",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como bandera un círculo rojo sobre fondo blanco?",
+    "respuestaCorrecta": "Japón",
+    "opcionFalsa_1": "China",
+    "opcionFalsa_2": "Corea del Sur",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del primer faraón de Egipto unificado?",
+    "respuestaCorrecta": "Narmer",
+    "opcionFalsa_1": "Tutankamón",
+    "opcionFalsa_2": "Ramsés II",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como capital a Bucarest?",
+    "respuestaCorrecta": "Rumania",
+    "opcionFalsa_1": "Bulgaria",
+    "opcionFalsa_2": "Hungría",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso arqueólogo que descubrió la tumba de Tutankamón?",
+    "respuestaCorrecta": "Howard Carter",
+    "opcionFalsa_1": "Heinrich Schliemann",
+    "opcionFalsa_2": "Arthur Evans",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como lengua oficial el gaélico irlandés?",
+    "respuestaCorrecta": "Irlanda",
+    "opcionFalsa_1": "Escocia",
+    "opcionFalsa_2": "Gales",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso filósofo que escribió 'El contrato social'?",
+    "respuestaCorrecta": "Jean-Jacques Rousseau",
+    "opcionFalsa_1": "Voltaire",
+    "opcionFalsa_2": "Montesquieu",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como capital a Oslo?",
+    "respuestaCorrecta": "Noruega",
+    "opcionFalsa_1": "Suecia",
+    "opcionFalsa_2": "Dinamarca",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso tratado que legalizó el protestantismo en el Sacro Imperio Romano Germánico?",
+    "respuestaCorrecta": "Paz de Augsburgo",
+    "opcionFalsa_1": "Edicto de Nantes",
+    "opcionFalsa_2": "Tratado de Westfalia",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como moneda el dólar canadiense?",
+    "respuestaCorrecta": "Canadá",
+    "opcionFalsa_1": "Estados Unidos",
+    "opcionFalsa_2": "Australia",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso escritor que escribió '1984'?",
+    "respuestaCorrecta": "George Orwell",
+    "opcionFalsa_1": "Aldous Huxley",
+    "opcionFalsa_2": "Ray Bradbury",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como capital a Helsinki?",
+    "respuestaCorrecta": "Finlandia",
+    "opcionFalsa_1": "Suecia",
+    "opcionFalsa_2": "Estonia",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso filósofo que escribió 'Crítica de la razón pura'?",
+    "respuestaCorrecta": "Immanuel Kant",
+    "opcionFalsa_1": "Georg Wilhelm Friedrich Hegel",
+    "opcionFalsa_2": "Friedrich Nietzsche",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como lengua oficial el árabe y el francés?",
+    "respuestaCorrecta": "Argelia",
+    "opcionFalsa_1": "Marruecos",
+    "opcionFalsa_2": "Túnez",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso tratado que puso fin a la Guerra de Sucesión Española?",
+    "respuestaCorrecta": "Tratado de Utrecht",
+    "opcionFalsa_1": "Tratado de Rastatt",
+    "opcionFalsa_2": "Tratado de Baden",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como capital a Viena?",
+    "respuestaCorrecta": "Austria",
+    "opcionFalsa_1": "Suiza",
+    "opcionFalsa_2": "Alemania",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso escritor que escribió 'Don Juan Tenorio'?",
+    "respuestaCorrecta": "José Zorrilla",
+    "opcionFalsa_1": "Miguel de Cervantes",
+    "opcionFalsa_2": "Lope de Vega",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como lengua oficial el sueco?",
+    "respuestaCorrecta": "Suecia",
+    "opcionFalsa_1": "Noruega",
+    "opcionFalsa_2": "Dinamarca",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso filósofo que escribió 'Así habló Zaratustra'?",
+    "respuestaCorrecta": "Friedrich Nietzsche",
+    "opcionFalsa_1": "Søren Kierkegaard",
+    "opcionFalsa_2": "Arthur Schopenhauer",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como capital a Praga?",
+    "respuestaCorrecta": "República Checa",
+    "opcionFalsa_1": "Eslovaquia",
+    "opcionFalsa_2": "Polonia",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso tratado que reconoció la independencia de los Países Bajos?",
+    "respuestaCorrecta": "Paz de Westfalia",
+    "opcionFalsa_1": "Tratado de Utrecht",
+    "opcionFalsa_2": "Tratado de Rastatt",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como lengua oficial el danés?",
+    "respuestaCorrecta": "Dinamarca",
+    "opcionFalsa_1": "Noruega",
+    "opcionFalsa_2": "Suecia",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso escritor que escribió 'El túnel'?",
+    "respuestaCorrecta": "Ernesto Sabato",
+    "opcionFalsa_1": "Jorge Luis Borges",
+    "opcionFalsa_2": "Julio Cortázar",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como capital a Copenhague?",
+    "respuestaCorrecta": "Dinamarca",
+    "opcionFalsa_1": "Suecia",
+    "opcionFalsa_2": "Noruega",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso filósofo que escribió 'El ser y el tiempo'?",
+    "respuestaCorrecta": "Martin Heidegger",
+    "opcionFalsa_1": "Jean-Paul Sartre",
+    "opcionFalsa_2": "Maurice Merleau-Ponty",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como lengua oficial el finlandés y el sueco?",
+    "respuestaCorrecta": "Finlandia",
+    "opcionFalsa_1": "Suecia",
+    "opcionFalsa_2": "Noruega",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso tratado que puso fin a la Guerra de los Treinta Años?",
+    "respuestaCorrecta": "Paz de Westfalia",
+    "opcionFalsa_1": "Tratado de Utrecht",
+    "opcionFalsa_2": "Tratado de Rastatt",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como capital a Estocolmo?",
+    "respuestaCorrecta": "Suecia",
+    "opcionFalsa_1": "Noruega",
+    "opcionFalsa_2": "Dinamarca",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso escritor que escribió 'Rayuela'?",
+    "respuestaCorrecta": "Julio Cortázar",
+    "opcionFalsa_1": "Jorge Luis Borges",
+    "opcionFalsa_2": "Ernesto Sabato",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como lengua oficial el islandés?",
+    "respuestaCorrecta": "Islandia",
+    "opcionFalsa_1": "Groenlandia",
+    "opcionFalsa_2": "Noruega",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso filósofo que escribió 'El existencialismo es un humanismo'?",
+    "respuestaCorrecta": "Jean-Paul Sartre",
+    "opcionFalsa_1": "Albert Camus",
+    "opcionFalsa_2": "Simone de Beauvoir",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como capital a Dublín?",
+    "respuestaCorrecta": "Irlanda",
+    "opcionFalsa_1": "Reino Unido",
+    "opcionFalsa_2": "Escocia",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso tratado que puso fin a la Guerra de los Siete Años?",
+    "respuestaCorrecta": "Tratado de París (1763)",
+    "opcionFalsa_1": "Tratado de Versalles",
+    "opcionFalsa_2": "Tratado de Utrecht",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como lengua oficial el neerlandés?",
+    "respuestaCorrecta": "Países Bajos",
+    "opcionFalsa_1": "Bélgica",
+    "opcionFalsa_2": "Luxemburgo",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso escritor que escribió 'Ficciones'?",
+    "respuestaCorrecta": "Jorge Luis Borges",
+    "opcionFalsa_1": "Julio Cortázar",
+    "opcionFalsa_2": "Adolfo Bioy Casares",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como capital a Ámsterdam?",
+    "respuestaCorrecta": "Países Bajos",
+    "opcionFalsa_1": "Bélgica",
+    "opcionFalsa_2": "Alemania",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso filósofo que escribió 'El segundo sexo'?",
+    "respuestaCorrecta": "Simone de Beauvoir",
+    "opcionFalsa_1": "Hannah Arendt",
+    "opcionFalsa_2": "Judith Butler",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como lengua oficial el luxemburgués?",
+    "respuestaCorrecta": "Luxemburgo",
+    "opcionFalsa_1": "Bélgica",
+    "opcionFalsa_2": "Países Bajos",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso tratado que puso fin a la Guerra de Independencia de los Estados Unidos?",
+    "respuestaCorrecta": "Tratado de París (1783)",
+    "opcionFalsa_1": "Declaración de Independencia",
+    "opcionFalsa_2": "Constitución de los Estados Unidos",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como capital a Luxemburgo?",
+    "respuestaCorrecta": "Luxemburgo",
+    "opcionFalsa_1": "Bélgica",
+    "opcionFalsa_2": "Francia",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso escritor que escribió 'El Aleph'?",
+    "respuestaCorrecta": "Jorge Luis Borges",
+    "opcionFalsa_1": "Julio Cortázar",
+    "opcionFalsa_2": "Ernesto Sabato",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como lengua oficial el alemán, el francés y el italiano?",
+    "respuestaCorrecta": "Suiza",
+    "opcionFalsa_1": "Bélgica",
+    "opcionFalsa_2": "Luxemburgo",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso filósofo que escribió 'La condición humana'?",
+    "respuestaCorrecta": "Hannah Arendt",
+    "opcionFalsa_1": "Simone de Beauvoir",
+    "opcionFalsa_2": "Judith Butler",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como capital a Berna?",
+    "respuestaCorrecta": "Suiza",
+    "opcionFalsa_1": "Austria",
+    "opcionFalsa_2": "Alemania",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso tratado que puso fin a la Guerra de Secesión estadounidense?",
+    "respuestaCorrecta": "No hubo un tratado formal",
+    "opcionFalsa_1": "Tratado de París",
+    "opcionFalsa_2": "Tratado de Versalles",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como lengua oficial el alemán?",
+    "respuestaCorrecta": "Alemania",
+    "opcionFalsa_1": "Austria",
+    "opcionFalsa_2": "Suiza",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso escritor que escribió 'Pedro Páramo'?",
+    "respuestaCorrecta": "Juan Rulfo",
+    "opcionFalsa_1": "Gabriel García Márquez",
+    "opcionFalsa_2": "Mario Vargas Llosa",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como capital a Berlín?",
+    "respuestaCorrecta": "Alemania",
+    "opcionFalsa_1": "Austria",
+    "opcionFalsa_2": "Polonia",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso filósofo que escribió 'Ética a Nicómaco'?",
+    "respuestaCorrecta": "Aristóteles",
+    "opcionFalsa_1": "Platón",
+    "opcionFalsa_2": "Sócrates",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como lengua oficial el polaco?",
+    "respuestaCorrecta": "Polonia",
+    "opcionFalsa_1": "República Checa",
+    "opcionFalsa_2": "Eslovaquia",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso tratado que puso fin a la Guerra Franco-Prusiana?",
+    "respuestaCorrecta": "Tratado de Fráncfort",
+    "opcionFalsa_1": "Tratado de Versalles",
+    "opcionFalsa_2": "Tratado de París",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como capital a Varsovia?",
+    "respuestaCorrecta": "Polonia",
+    "opcionFalsa_1": "República Checa",
+    "opcionFalsa_2": "Hungría",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso escritor que escribió 'La metamorfosis'?",
+    "respuestaCorrecta": "Franz Kafka",
+    "opcionFalsa_1": "Thomas Mann",
+    "opcionFalsa_2": "Hermann Hesse",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como lengua oficial el checo?",
+    "respuestaCorrecta": "República Checa",
+    "opcionFalsa_1": "Eslovaquia",
+    "opcionFalsa_2": "Polonia",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso filósofo que escribió 'La República'?",
+    "respuestaCorrecta": "Platón",
+    "opcionFalsa_1": "Aristóteles",
+    "opcionFalsa_2": "Sócrates",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como capital a Bratislava?",
+    "respuestaCorrecta": "Eslovaquia",
+    "opcionFalsa_1": "República Checa",
+    "opcionFalsa_2": "Hungría",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso tratado que puso fin a la Guerra de los Balcanes?",
+    "respuestaCorrecta": "Tratado de Londres (1913)",
+    "opcionFalsa_1": "Tratado de Versalles",
+    "opcionFalsa_2": "Tratado de París",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como lengua oficial el eslovaco?",
+    "respuestaCorrecta": "Eslovaquia",
+    "opcionFalsa_1": "República Checa",
+    "opcionFalsa_2": "Polonia",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso escritor que escribió 'El proceso'?",
+    "respuestaCorrecta": "Franz Kafka",
+    "opcionFalsa_1": "Thomas Mann",
+    "opcionFalsa_2": "Hermann Hesse",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como capital a Budapest?",
+    "respuestaCorrecta": "Hungría",
+    "opcionFalsa_1": "Rumania",
+    "opcionFalsa_2": "Eslovaquia",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso filósofo que escribió 'Fedón'?",
+    "respuestaCorrecta": "Platón",
+    "opcionFalsa_1": "Aristóteles",
+    "opcionFalsa_2": "Sócrates",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué país tiene como lengua oficial el húngaro?",
+    "respuestaCorrecta": "Hungría",
+    "opcionFalsa_1": "Rumania",
+    "opcionFalsa_2": "Eslovaquia",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del famoso tratado que puso fin a la Guerra Ruso-Japonesa?",
+    "respuestaCorrecta": "Tratado de Portsmouth",
+    "opcionFalsa_1": "Tratado de Versalles",
+    "opcionFalsa_2": "Tratado de París",
+    "categoria": "CulturaGeneral"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 1981 presenta a un grupo de adolescentes perseguidos por un asesino en una fiesta de graduación?",
+    "respuestaCorrecta": "My Bloody Valentine",
+    "opcionFalsa_1": "Prom Night",
+    "opcionFalsa_2": "Carrie",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del demonio que posee a Regan en 'El Exorcista'?",
+    "respuestaCorrecta": "Pazuzu",
+    "opcionFalsa_1": "Asmodeo",
+    "opcionFalsa_2": "Belcebú",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En qué película un espejo antiguo causa una serie de muertes misteriosas?",
+    "respuestaCorrecta": "Oculus",
+    "opcionFalsa_1": "Mirrors",
+    "opcionFalsa_2": "The Eye",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 2016 trata sobre una joven que descubre que su madre ha estado encerrada en el sótano durante años?",
+    "respuestaCorrecta": "The Invitation",
+    "opcionFalsa_1": "The Visit",
+    "opcionFalsa_2": "Split",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del culto que aparece en 'Midsommar'?",
+    "respuestaCorrecta": "Hårga",
+    "opcionFalsa_1": "The Order",
+    "opcionFalsa_2": "The Circle",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror presenta a un demonio que ataca a sus víctimas cuando están despiertas, pero no cuando duermen?",
+    "respuestaCorrecta": "Lights Out",
+    "opcionFalsa_1": "Insidious",
+    "opcionFalsa_2": "The Babadook",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del espíritu vengativo en la saga 'La Maldición' (The Grudge)?",
+    "respuestaCorrecta": "Kayako Saeki",
+    "opcionFalsa_1": "Sadako Yamamura",
+    "opcionFalsa_2": "Toshio Saeki",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 2013 sigue a una niña que se comunica con un ente a través de una caja de juguetes?",
+    "respuestaCorrecta": "The Conjuring",
+    "opcionFalsa_1": "Annabelle",
+    "opcionFalsa_2": "Sinister",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En qué película un grupo de personas queda atrapado en un ascensor mientras un demonio los mata uno por uno?",
+    "respuestaCorrecta": "Devil",
+    "opcionFalsa_1": "Elevator",
+    "opcionFalsa_2": "The Shaft",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 2005 presenta a un hombre que se convierte en un monstruo tras una maldición familiar?",
+    "respuestaCorrecta": "The Descent",
+    "opcionFalsa_1": "Cabin Fever",
+    "opcionFalsa_2": "Wolf Creek",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del hotel en la película '1408'?",
+    "respuestaCorrecta": "Hotel Dolphin",
+    "opcionFalsa_1": "Hotel Overlook",
+    "opcionFalsa_2": "Bates Motel",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 1974 presenta a una familia que es atacada por hombres enmascarados en su casa rural?",
+    "respuestaCorrecta": "The Texas Chain Saw Massacre",
+    "opcionFalsa_1": "The Hills Have Eyes",
+    "opcionFalsa_2": "Last House on the Left",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del demonio en la película 'El Conjuro' que posee a Carolyn Perron?",
+    "respuestaCorrecta": "Bathsheba Sherman",
+    "opcionFalsa_1": "Valak",
+    "opcionFalsa_2": "Annabelle Higgins",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 2019 trata sobre una familia que es perseguida por sus propios dobles?",
+    "respuestaCorrecta": "Us",
+    "opcionFalsa_1": "Get Out",
+    "opcionFalsa_2": "Hereditary",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En qué película un grupo de amigas es atacado por criaturas subterráneas en una cueva?",
+    "respuestaCorrecta": "The Descent",
+    "opcionFalsa_1": "As Above, So Below",
+    "opcionFalsa_2": "The Cave",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 2002 presenta a un niño que ve espíritus y es ayudado por un psicólogo?",
+    "respuestaCorrecta": "The Sixth Sense",
+    "opcionFalsa_1": "Stir of Echoes",
+    "opcionFalsa_2": "The Others",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del demonio que aparece en 'La monja'?",
+    "respuestaCorrecta": "Valak",
+    "opcionFalsa_1": "Asmodeo",
+    "opcionFalsa_2": "Baphomet",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 1982 presenta a un grupo de investigadores que descubren una criatura alienígena en la Antártida?",
+    "respuestaCorrecta": "The Thing",
+    "opcionFalsa_1": "Alien",
+    "opcionFalsa_2": "Predator",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del asesino en la película 'Scream' (1996)?",
+    "respuestaCorrecta": "Billy Loomis y Stu Macher",
+    "opcionFalsa_1": "Ghostface",
+    "opcionFalsa_2": "Roman Bridger",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 2007 presenta a un grupo de turistas atrapados en una red de túneles bajo París?",
+    "respuestaCorrecta": "As Above, So Below",
+    "opcionFalsa_1": "Catacombs",
+    "opcionFalsa_2": "The Descent",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En qué película un hombre descubre que su vecino es un asesino en serie que colecciona pieles humanas?",
+    "respuestaCorrecta": "The Silence of the Lambs",
+    "opcionFalsa_1": "Seven",
+    "opcionFalsa_2": "Manhunter",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del libro maldito en 'Evil Dead'?",
+    "respuestaCorrecta": "Necronomicon",
+    "opcionFalsa_1": "Book of the Dead",
+    "opcionFalsa_2": "Grimoire",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 2014 presenta a un grupo de personas que son perseguidas por una entidad invisible?",
+    "respuestaCorrecta": "It Follows",
+    "opcionFalsa_1": "The Babadook",
+    "opcionFalsa_2": "The Witch",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del psiquiatra que trata a Norman Bates en 'Psicosis'?",
+    "respuestaCorrecta": "Dr. Fred Richmond",
+    "opcionFalsa_1": "Dr. Sam Loomis",
+    "opcionFalsa_2": "Dr. Hannibal Lecter",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 1992 presenta a un asesino que mata a sus víctimas a través de un juego de espejos?",
+    "respuestaCorrecta": "Candyman",
+    "opcionFalsa_1": "Hellraiser",
+    "opcionFalsa_2": "Phantasm",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del demonio que posee a la muñeca Annabelle?",
+    "respuestaCorrecta": "Un espíritu demoníaco no nombrado",
+    "opcionFalsa_1": "Valak",
+    "opcionFalsa_2": "Bathsheba",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 2015 presenta a una familia que se muda a una casa donde ocurren fenómenos paranormales?",
+    "respuestaCorrecta": "The Visit",
+    "opcionFalsa_1": "The Conjuring 2",
+    "opcionFalsa_2": "Insidious: Chapter 3",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En qué película un grupo de personas es atrapado en un supermercado por una niebla que esconde criaturas mortales?",
+    "respuestaCorrecta": "The Mist",
+    "opcionFalsa_1": "The Fog",
+    "opcionFalsa_2": "Silent Hill",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del asesino en la saga 'Pesadilla en Elm Street'?",
+    "respuestaCorrecta": "Freddy Krueger",
+    "opcionFalsa_1": "Jason Voorhees",
+    "opcionFalsa_2": "Michael Myers",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 1986 presenta a un científico que se fusiona con una mosca?",
+    "respuestaCorrecta": "The Fly",
+    "opcionFalsa_1": "The Thing",
+    "opcionFalsa_2": "Alien",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del hospital psiquiátrico en 'Halloween II'?",
+    "respuestaCorrecta": "Haddonfield Memorial Hospital",
+    "opcionFalsa_1": "Springfield Mental Hospital",
+    "opcionFalsa_2": "Arkham Asylum",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 2018 presenta a una familia que es perseguida por una bruja en el bosque?",
+    "respuestaCorrecta": "The Witch",
+    "opcionFalsa_1": "Hereditary",
+    "opcionFalsa_2": "Midsommar",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En qué película un grupo de amigos despierta a una bruja ancestral en el bosque?",
+    "respuestaCorrecta": "The Blair Witch Project",
+    "opcionFalsa_1": "The Witch",
+    "opcionFalsa_2": "Evil Dead",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del demonio en 'El Exorcista III'?",
+    "respuestaCorrecta": "El demonio Pazuzu",
+    "opcionFalsa_1": "Gemini",
+    "opcionFalsa_2": "Asmodeo",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 1999 presenta a un grupo de personas que son atacadas por un payaso demoníaco en un circo abandonado?",
+    "respuestaCorrecta": "House on Haunted Hill",
+    "opcionFalsa_1": "Carnival of Souls",
+    "opcionFalsa_2": "The Funhouse",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del asesino en la película 'Viernes 13: Parte 2'?",
+    "respuestaCorrecta": "Jason Voorhees",
+    "opcionFalsa_1": "Pamela Voorhees",
+    "opcionFalsa_2": "Roy Burns",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 2001 presenta a un grupo de personas que son atacadas por espíritus en una casa embrujada?",
+    "respuestaCorrecta": "The Others",
+    "opcionFalsa_1": "The Sixth Sense",
+    "opcionFalsa_2": "The Orphanage",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En qué película un grupo de personas es atrapado en un hotel durante una tormenta de nieve y comienzan a morir uno por uno?",
+    "respuestaCorrecta": "The Shining",
+    "opcionFalsa_1": "The Hateful Eight",
+    "opcionFalsa_2": "The Lodge",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del demonio en 'La profecía'?",
+    "respuestaCorrecta": "Satanás",
+    "opcionFalsa_1": "Belcebú",
+    "opcionFalsa_2": "Lucifer",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 1987 presenta a un grupo de adolescentes que son atacados por un payaso asesino?",
+    "respuestaCorrecta": "Killer Klowns from Outer Space",
+    "opcionFalsa_1": "It",
+    "opcionFalsa_2": "Poltergeist",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del asesino en la película 'Saw II'?",
+    "respuestaCorrecta": "Jigsaw (John Kramer)",
+    "opcionFalsa_1": "Amanda Young",
+    "opcionFalsa_2": "Mark Hoffman",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 2008 presenta a un grupo de personas que son atacadas por zombis en un centro comercial?",
+    "respuestaCorrecta": "Dawn of the Dead (remake)",
+    "opcionFalsa_1": "Shaun of the Dead",
+    "opcionFalsa_2": "Zombieland",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En qué película un grupo de personas es atrapado en un ascensor y comienzan a morir misteriosamente?",
+    "respuestaCorrecta": "Devil",
+    "opcionFalsa_1": "The Lift",
+    "opcionFalsa_2": "Elevator",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del demonio en 'El conjuro 2'?",
+    "respuestaCorrecta": "Valak",
+    "opcionFalsa_1": "Bathsheba",
+    "opcionFalsa_2": "Annabelle",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 1990 presenta a un grupo de personas que son atacadas por un payaso demoníaco en un pueblo?",
+    "respuestaCorrecta": "It (miniserie)",
+    "opcionFalsa_1": "Poltergeist",
+    "opcionFalsa_2": "The Shining",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del asesino en la película 'Scream 2'?",
+    "respuestaCorrecta": "Mickey y Mrs. Loomis",
+    "opcionFalsa_1": "Ghostface",
+    "opcionFalsa_2": "Billy Loomis",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 2010 presenta a un grupo de personas que son atacadas por una entidad en una casa embrujada?",
+    "respuestaCorrecta": "Insidious",
+    "opcionFalsa_1": "The Conjuring",
+    "opcionFalsa_2": "Paranormal Activity",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En qué película un grupo de personas es atrapado en un hospital psiquiátrico abandonado?",
+    "respuestaCorrecta": "Grave Encounters",
+    "opcionFalsa_1": "Session 9",
+    "opcionFalsa_2": "The Ward",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del demonio en 'La monja II'?",
+    "respuestaCorrecta": "Valak",
+    "opcionFalsa_1": "Asmodeo",
+    "opcionFalsa_2": "Baphomet",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 1983 presenta a un grupo de personas que son atacadas por un payaso demoníaco en un circo?",
+    "respuestaCorrecta": "The Funhouse",
+    "opcionFalsa_1": "It",
+    "opcionFalsa_2": "Poltergeist",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del asesino en la película 'Scream 3'?",
+    "respuestaCorrecta": "Roman Bridger",
+    "opcionFalsa_1": "Ghostface",
+    "opcionFalsa_2": "Billy Loomis",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 2012 presenta a un grupo de personas que son atacadas por una entidad en una casa embrujada?",
+    "respuestaCorrecta": "The Possession",
+    "opcionFalsa_1": "The Conjuring",
+    "opcionFalsa_2": "Insidious",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En qué película un grupo de personas es atrapado en un bosque y comienzan a morir misteriosamente?",
+    "respuestaCorrecta": "The Blair Witch Project",
+    "opcionFalsa_1": "The Witch",
+    "opcionFalsa_2": "Evil Dead",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del demonio en 'El conjuro 3'?",
+    "respuestaCorrecta": "El demonio que posee a Arne Johnson",
+    "opcionFalsa_1": "Valak",
+    "opcionFalsa_2": "Bathsheba",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 1991 presenta a un grupo de personas que son atacadas por un payaso demoníaco en un circo?",
+    "respuestaCorrecta": "Carnival of Souls",
+    "opcionFalsa_1": "It",
+    "opcionFalsa_2": "The Funhouse",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del asesino en la película 'Scream 4'?",
+    "respuestaCorrecta": "Jill Roberts y Charlie Walker",
+    "opcionFalsa_1": "Ghostface",
+    "opcionFalsa_2": "Billy Loomis",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 2014 presenta a un grupo de personas que son atacadas por una entidad en una casa embrujada?",
+    "respuestaCorrecta": "The Quiet Ones",
+    "opcionFalsa_1": "The Conjuring",
+    "opcionFalsa_2": "Insidious",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En qué película un grupo de personas es atrapado en un hospital abandonado?",
+    "respuestaCorrecta": "Grave Encounters 2",
+    "opcionFalsa_1": "Session 9",
+    "opcionFalsa_2": "The Ward",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del demonio en 'La monja III'?",
+    "respuestaCorrecta": "Valak",
+    "opcionFalsa_1": "Asmodeo",
+    "opcionFalsa_2": "Baphomet",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 1984 presenta a un grupo de personas que son atacadas por un payaso demoníaco en un circo?",
+    "respuestaCorrecta": "Clownhouse",
+    "opcionFalsa_1": "It",
+    "opcionFalsa_2": "The Funhouse",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del asesino en la película 'Scream (2022)'?",
+    "respuestaCorrecta": "Richie Kirsch y Amber Freeman",
+    "opcionFalsa_1": "Ghostface",
+    "opcionFalsa_2": "Billy Loomis",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 2015 presenta a un grupo de personas que son atacadas por una entidad en una casa embrujada?",
+    "respuestaCorrecta": "The Boy",
+    "opcionFalsa_1": "The Conjuring",
+    "opcionFalsa_2": "Insidious",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En qué película un grupo de personas es atrapado en un bosque y comienzan a morir misteriosamente?",
+    "respuestaCorrecta": "The Forest",
+    "opcionFalsa_1": "The Blair Witch Project",
+    "opcionFalsa_2": "The Witch",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del demonio en 'El conjuro: El caso del verdugo'?",
+    "respuestaCorrecta": "No se nombra explícitamente",
+    "opcionFalsa_1": "Valak",
+    "opcionFalsa_2": "Bathsheba",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 1993 presenta a un grupo de personas que son atacadas por un payaso demoníaco en un circo?",
+    "respuestaCorrecta": "The Dark Half",
+    "opcionFalsa_1": "It",
+    "opcionFalsa_2": "The Funhouse",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del asesino en la película 'Scream VI'?",
+    "respuestaCorrecta": "Quinn y Ethan",
+    "opcionFalsa_1": "Ghostface",
+    "opcionFalsa_2": "Billy Loomis",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 2016 presenta a un grupo de personas que son atacadas por una entidad en una casa embrujada?",
+    "respuestaCorrecta": "The Autopsy of Jane Doe",
+    "opcionFalsa_1": "The Conjuring",
+    "opcionFalsa_2": "Insidious",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En qué película un grupo de personas es atrapado en un hospital psiquiátrico abandonado?",
+    "respuestaCorrecta": "Gonjiam: Haunted Asylum",
+    "opcionFalsa_1": "Session 9",
+    "opcionFalsa_2": "The Ward",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del demonio en 'La monja: El origen'?",
+    "respuestaCorrecta": "Valak",
+    "opcionFalsa_1": "Asmodeo",
+    "opcionFalsa_2": "Baphomet",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 1985 presenta a un grupo de personas que son atacadas por un payaso demoníaco en un circo?",
+    "respuestaCorrecta": "The Peanut Butter Solution",
+    "opcionFalsa_1": "It",
+    "opcionFalsa_2": "The Funhouse",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del asesino en la película 'Halloween (2018)'?",
+    "respuestaCorrecta": "Michael Myers",
+    "opcionFalsa_1": "Dr. Loomis",
+    "opcionFalsa_2": "Laurie Strode",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 2017 presenta a un grupo de personas que son atacadas por una entidad en una casa embrujada?",
+    "respuestaCorrecta": "The Ritual",
+    "opcionFalsa_1": "The Conjuring",
+    "opcionFalsa_2": "Insidious",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En qué película un grupo de personas es atrapado en un bosque y comienzan a morir misteriosamente?",
+    "respuestaCorrecta": "The Ritual",
+    "opcionFalsa_1": "The Blair Witch Project",
+    "opcionFalsa_2": "The Witch",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del demonio en 'El conjuro: El diablo me obligó a hacerlo'?",
+    "respuestaCorrecta": "El demonio que posee a Arne Johnson",
+    "opcionFalsa_1": "Valak",
+    "opcionFalsa_2": "Bathsheba",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 1994 presenta a un grupo de personas que son atacadas por un payaso demoníaco en un circo?",
+    "respuestaCorrecta": "The Langoliers",
+    "opcionFalsa_1": "It",
+    "opcionFalsa_2": "The Funhouse",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del asesino en la película 'Halloween Kills'?",
+    "respuestaCorrecta": "Michael Myers",
+    "opcionFalsa_1": "Dr. Loomis",
+    "opcionFalsa_2": "Laurie Strode",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 2018 presenta a un grupo de personas que son atacadas por una entidad en una casa embrujada?",
+    "respuestaCorrecta": "The Nun",
+    "opcionFalsa_1": "The Conjuring",
+    "opcionFalsa_2": "Insidious",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En qué película un grupo de personas es atrapado en un hospital psiquiátrico abandonado?",
+    "respuestaCorrecta": "The Ward",
+    "opcionFalsa_1": "Session 9",
+    "opcionFalsa_2": "Grave Encounters",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del demonio en 'La monja II'?",
+    "respuestaCorrecta": "Valak",
+    "opcionFalsa_1": "Asmodeo",
+    "opcionFalsa_2": "Baphomet",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 1986 presenta a un grupo de personas que son atacadas por un payaso demoníaco en un circo?",
+    "respuestaCorrecta": "The Peanut Butter Solution",
+    "opcionFalsa_1": "It",
+    "opcionFalsa_2": "The Funhouse",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del asesino en la película 'Halloween Ends'?",
+    "respuestaCorrecta": "Michael Myers",
+    "opcionFalsa_1": "Dr. Loomis",
+    "opcionFalsa_2": "Laurie Strode",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 2019 presenta a un grupo de personas que son atacadas por una entidad en una casa embrujada?",
+    "respuestaCorrecta": "The Lighthouse",
+    "opcionFalsa_1": "The Conjuring",
+    "opcionFalsa_2": "Insidious",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En qué película un grupo de personas es atrapado en un bosque y comienzan a morir misteriosamente?",
+    "respuestaCorrecta": "The Lighthouse",
+    "opcionFalsa_1": "The Blair Witch Project",
+    "opcionFalsa_2": "The Witch",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del demonio en 'El conjuro: El caso Warren'?",
+    "respuestaCorrecta": "No se nombra explícitamente",
+    "opcionFalsa_1": "Valak",
+    "opcionFalsa_2": "Bathsheba",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 1995 presenta a un grupo de personas que son atacadas por un payaso demoníaco en un circo?",
+    "respuestaCorrecta": "The Langoliers",
+    "opcionFalsa_1": "It",
+    "opcionFalsa_2": "The Funhouse",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del asesino en la película 'Viernes 13 (2009)'?",
+    "respuestaCorrecta": "Jason Voorhees",
+    "opcionFalsa_1": "Pamela Voorhees",
+    "opcionFalsa_2": "Roy Burns",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 2020 presenta a un grupo de personas que son atacadas por una entidad en una casa embrujada?",
+    "respuestaCorrecta": "The Invisible Man",
+    "opcionFalsa_1": "The Conjuring",
+    "opcionFalsa_2": "Insidious",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En qué película un grupo de personas es atrapado en un hospital psiquiátrico abandonado?",
+    "respuestaCorrecta": "The Ward",
+    "opcionFalsa_1": "Session 9",
+    "opcionFalsa_2": "Grave Encounters",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del demonio en 'La monja III'?",
+    "respuestaCorrecta": "Valak",
+    "opcionFalsa_1": "Asmodeo",
+    "opcionFalsa_2": "Baphomet",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 1987 presenta a un grupo de personas que son atacadas por un payaso demoníaco en un circo?",
+    "respuestaCorrecta": "Killer Klowns from Outer Space",
+    "opcionFalsa_1": "It",
+    "opcionFalsa_2": "The Funhouse",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del asesino en la película 'Pesadilla en Elm Street (2010)'?",
+    "respuestaCorrecta": "Freddy Krueger",
+    "opcionFalsa_1": "Jason Voorhees",
+    "opcionFalsa_2": "Michael Myers",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 2021 presenta a un grupo de personas que son atacadas por una entidad en una casa embrujada?",
+    "respuestaCorrecta": "The Conjuring: The Devil Made Me Do It",
+    "opcionFalsa_1": "The Nun",
+    "opcionFalsa_2": "Annabelle",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En qué película un grupo de personas es atrapado en un bosque y comienzan a morir misteriosamente?",
+    "respuestaCorrecta": "The Ritual",
+    "opcionFalsa_1": "The Blair Witch Project",
+    "opcionFalsa_2": "The Witch",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del demonio en 'El conjuro: El diablo me obligó a hacerlo'?",
+    "respuestaCorrecta": "El demonio que posee a Arne Johnson",
+    "opcionFalsa_1": "Valak",
+    "opcionFalsa_2": "Bathsheba",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 1996 presenta a un grupo de personas que son atacadas por un payaso demoníaco en un circo?",
+    "respuestaCorrecta": "The Langoliers",
+    "opcionFalsa_1": "It",
+    "opcionFalsa_2": "The Funhouse",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del asesino en la película 'Saw X'?",
+    "respuestaCorrecta": "Jigsaw (John Kramer)",
+    "opcionFalsa_1": "Amanda Young",
+    "opcionFalsa_2": "Mark Hoffman",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 2022 presenta a un grupo de personas que son atacadas por una entidad en una casa embrujada?",
+    "respuestaCorrecta": "Smile",
+    "opcionFalsa_1": "The Conjuring",
+    "opcionFalsa_2": "Insidious",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En qué película un grupo de personas es atrapado en un hospital psiquiátrico abandonado?",
+    "respuestaCorrecta": "The Ward",
+    "opcionFalsa_1": "Session 9",
+    "opcionFalsa_2": "Grave Encounters",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del demonio en 'La monja IV'?",
+    "respuestaCorrecta": "Valak",
+    "opcionFalsa_1": "Asmodeo",
+    "opcionFalsa_2": "Baphomet",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 1988 presenta a un grupo de personas que son atacadas por un payaso demoníaco en un circo?",
+    "respuestaCorrecta": "Killer Klowns from Outer Space",
+    "opcionFalsa_1": "It",
+    "opcionFalsa_2": "The Funhouse",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el nombre del asesino en la película 'Halloween: Resurrection'?",
+    "respuestaCorrecta": "Michael Myers",
+    "opcionFalsa_1": "Dr. Loomis",
+    "opcionFalsa_2": "Laurie Strode",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Qué película de terror de 2023 presenta a un grupo de personas que son atacadas por una entidad en una casa embrujada?",
+    "respuestaCorrecta": "The Nun II",
+    "opcionFalsa_1": "The Conjuring",
+    "opcionFalsa_2": "Insidious",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿En qué película un grupo de personas es atrapado en un bosque y comienzan a morir misteriosamente?",
+    "respuestaCorrecta": "The Ritual",
+    "opcionFalsa_1": "The Blair Witch Project",
+    "opcionFalsa_2": "The Witch",
+    "categoria": "Terror"
+  },
+  {
+    "textoPregunta": "¿Cuál es el ingrediente principal del guacamole?",
+    "respuestaCorrecta": "Aguacate",
+    "opcionFalsa_1": "Tomate",
+    "opcionFalsa_2": "Cebolla",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿Qué tipo de pasta tiene forma de lazo o mariposa?",
+    "respuestaCorrecta": "Farfalle",
+    "opcionFalsa_1": "Fusilli",
+    "opcionFalsa_2": "Penne",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿De qué país es originario el sushi?",
+    "respuestaCorrecta": "Japón",
+    "opcionFalsa_1": "China",
+    "opcionFalsa_2": "Tailandia",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿Cuál es el ingrediente principal del hummus?",
+    "respuestaCorrecta": "Garbanzos",
+    "opcionFalsa_1": "Lentejas",
+    "opcionFalsa_2": "Alubias",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿Qué especia es conocida como 'oro rojo'?",
+    "respuestaCorrecta": "Azafrán",
+    "opcionFalsa_1": "Cúrcuma",
+    "opcionFalsa_2": "Pimentón",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿De qué país es originaria la paella?",
+    "respuestaCorrecta": "España",
+    "opcionFalsa_1": "Italia",
+    "opcionFalsa_2": "México",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿Cuál es el ingrediente principal del pesto genovés?",
+    "respuestaCorrecta": "Albahaca",
+    "opcionFalsa_1": "Perejil",
+    "opcionFalsa_2": "Espinaca",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿De qué planta se obtiene el chocolate?",
+    "respuestaCorrecta": "Cacao",
+    "opcionFalsa_1": "Café",
+    "opcionFalsa_2": "Vainilla",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿Qué vitamina es abundante en las naranjas?",
+    "respuestaCorrecta": "Vitamina C",
+    "opcionFalsa_1": "Vitamina D",
+    "opcionFalsa_2": "Vitamina B12",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿De qué fruta se obtiene el vino?",
+    "respuestaCorrecta": "Uva",
+    "opcionFalsa_1": "Manzana",
+    "opcionFalsa_2": "Cereza",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿Cuál es el ingrediente base del tofu?",
+    "respuestaCorrecta": "Soja",
+    "opcionFalsa_1": "Trigo",
+    "opcionFalsa_2": "Maíz",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿Cómo se sirve tradicionalmente el gazpacho?",
+    "respuestaCorrecta": "Frío",
+    "opcionFalsa_1": "Caliente",
+    "opcionFalsa_2": "Tibio",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿Qué país es famoso por sus croissants?",
+    "respuestaCorrecta": "Francia",
+    "opcionFalsa_1": "Alemania",
+    "opcionFalsa_2": "Italia",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿Cuál es el ingrediente principal para hacer pan?",
+    "respuestaCorrecta": "Harina",
+    "opcionFalsa_1": "Azúcar",
+    "opcionFalsa_2": "Leche",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿Qué cereal es la base del risotto?",
+    "respuestaCorrecta": "Arroz",
+    "opcionFalsa_1": "Trigo",
+    "opcionFalsa_2": "Cebada",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿Cómo se llama el alga seca utilizada para envolver el sushi?",
+    "respuestaCorrecta": "Nori",
+    "opcionFalsa_1": "Kombu",
+    "opcionFalsa_2": "Wakame",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿De qué animal proviene la auténtica mozzarella di bufala?",
+    "respuestaCorrecta": "Búfala",
+    "opcionFalsa_1": "Vaca",
+    "opcionFalsa_2": "Cabra",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿Qué insecto produce la miel?",
+    "respuestaCorrecta": "Abeja",
+    "opcionFalsa_1": "Avispa",
+    "opcionFalsa_2": "Hormiga",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿Qué fruto seco se utiliza tradicionalmente en el pesto?",
+    "respuestaCorrecta": "Piñones",
+    "opcionFalsa_1": "Nueces",
+    "opcionFalsa_2": "Almendras",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿De qué país es originaria la salsa boloñesa?",
+    "respuestaCorrecta": "Italia",
+    "opcionFalsa_1": "Francia",
+    "opcionFalsa_2": "España",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿Qué ingrediente es esencial en la tortilla española además de los huevos?",
+    "respuestaCorrecta": "Patatas",
+    "opcionFalsa_1": "Chorizo",
+    "opcionFalsa_2": "Pimiento",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿Qué se utiliza para 'cocinar' el pescado en un ceviche?",
+    "respuestaCorrecta": "Jugo de cítricos",
+    "opcionFalsa_1": "Fuego",
+    "opcionFalsa_2": "Vapor",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿De qué país es originario el Ratatouille?",
+    "respuestaCorrecta": "Francia",
+    "opcionFalsa_1": "Italia",
+    "opcionFalsa_2": "España",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿Qué plato fermentado es tradicional de Corea?",
+    "respuestaCorrecta": "Kimchi",
+    "opcionFalsa_1": "Sushi",
+    "opcionFalsa_2": "Tempura",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿De qué país es el Pad Thai?",
+    "respuestaCorrecta": "Tailandia",
+    "opcionFalsa_1": "Vietnam",
+    "opcionFalsa_2": "China",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿Qué país es conocido por su gran variedad de currys?",
+    "respuestaCorrecta": "India",
+    "opcionFalsa_1": "Japón",
+    "opcionFalsa_2": "México",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿Cuál es el plato nacional de Brasil hecho con frijoles negros y carne?",
+    "respuestaCorrecta": "Feijoada",
+    "opcionFalsa_1": "Tacos",
+    "opcionFalsa_2": "Asado",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿De qué país es originaria la Poutine?",
+    "respuestaCorrecta": "Canadá",
+    "opcionFalsa_1": "Estados Unidos",
+    "opcionFalsa_2": "Francia",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿Qué plato de pescado frito y patatas es típico del Reino Unido?",
+    "respuestaCorrecta": "Fish and Chips",
+    "opcionFalsa_1": "Paella",
+    "opcionFalsa_2": "Ceviche",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿De qué país es originaria la pizza?",
+    "respuestaCorrecta": "Italia",
+    "opcionFalsa_1": "Estados Unidos",
+    "opcionFalsa_2": "Grecia",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿Qué país es famoso por los tacos?",
+    "respuestaCorrecta": "México",
+    "opcionFalsa_1": "España",
+    "opcionFalsa_2": "Argentina",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿Qué sándwich francés lleva jamón, queso y bechamel?",
+    "respuestaCorrecta": "Croque Monsieur",
+    "opcionFalsa_1": "Baguette",
+    "opcionFalsa_2": "Panini",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿De qué país es típica la Moussaka?",
+    "respuestaCorrecta": "Grecia",
+    "opcionFalsa_1": "Turquía",
+    "opcionFalsa_2": "Italia",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿Qué plato es un estofado de carne y verduras típico de Hungría?",
+    "respuestaCorrecta": "Goulash",
+    "opcionFalsa_1": "Borsch",
+    "opcionFalsa_2": "Sopa de cebolla",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿Qué tipo de pasta rellena es tradicional de Polonia?",
+    "respuestaCorrecta": "Pierogi",
+    "opcionFalsa_1": "Ravioli",
+    "opcionFalsa_2": "Dumplings",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿Qué salchicha es típica de Alemania?",
+    "respuestaCorrecta": "Bratwurst",
+    "opcionFalsa_1": "Chorizo",
+    "opcionFalsa_2": "Salami",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿Cuál es el plato nacional de Escocia hecho con vísceras de oveja?",
+    "respuestaCorrecta": "Haggis",
+    "opcionFalsa_1": "Shepherd's Pie",
+    "opcionFalsa_2": "Fish Pie",
+    "categoria": "Cocina"
+  },
+  {
+    "textoPregunta": "¿Qué postre italiano lleva bizcocho, café y mascarpone?",
+    "respuestaCorrecta": "Tiramisú",
+    "opcionFalsa_1": "Panna Cotta",
+    "opcionFalsa_2": "Cannoli",
+    "categoria": "Cocina"
   }
 ]

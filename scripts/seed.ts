@@ -17,7 +17,7 @@ import { resolve } from 'path';
 const serviceAccountPath = resolve(__dirname, 'service-account.json');
 try {
   const serviceAccount = JSON.parse(readFileSync(serviceAccountPath, 'utf8'));
-  
+
   admin.initializeApp({
     credential: admin.credential.cert(serviceAccount),
   });
@@ -34,7 +34,7 @@ const questions = JSON.parse(readFileSync(questionsPath, 'utf8'));
 
 async function seedDatabase() {
   const collectionRef = db.collection('PreguntasGlobales');
-  
+
   console.log(`Comenzando la carga de ${questions.length} preguntas...`);
 
   // Deshabilita la persistencia para este script

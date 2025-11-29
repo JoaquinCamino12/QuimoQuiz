@@ -11,19 +11,19 @@
     --popover: 190 60% 98%;
     --popover-foreground: 200 15% 25%;
     --primary: 197 77% 52%;
-    --primary-foreground: 210 40% 98%;
+    --primary-foreground: 200 15% 25%;
     --secondary: 190 50% 85%;
     --secondary-foreground: 200 15% 25%;
     --muted: 190 50% 88%;
     --muted-foreground: 190 20% 55%;
     --accent: 39 96% 48%;
     --accent-foreground: 0 0% 100%;
-    --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 0 0% 98%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 200 15% 25%;
     --border: 190 30% 80%;
     --input: 190 30% 85%;
     --ring: 197 77% 52%;
-    --chart-1: 197 77% 52%;
+    --chart-1: 130 70% 45%;
     --chart-2: 39 96% 48%;
     --chart-3: 197 37% 24%;
     --chart-4: 43 74% 66%;
@@ -46,12 +46,12 @@
     --muted-foreground: 210 20% 65%;
     --accent: 39 96% 48%;
     --accent-foreground: 0 0% 100%;
-    --destructive: 0 62.8% 30.6%;
+    --destructive: 0 70% 50%;
     --destructive-foreground: 0 0% 98%;
     --border: 210 20% 25%;
     --input: 210 20% 25%;
     --ring: 197 77% 52%;
-    --chart-1: 197 77% 52%;
+    --chart-1: 130 60% 55%;
     --chart-2: 39 96% 48%;
   }
 }
@@ -62,5 +62,17 @@
   }
   body {
     @apply bg-background text-foreground;
+  }
+  button, [role="button"] {
+    -webkit-tap-highlight-color: transparent;
+  }
+}
+
+@layer utilities {
+  .animation-delay-\[-0\.5s\] {
+    animation-delay: -0.5s;
+  }
+  .animate-spin-slow {
+    animation: spin 3s linear infinite;
   }
 }
